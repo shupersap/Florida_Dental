@@ -1,0 +1,1616 @@
+PWS ID,PWS Name,Status,County,Population Served,Fluoride Product,Fluoridated,Water Source
+FL-1030050,BAY COUNTY WATER SYSTEM,Adjusted,Bay (Primary),26466,H2SiF6,Yes,Unknown
+FL-1030141,"CALLAWAY, CITY OF WATER SYSTEM",Consecutive,Bay (Primary),13652,H2SiF6,Yes,Surface
+FL-1030148,"SPRINGFIELD, CITY OF WTR. SYS.",Consecutive,Bay (Primary),8485,H2SiF6,Yes,Surface
+FL-1030435,"LYNN HAVEN, CITY OF WATER SYS.",Consecutive,Bay (Primary),17029,H2SiF6,Yes,Ground
+FL-1030467,"MEXICO BEACH, CITY OF",Consecutive,Bay (Primary),4754,H2SiF6,Yes,Ground
+FL-1030515,"PANAMA CITY BEACH, CITY OF",Consecutive,Bay (Primary),55415,H2SiF6,Yes,Ground
+FL-1030517,PANAMA CITY WATER SYSTEM,Consecutive,Bay (Primary),33001,H2SiF6,Yes,Surface
+FL-1030520,"PARKER, CITY OF WATER SYSTEM",Consecutive,Bay (Primary),3860,H2SiF6,Yes,Surface
+FL-1030568,ST. ANDREWS CREEKSIDE PARK  LLC,Non-Adjusted,Bay (Primary),76,Natural                       ,No,Ground
+FL-1034054,DEERHAVEN MHP,Non-Adjusted,Bay (Primary),67,Natural                       ,No,Ground
+FL-1070014,"ALTHA, TOWN OF WATER SYSTEM",Non-Adjusted,Calhoun (Primary),715,Natural                       ,No,Ground
+FL-1070685,"BLOUNTSTOWN, CITY OF",Natural,Calhoun (Primary),3487,Natural                       ,Yes,Ground
+FL-1170085,BRATT-DAVISVILLE WATER SYSTEM,Non-Adjusted,Escambia (Primary),2526,Natural                       ,No,Ground
+FL-1170126,"CENTRAL WATER WORKS, INC.",Non-Adjusted,Escambia (Primary),2255,Natural                       ,No,Ground
+FL-1170168,COTTAGE HILL WATER WORKS,Non-Adjusted,Escambia (Primary),3477,Natural                       ,No,Ground
+FL-1170259,"FARM HILL UTILITIES, INC.",Consecutive,Escambia (Primary),6215,H2SiF6,Yes,Ground
+FL-1170302,"GONZALEZ UTILITIES ASSN.,INC.",Non-Adjusted,Escambia (Primary),5683,Natural                       ,No,Ground
+FL-1170475,"MOLINO UTILITIES, INC.",Non-Adjusted,Escambia (Primary),6926,Natural                       ,No,Ground
+FL-1170525,EMERALD COAST  UTILITIES  AUTHORITY,Adjusted,Escambia (Primary),228794,H2SiF6,Yes,Ground
+FL-1170527,PEOPLES WATER SERVICE COMPANY,Non-Adjusted,Escambia (Primary),21532,Natural                       ,No,Ground
+FL-1170613,"CENTURY, TOWN OF",Non-Adjusted,Escambia (Primary),3627,Natural                       ,No,Ground
+FL-1170703,UWF PHYSCIAL PLANT,Consecutive,Escambia (Primary),11879,H2SiF6,Yes,Ground
+FL-1170718,"WALNUT HILL WATER WORKS, INC.",Non-Adjusted,Escambia (Primary),3562,Natural                       ,No,Ground
+FL-1170814,CORRY FIELD-NAS,Natural,Escambia (Primary),20207,Natural                       ,Yes,Ground
+FL-1170899,SAUFLEY FIELD-NAS,Consecutive,Escambia (Primary),1545,H2SiF6,Yes,Unknown
+FL-1170908,INNERARITY ISLAND W/S,Consecutive,Escambia (Primary),782,H2SiF6,Yes,Ground
+FL-1190013,ALLIGATOR POINT WATER RESOURCE DIST.,Non-Adjusted,Franklin (Primary),600,Natural                       ,No,Ground
+FL-1190118,"CARRABELLE, CITY OF WATER SYS.",Non-Adjusted,Franklin (Primary),2349,Natural                       ,No,Ground
+FL-1190150,"APALACHICOLA, CITY OF",Natural,Franklin (Primary),4211,Natural                       ,Yes,Ground
+FL-1190236,EASTPOINT WATER & SEWER DIST.,Non-Adjusted,Franklin (Primary),2161,Natural                       ,No,Ground
+FL-1190414,LANARK VILLAGE (CITY OF CARRABELLE),Non-Adjusted,Franklin (Primary),1453,Natural                       ,No,Ground
+FL-1190789,WATER MANAGEMENT SERVICES INC.,Non-Adjusted,Franklin (Primary),4107,Natural                       ,No,Ground
+FL-1200134,"CHATTAHOOCHEE, CITY OF",Non-Adjusted,Gadsden (Primary),2481,Natural                       ,No,Ground
+FL-1200275,FLORIDA STATE HOSPITAL,Non-Adjusted,Gadsden (Primary),4024,Natural                       ,No,Ground
+FL-1200334,"HAVANA, TOWN OF WATER SYSTEM",Non-Adjusted,Gadsden (Primary),3556,Natural                       ,No,Ground
+FL-1200459,RENTZ'S MOBILE HOME PARK,Non-Adjusted,Gadsden (Primary),76,Natural                       ,No,Ground
+FL-1200551,"QUINCY, CITY OF W/S",Adjusted,Gadsden (Primary),9041,H2SiF6,Yes,Surface
+FL-1200687,"GREENSBORO, TOWN OF WATER SYS.",Non-Adjusted,Gadsden (Primary),710,Natural                       ,No,Ground
+FL-1200688,"GRETNA, CITY OF",Non-Adjusted,Gadsden (Primary),1413,Natural                       ,No,Ground
+FL-1200797,GADSDEN CO REGIONAL W/S,Non-Adjusted,Gadsden (Primary),11061,Natural                       ,No,Ground
+FL-1200885,JAMIESON WATER SYSTEM,Non-Adjusted,Gadsden (Primary),96,Natural                       ,No,Ground
+FL-1204029,ST. JAMES COMMUNITY,Non-Adjusted,Gadsden (Primary),88,Natural                       ,No,Ground
+FL-1204051,JOYLAND SUBDIVISION,Non-Adjusted,Gadsden (Primary),112,Natural                       ,No,Ground
+FL-1204063,HINSON HEIGHTS,Consecutive,Gadsden (Primary),156,Natural                       ,No,Ground
+FL-1204064,TOBACCO ROAD,Consecutive,Gadsden (Primary),122,Natural                       ,No,Ground
+FL-1204065,HAMMOCK CREEK,Non-Adjusted,Gadsden (Primary),36,Natural                       ,No,Ground
+FL-1204067,MEADOWS GROCERY,Non-Adjusted,Gadsden (Primary),49,Natural                       ,No,Ground
+FL-1204079,ROSEDALE WATER ASSOCIATION,Consecutive,Gadsden (Primary),331,Natural                       ,No,Ground
+FL-1230545,"PORT ST. JOE, CITY OF",Natural,Gulf (Primary),12371,Natural                       ,Yes,Ground
+FL-1230734,"WEWAHITCHKA, CITY OF",Natural,Gulf (Primary),2031,Natural                       ,Yes,Ground
+FL-1230848,LIGHTHOUSE UTILITIES,Natural,Gulf (Primary),3964,Natural                       ,Yes,Ground
+FL-1234011,GULF FORESTRY WORK CAMP,Natural,Gulf (Primary),313,Natural                       ,Yes,Ground
+FL-1234013,GULF CORRECTIONAL INSTITUTION,Natural,Gulf (Primary),1431,Natural                       ,Yes,Ground
+FL-1300083,"BONIFAY, CITY OF WATER DEPT.",Non-Adjusted,Holmes (Primary),3619,Natural                       ,No,Ground
+FL-1300214,JOYCE E. SNARE WATER WORKS,Non-Adjusted,Holmes (Primary),285,Natural                       ,No,Ground
+FL-1300247,"ESTO, TOWN OF",Non-Adjusted,Holmes (Primary),358,Natural                       ,No,Ground
+FL-1300498,"NOMA WATER WORKS, INC.",Non-Adjusted,Holmes (Primary),216,Natural                       ,No,Ground
+FL-1302006,TEEN CHALLENGE WEST FLORIDA,Non-Adjusted,Holmes (Primary),69,Natural                       ,No,Ground
+FL-1304033,"WESTVILLE, TOWN OF",Non-Adjusted,Holmes (Primary),266,Natural                       ,No,Ground
+FL-1304034,"PONCE DE LEON, TOWN OF",Non-Adjusted,Holmes (Primary),760,Natural                       ,No,Ground
+FL-1320011,TOWN OF ALFORD,Non-Adjusted,Jackson (Primary),447,Natural                       ,No,Ground
+FL-1320025,APALACHEE CORRECTIONAL INST.,Non-Adjusted,Jackson (Primary),2038,Natural                       ,No,Ground
+FL-1320111,CAMPBELLTON WATER DEPARTMENT,Non-Adjusted,Jackson (Primary),207,Natural                       ,No,Ground
+FL-1320143,COTTONDALE WATER SYSTEM,Non-Adjusted,Jackson (Primary),849,Natural                       ,No,Ground
+FL-1320145,"GRACEVILLE, CITY OF",Non-Adjusted,Jackson (Primary),3577,Natural                       ,No,Ground
+FL-1320311,GREENWOOD WATER SYSTEM,Non-Adjusted,Jackson (Primary),796,Natural                       ,No,Ground
+FL-1320440,"MALONE, TOWN OF WATER SYSTEM",Non-Adjusted,Jackson (Primary),505,Natural                       ,No,Ground
+FL-1320449,"MARIANNA, CITY OF",Non-Adjusted,Jackson (Primary),5456,Natural                       ,No,Ground
+FL-1320686,"GRAND RIDGE, TOWN OF",Non-Adjusted,Jackson (Primary),873,Natural                       ,No,Ground
+FL-1320689,"SNEADS, TOWN OF WATER SYSTEM",Non-Adjusted,Jackson (Primary),1717,Natural                       ,No,Ground
+FL-1320879,QUIET HAVEN TRAILER PARK,Non-Adjusted,Jackson (Primary),59,Natural                       ,No,Ground
+FL-1324031,"JACOB, CITY OF",Non-Adjusted,Jackson (Primary),266,Natural                       ,No,Ground
+FL-1324064,BLUE SPRINGS MHP (AKA SPRINGSIDE),Non-Adjusted,Jackson (Primary),45,Natural                       ,No,Ground
+FL-1324074,JACKSON CORRECTIONAL INSTITUTION,Non-Adjusted,Jackson (Primary),1817,Natural                       ,No,Ground
+FL-1324098,JACKSON CO. UTILITIES (PILOT),Non-Adjusted,Jackson (Primary),581,Natural                       ,No,Ground
+FL-1330374,CROSS LANDINGS HEALTH/REHAB,Non-Adjusted,Jefferson (Primary),71,Natural                       ,No,Ground
+FL-1330478,"MONTICELLO, CITY OF",Non-Adjusted,Jefferson (Primary),4025,Natural                       ,No,Ground
+FL-1330748,JEFFERSON COMMUNITIES WATER SYSTEM,Non-Adjusted,Jefferson (Primary),2034,Natural                       ,No,Ground
+FL-1330754,LAMONT,Non-Adjusted,Jefferson (Primary),216,Natural                       ,No,Ground
+FL-1370023,ANNAWOOD SUBDIVISION,Consecutive,Leon (Primary),103,H2SiF6,Yes,Ground
+FL-1370077,BLOUNT'S LANDING WATER SYSTEM,Non-Adjusted,Leon (Primary),260,Natural                       ,No,Ground
+FL-1370096,BURGESS CIRCLE SUBDIVISION,Non-Adjusted,Leon (Primary),63,Natural                       ,No,Ground
+FL-1370288,TWIN LAKES MOBILE HOME PARK,Non-Adjusted,Leon (Primary),156,Natural                       ,No,Ground
+FL-1370353,LEON CO. REGIONAL SYSTEM EAST,Non-Adjusted,Leon (Primary),1479,Natural                       ,No,Ground
+FL-1370393,BRADFORDVILLE REGIONAL W/S,Non-Adjusted,Leon (Primary),10437,Natural                       ,No,Ground
+FL-1370403,LAKE TALQUIN WATER COMPANY,Non-Adjusted,Leon (Primary),148,Natural                       ,No,Ground
+FL-1370419,EAGLE'S NEST MHP,Non-Adjusted,Leon (Primary),29,Natural                       ,No,Ground
+FL-1370461,MEADOW HILLS S/D WATER SYSTEM,Non-Adjusted,Leon (Primary),235,Natural                       ,No,Ground
+FL-1370463,MERIDIAN HILLS WATER SYSTEM,Non-Adjusted,Leon (Primary),209,Natural                       ,No,Ground
+FL-1370598,SEDGEFIELD SUBDIVISION,Non-Adjusted,Leon (Primary),235,Natural                       ,No,Ground
+FL-1370616,GRAND VILLAGE MHP WEST (MARCUS MEADOWS),Non-Adjusted,Leon (Primary),113,Natural                       ,No,Ground
+FL-1370617,LEON CO. REGIONAL SYSTEM SOUTH,Non-Adjusted,Leon (Primary),682,Natural                       ,No,Ground
+FL-1370640,STONEGATE SUBDIVISION,Non-Adjusted,Leon (Primary),63,Natural                       ,No,Ground
+FL-1370655,"TALLAHASSEE, CITY OF",Adjusted,Leon (Primary),173396,H2SiF6,Yes,Ground
+FL-1370669,MEADOWS-AT-WOODRUN,Non-Adjusted,Leon (Primary),3170,Natural                       ,No,Ground
+FL-1370745,LEON CO. REGIONAL SYSTEM WEST,Non-Adjusted,Leon (Primary),1812,Natural                       ,No,Ground
+FL-1370791,LAKE BRADFORD MOBILE HOME EST.,Non-Adjusted,Leon (Primary),149,Natural                       ,No,Ground
+FL-1370888,LAKE JACKSON AREA WATER SYSTEM,Consecutive,Leon (Primary),8766,H2SiF6,Yes,Ground
+FL-1370898,BREWSTER SUBDIVISION,Consecutive,Leon (Primary),325,H2SiF6,Yes,Ground
+FL-1374008,BUCK LAKE ESTATES WATER SYSTEM,Non-Adjusted,Leon (Primary),134,Natural                       ,No,Ground
+FL-1374049,NORTH LAKE MEADOW WATER SYSTEM,Non-Adjusted,Leon (Primary),179,Natural                       ,No,Ground
+FL-1374054,PLANTATION ESTATES,Non-Adjusted,Leon (Primary),330,Natural                       ,No,Ground
+FL-1374072,DOGWOOD MHP,Non-Adjusted,Leon (Primary),27,Natural                       ,No,Ground
+FL-1374104,GRAND VILLAGE MHP (MARCUS MEADOWS EAST),Non-Adjusted,Leon (Primary),25,Natural                       ,No,Ground
+FL-1390087,"BRISTOL, CITY OF WATER SYSTEM",Non-Adjusted,Liberty (Primary),1747,Natural                       ,No,Ground
+FL-1390651,SWEETWATER WATER SYSTEM,Non-Adjusted,Liberty (Primary),58,Natural                       ,No,Ground
+FL-1390901,"HOSFORD,TOWN OF WATER SYSTEM",Non-Adjusted,Liberty (Primary),1153,Natural                       ,No,Ground
+FL-1394001,LIBERTY CORRECTIONAL INSTITUTION,Non-Adjusted,Liberty (Primary),1444,Natural                       ,No,Ground
+FL-1394003,SUMATRA,Non-Adjusted,Liberty (Primary),146,Natural                       ,No,Ground
+FL-1394006,ESTIFFANULGA,Non-Adjusted,Liberty (Primary),251,Natural                       ,No,Ground
+FL-1394009,LAKE MYSTIC WATER SYSTEM,Non-Adjusted,Liberty (Primary),281,Natural                       ,No,Ground
+FL-1394012,ROCK BLUFF WATER SYSTEM,Non-Adjusted,Liberty (Primary),148,Natural                       ,No,Ground
+FL-1460035,AUBURN WATER SYSTEM,Non-Adjusted,Okaloosa (Primary),22661,Natural                       ,No,Ground
+FL-1460043,"BAKER WATER SYSTEM, INC.",Non-Adjusted,Okaloosa (Primary),2255,Natural                       ,No,Ground
+FL-1460144,"FORT WALTON BEACH, CITY OF",Natural,Okaloosa (Primary),21560,Natural                       ,Yes,Ground
+FL-1460147,"NICEVILLE, CITY OF",Adjusted,Okaloosa (Primary),18162,H2SiF6,Yes,Ground
+FL-1460149,"VALPARAISO, CITY OF",Non-Adjusted,Okaloosa (Primary),4044,Natural                       ,No,Ground
+FL-1460182,"CRESTVIEW, CITY OF WATER DEPT.",Non-Adjusted,Okaloosa (Primary),28888,Natural                       ,No,Ground
+FL-1460202,"DESTIN WATER USERS, INC.",Natural,Okaloosa (Primary),27233,Natural                       ,Yes,Ground
+FL-1460352,"HOLT WATER WORKS, INC.",Non-Adjusted,Okaloosa (Primary),2720,Natural                       ,No,Ground
+FL-1460416,"LAUREL HILL, CITY OF",Non-Adjusted,Okaloosa (Primary),1896,Natural                       ,No,Ground
+FL-1460455,"MARY ESTHER, TOWN OF",Natural,Okaloosa (Primary),3532,Natural                       ,Yes,Ground
+FL-1460472,"MILLIGAN WATER SYSTEM, INC.",Non-Adjusted,Okaloosa (Primary),2191,Natural                       ,No,Ground
+FL-1460506,OKALOOSA CO.WTR.& SWR.SYSTEM,Natural,Okaloosa (Primary),68137,Natural                       ,Yes,Ground
+FL-1460775,BLUEWATER BAY-RAINTREE DEVLPM.,Non-Adjusted,Okaloosa (Primary),12303,Natural                       ,No,Ground
+FL-1460782,HURLBURT FIELD AFB WATER SYS.,Natural,Okaloosa (Primary),9485,Natural                       ,Yes,Ground
+FL-1460826,EGLIN MAIN BASE,Natural,Okaloosa (Primary),3728,Natural                       ,Yes,Ground
+FL-1460828,EGLIN HOUSING,Natural,Okaloosa (Primary),3129,Natural                       ,Yes,Ground
+FL-1460830,EGLIN AUX. 6,Non-Adjusted,Okaloosa (Primary),112,Natural                       ,No,Ground
+FL-1464034,OKALOOSA CORRECTIONAL INST.,Non-Adjusted,Okaloosa (Primary),1609,Natural                       ,No,Ground
+FL-1464044,MID OKALOOSA CO. WATER SYSTEM,Non-Adjusted,Okaloosa (Primary),6527,Natural                       ,No,Ground
+FL-1464067,EGLIN 7TH SPECIAL FORCES GROUP,Non-Adjusted,Okaloosa (Primary),1341,Natural                       ,No,Ground
+FL-1464068,BLACKMAN COMMUNITY,Non-Adjusted,Okaloosa (Primary),870,Natural                       ,No,Ground
+FL-1570042,BAGDAD-GARCON POINT WATER SYSTEM,Non-Adjusted,Santa Rosa (Primary),7354,Natural                       ,No,Ground
+FL-1570064,BERRYDALE WATER SYSTEM,Non-Adjusted,Santa Rosa (Primary),2845,Natural                       ,No,Ground
+FL-1570140,"CHUMUCKLA WATER SYSTEM, INC.",Non-Adjusted,Santa Rosa (Primary),3483,Natural                       ,No,Ground
+FL-1570146,"MILTON, CITY OF WATER SYSTEM",Non-Adjusted,Santa Rosa (Primary),18992,Natural                       ,No,Ground
+FL-1570232,EAST MILTON WATER SYSTEM,Non-Adjusted,Santa Rosa (Primary),10799,Natural                       ,No,Ground
+FL-1570316,GULF BREEZE WATER DEPARTMENT,Consecutive,Santa Rosa (Primary),5309,Natural                       ,Yes,Ground
+FL-1570349,HOLLEY-NAVARRE WATER SYSTEM,Natural,Santa Rosa (Primary),37166,Natural                       ,Yes,Ground
+FL-1570384,"JAY, CITY OF UTILITIES DEPT.",Non-Adjusted,Santa Rosa (Primary),1640,Natural                       ,No,Ground
+FL-1570470,"MIDWAY WATER SYSTEM, INC.",Natural,Santa Rosa (Primary),15035,Natural                       ,Yes,Ground
+FL-1570479,MOORE CREEK-MT. CARMEL UTIL.,Non-Adjusted,Santa Rosa (Primary),3822,Natural                       ,No,Ground
+FL-1570489,N.A.S. WHITING FIELD (USN),Natural,Santa Rosa (Primary),2755,Natural                       ,Yes,Ground
+FL-1570540,"POINT BAKER WATER SYSTEM, INC.",Non-Adjusted,Santa Rosa (Primary),8141,Natural                       ,No,Ground
+FL-1570593,SOUTH SANTA ROSA UTILITIES,Consecutive,Santa Rosa (Primary),9676,Natural                       ,Yes,Ground
+FL-1570671,"PACE WATER SYSTEM, INC.",Non-Adjusted,Santa Rosa (Primary),36749,Natural                       ,No,Ground
+FL-1570874,NAVARRE BEACH WATER SYSTEM,Natural,Santa Rosa (Primary),5047,Natural                       ,Yes,Ground
+FL-1650514,PANACEA AREA WATER SYSTEM,Non-Adjusted,Wakulla (Primary),2482,Natural                       ,No,Ground
+FL-1650612,"SOPCHOPPY, CITY OF",Non-Adjusted,Wakulla (Primary),7648,Natural                       ,No,Ground
+FL-1650630,"ST. MARKS, CITY OF WATER SYS.",Consecutive,Wakulla (Primary),575,H2SiF6,Yes,Ground
+FL-1650778,MYSTERIOUS WATERS SUBDIVISION,Non-Adjusted,Wakulla (Primary),174,Natural                       ,No,Ground
+FL-1650785,WAKULLA REGIONAL-(AKA GULF COAST),Non-Adjusted,Wakulla (Primary),5876,Natural                       ,No,Ground
+FL-1650791,WINCO UTILITIES W/S,Non-Adjusted,Wakulla (Primary),3170,Natural                       ,No,Ground
+FL-1650792,WAKULLA WATER SYSTEM,Non-Adjusted,Wakulla (Primary),309,Natural                       ,No,Ground
+FL-1660028,"ARGYLE WATER SYSTEM, INC.",Non-Adjusted,Walton (Primary),1014,Natural                       ,No,Ground
+FL-1660196,"DEFUNIAK SPRINGS, CITY OF W/S",Non-Adjusted,Walton (Primary),10947,Natural                       ,No,Ground
+FL-1660290,"FREEPORT, CITY OF",Non-Adjusted,Walton (Primary),8550,Natural                       ,No,Ground
+FL-1660370,"INLET BEACH WATER SYSTEM, INC.",Consecutive,Walton (Primary),2338,Natural                       ,No,Ground
+FL-1660407,LAKE SHARON ESTATES,Non-Adjusted,Walton (Primary),156,Natural                       ,No,Ground
+FL-1660524,"PAXTON, TOWN OF",Non-Adjusted,Walton (Primary),1981,Natural                       ,No,Ground
+FL-1660596,REGIONAL UTILITIES WATER SYSTEM,Consecutive,Walton (Primary),40149,Natural                       ,No,Ground
+FL-1660615,SOUTH WALTON UTILITY COMPANY,Non-Adjusted,Walton (Primary),21195,Natural                       ,No,Ground
+FL-1660803,"MOSSY HEAD, TOWN OF",Non-Adjusted,Walton (Primary),3139,Natural                       ,No,Ground
+FL-1664019,NORTHBAY WATER SYSTEM,Non-Adjusted,Walton (Primary),2851,Natural                       ,No,Ground
+FL-1670119,"CARYVILLE, TOWN OF",Non-Adjusted,Washington (Primary),392,Natural                       ,No,Ground
+FL-1670135,"CHIPLEY, CITY OF",Non-Adjusted,Washington (Primary),3474,Natural                       ,No,Ground
+FL-1670647,SUNNY HILLS UTILITIES,Non-Adjusted,Washington (Primary),1486,Natural                       ,No,Ground
+FL-1670710,"VERNON, CITY OF",Non-Adjusted,Washington (Primary),671,Natural                       ,No,Ground
+FL-1670721,"WAUSAU, TOWN OF",Non-Adjusted,Washington (Primary),492,Natural                       ,No,Ground
+FL-1670733,NORTHWEST FLORIDA RECEPTION CENTER,Non-Adjusted,Washington (Primary),2414,Natural                       ,No,Ground
+FL-2010017,ALACHUA WTP,Adjusted,Alachua (Primary),7350,NaF,Yes,Ground
+FL-2010041,ARREDONDO ESTATES,Non-Adjusted,Alachua (Primary),660,Natural                       ,No,Ground
+FL-2010042,ARREDONDO FARMS,Non-Adjusted,Alachua (Primary),976,Natural                       ,No,Ground
+FL-2010199,ARCHER W.T.P.,Non-Adjusted,Alachua (Primary),1288,Natural                       ,No,Ground
+FL-2010201,HIGH SPRINGS WTP,Non-Adjusted,Alachua (Primary),5181,Natural                       ,No,Ground
+FL-2010207,NEWBERRY WTP,Non-Adjusted,Alachua (Primary),3474,Natural                       ,No,Ground
+FL-2010212,WALDO WTP,Non-Adjusted,Alachua (Primary),932,Natural                       ,No,Ground
+FL-2010477,HAWTHORNE WTP,Non-Adjusted,Alachua (Primary),2034,Natural                       ,No,Ground
+FL-2010612,KINCAID HILLS WATER SYSTEM,Non-Adjusted,Alachua (Primary),715,Natural                       ,No,Ground
+FL-2010625,LAKE ALTO ESTATES WATER SYSTEM,Non-Adjusted,Alachua (Primary),291,Natural                       ,No,Ground
+FL-2010749,MICANOPY WTP,Non-Adjusted,Alachua (Primary),541,Natural                       ,No,Ground
+FL-2010946,GRU - MURPHEE WTP,Adjusted,Alachua (Primary),170421,H2SiF6,Yes,Ground
+FL-2011006,SANTA FE HILLS SUBDIVISION,Non-Adjusted,Alachua (Primary),179,Natural                       ,No,Ground
+FL-2011251,WESTGATE MANOR MHP,Non-Adjusted,Alachua (Primary),268,Natural                       ,No,Ground
+FL-2014196,CROSS CREEK MHP,Non-Adjusted,Alachua (Primary),139,Natural                       ,No,Ground
+FL-2020204,MACCLENNY WTP,Natural,Baker (Primary),5714,Natural                       ,Yes,Ground
+FL-2020815,NORTHEAST FLORIDA STATE HOSPITAL,Non-Adjusted,Baker (Primary),1609,Natural                       ,No,Ground
+FL-2021356,BAKER CO. C. I.,Non-Adjusted,Baker (Primary),1341,Natural                       ,No,Ground
+FL-2024893,MCCORMICK'S TRAILER PARK,Non-Adjusted,Baker (Primary),22,Natural                       ,No,Ground
+FL-2024902,GLEN ST. MARY WATER SYSTEM,Non-Adjusted,Baker (Primary),383,Natural                       ,No,Ground
+FL-2040113,BROOKER WATER DEPARTMENT,Non-Adjusted,Bradford (Primary),626,Natural                       ,No,Ground
+FL-2040211,"STARKE, CITY OF",Adjusted,Bradford (Primary),6058,H2SiF6,Yes,Ground
+FL-2040372,FLORIDA STATE PRISON,Non-Adjusted,Bradford (Primary),6706,Natural                       ,No,Ground
+FL-2040456,HAMPTON WATER SYSTEM,Non-Adjusted,Bradford (Primary),444,Natural                       ,No,Ground
+FL-2040648,CITY OF LAWTEY,Natural,Bradford (Primary),1654,Natural                       ,Yes,Ground
+FL-2040843,OLIN'S MOBILE HOME PARK,Non-Adjusted,Bradford (Primary),36,Natural                       ,No,Ground
+FL-2041320,GENEVA LAKE ESTATES,Non-Adjusted,Bradford (Primary),457,Natural                       ,No,Ground
+FL-2100150,CAMP BLANDING JOINT TRAINING CENTER,Non-Adjusted,Clay (Primary),805,Natural                       ,No,Ground
+FL-2100437,GREEN COVE SPRINGS WS,Non-Adjusted,Clay (Primary),6177,Natural                       ,No,Ground
+FL-2100610,KEYSTONE HEIGHTS WTP,Non-Adjusted,Clay (Primary),5593,Natural                       ,No,Ground
+FL-2100626,LAKE ASBURY WATER SYSTEM,Non-Adjusted,Clay (Primary),9204,Natural                       ,No,Ground
+FL-2100636,LAKE GENEVA MHP,Non-Adjusted,Clay (Primary),85,Natural                       ,No,Ground
+FL-2100709,ST JOHNS LANDING,Non-Adjusted,Clay (Primary),1048,Natural                       ,No,Ground
+FL-2100741,ORANGE PARK GRID,Non-Adjusted,Clay (Primary),106126,Natural                       ,No,Ground
+FL-2100882,PENNEY RETIREMENT COMMUNITY,Non-Adjusted,Clay (Primary),402,Natural                       ,No,Ground
+FL-2101019,PENNEY FARMS WTP,Non-Adjusted,Clay (Primary),434,Natural                       ,No,Ground
+FL-2101182,ORANGE PARK WATER PLANT,Non-Adjusted,Clay (Primary),7716,Natural                       ,No,Ground
+FL-2104332,RAVINES WTP,Non-Adjusted,Clay (Primary),2998,Natural                       ,No,Ground
+FL-2104345,MIDDLEBURG BLUFF APARTMENTS,Non-Adjusted,Clay (Primary),85,Natural                       ,No,Ground
+FL-2104351,PIER STATION WTP,Non-Adjusted,Clay (Primary),173,Natural                       ,No,Ground
+FL-2104391,PACE/FLEMING GRID,Non-Adjusted,Clay (Primary),34430,Natural                       ,No,Ground
+FL-2104448,PETER'S CREEK WTP,Non-Adjusted,Clay (Primary),207,Natural                       ,No,Ground
+FL-2120043,CANNON CREEK MHP,Non-Adjusted,Columbia (Primary),72,Natural                       ,No,Ground
+FL-2120047,AZALEA PARK SUBDIVISON,Non-Adjusted,Columbia (Primary),275,Natural                       ,No,Ground
+FL-2120224,COLLEGE MANOR,Non-Adjusted,Columbia (Primary),116,Natural                       ,No,Ground
+FL-2120630,LAKE CITY WTP,Non-Adjusted,Columbia (Primary),15893,Natural                       ,No,Ground
+FL-2120921,QUAIL HEIGHTS COUNTRY CLUB,Non-Adjusted,Columbia (Primary),102,Natural                       ,No,Ground
+FL-2121023,SHADY OAKS SUBDIVISION,Non-Adjusted,Columbia (Primary),284,Natural                       ,No,Ground
+FL-2121366,SUWANNEE VALLEY ESTATES,Non-Adjusted,Columbia (Primary),56,Natural                       ,No,Ground
+FL-2124284,WOODGATE VILLAGE,Non-Adjusted,Columbia (Primary),311,Natural                       ,No,Ground
+FL-2124285,COOL BREEZE MHP,Non-Adjusted,Columbia (Primary),65,Natural                       ,No,Ground
+FL-2124287,COUNTRY DALE ESTATES,Non-Adjusted,Columbia (Primary),63,Natural                       ,No,Ground
+FL-2124295,242 VILLAGE SUBDIVISION,Non-Adjusted,Columbia (Primary),144,Natural                       ,No,Ground
+FL-2124372,BRANDON-BRENT WTP,Non-Adjusted,Columbia (Primary),241,Natural                       ,No,Ground
+FL-2124375,VERNDALE APARTMENTS,Non-Adjusted,Columbia (Primary),335,Natural                       ,No,Ground
+FL-2124399,"FORT WHITE, TOWN OF",Non-Adjusted,Columbia (Primary),671,Natural                       ,No,Ground
+FL-2124409,LANCE WATER,Non-Adjusted,Columbia (Primary),67,Natural                       ,No,Ground
+FL-2124413,Columbia County Water System,Non-Adjusted,Columbia (Primary),67,Natural                       ,No,Ground
+FL-2150243,CROSS CITY WTP,Non-Adjusted,Dixie (Primary),2548,Natural                       ,No,Ground
+FL-2150512,HORSESHOE BEACH WTP,Non-Adjusted,Dixie (Primary),268,Natural                       ,No,Ground
+FL-2151026,SHADY OAKS RV AND MHP,Non-Adjusted,Dixie (Primary),67,Natural                       ,No,Ground
+FL-2151140,SUWANNEE WATER & SEWER DIST.,Non-Adjusted,Dixie (Primary),1869,Natural                       ,No,Ground
+FL-2160053,BALDWIN WATER SYSTEM,Non-Adjusted,Duval (Primary),1600,Natural                       ,No,Ground
+FL-2160110,SUNNY OAKS SOUTH,Non-Adjusted,Duval (Primary),72,Natural                       ,No,Ground
+FL-2160200,ATLANTIC BEACH WATER SYSTEM,Natural,Duval (Primary),21015,Natural                       ,Yes,Ground
+FL-2160206,NEPTUNE BEACH,Natural,Duval (Primary),6500,Natural                       ,Yes,Ground
+FL-2160254,DANIEL MEMORIAL HOME,Non-Adjusted,Duval (Primary),54,Natural                       ,No,Ground
+FL-2160390,CRYSTAL SPRINGS ESTATES MHP,Non-Adjusted,Duval (Primary),313,Natural                       ,No,Ground
+FL-2160563,JACKSONVILLE BEACH WTP,Natural,Duval (Primary),20814,Natural                       ,Yes,Ground
+FL-2160568,JACKSONVILLE UNIVERSITY,Non-Adjusted,Duval (Primary),3112,Natural                       ,No,Ground
+FL-2160601,YUKON INDUSTRIES LTD.,Non-Adjusted,Duval (Primary),38,Natural                       ,No,Ground
+FL-2160654,STUDY ESTATES MHP,Non-Adjusted,Duval (Primary),54,Natural                       ,No,Ground
+FL-2160734,N.A.S. MAYPORT (MAINSIDE),Natural,Duval (Primary),18330,Natural                       ,Yes,Ground
+FL-2160735,JEA: MAYPORT WTP,Natural,Duval (Primary),224,Natural                       ,Yes,Ground
+FL-2160811,NORMANDY VILLAGE UTILITY CO.,Natural,Duval (Primary),3016,Natural                       ,Yes,Ground
+FL-2160824,"OCEANWAY OAKS, LLC",Non-Adjusted,Duval (Primary),67,Natural                       ,No,Ground
+FL-2161043,SILVER DOLPHIN,Non-Adjusted,Duval (Primary),22,Natural                       ,No,Ground
+FL-2161212,N.A.S. JACKSONVILLE,Consecutive,Duval (Primary),19671,Natural                       ,Yes,Unknown
+FL-2161276,OAKS OF ATLANTIC BEACH,Natural,Duval (Primary),511,Natural                       ,Yes,Ground
+FL-2161328,JEA: MAJOR GRID,Natural,Duval (Primary),661509,Natural                       ,Yes,Ground
+FL-2161333,BLAIR ROAD APTS,Non-Adjusted,Duval (Primary),54,Natural                       ,No,Ground
+FL-2161337,BARCELONA APARTMENTS,Non-Adjusted,Duval (Primary),50,Natural                       ,No,Ground
+FL-2164003,N.A.S. YELLOW WATER HOUSING,Non-Adjusted,Duval (Primary),894,Natural                       ,No,Unknown
+FL-2164279,NEIGHBORHOOD UTILITIES (TIMBER CREEK WTP),Consecutive,Duval (Primary),908,Natural                       ,Yes,Ground
+FL-2164400,BELLE OAKS WTP,Non-Adjusted,Duval (Primary),54,Natural                       ,No,Ground
+FL-2164401,DINSMORE  CORRECTIONAL,Natural,Duval (Primary),134,Natural                       ,Yes,Ground
+FL-2164494,BAILEY'S MHP (NORTH),Non-Adjusted,Duval (Primary),67,Natural                       ,No,Ground
+FL-2180002,BEVERLY BEACH WATER SYSTEM,Consecutive,Flagler (Primary),1263,Natural                       ,No,Ground
+FL-2180132,BULOW VILLAGE,Non-Adjusted,Flagler (Primary),895,Natural                       ,No,Ground
+FL-2180134,BUNNELL WATER PLANT,Non-Adjusted,Flagler (Primary),2368,Natural                       ,No,Ground
+FL-2180349,FLAGLER BEACH WTP,Non-Adjusted,Flagler (Primary),4344,Natural                       ,No,Ground
+FL-2180863,PALM COAST UTILITY,Non-Adjusted,Flagler (Primary),71821,Natural                       ,No,Ground
+FL-2181288,HOLIDAY TRAVEL PARK,Non-Adjusted,Flagler (Primary),73,Natural                       ,No,Ground
+FL-2184251,PLANTATION BAY WTP,Non-Adjusted,Flagler (Primary),3129,Natural                       ,No,Ground
+FL-2184259,DUNES COMMUNITY DEVELOPMENT DISTRICT,Consecutive,Flagler (Primary),4109,Natural                       ,No,Ground
+FL-2184278,DAYTONA NORTH WATER SYSTEM,Non-Adjusted,Flagler (Primary),89,Natural                       ,No,Ground
+FL-2210647,LANCASTER CORRECTIONAL INSTITU,Non-Adjusted,Gilchrist (Primary),1051,Natural                       ,No,Ground
+FL-2211188,TRENTON WATER DEPT.,Non-Adjusted,Gilchrist (Primary),1252,Natural                       ,No,Ground
+FL-2240570,JASPER WTP,Non-Adjusted,Hamilton (Primary),3774,Natural                       ,No,Ground
+FL-2240579,JENNINGS WTP,Non-Adjusted,Hamilton (Primary),799,Natural                       ,No,Ground
+FL-2241264,WHITE SPRINGS WTP,Non-Adjusted,Hamilton (Primary),732,Natural                       ,No,Ground
+FL-2331185,JEFFERSON CORRECTIONAL INST.,Non-Adjusted,Jefferson (Primary),1162,Natural                       ,No,Ground
+FL-2341181,MAYO WATER DEPART.,Non-Adjusted,Lafayette (Primary),715,Natural                       ,No,Ground
+FL-2341182,MAYO CORRECTIONAL INSTITUTION,Non-Adjusted,Lafayette (Primary),1341,Natural                       ,No,Ground
+FL-2380178,CEDAR KEY WTP,Non-Adjusted,Levy (Primary),629,Natural                       ,No,Ground
+FL-2380188,MANATEE UTILITIES,Non-Adjusted,Levy (Primary),259,Natural                       ,No,Ground
+FL-2380189,CHIEFLAND WTP,Non-Adjusted,Levy (Primary),1816,Natural                       ,No,Ground
+FL-2380387,FOWLERS BLUFF WTP,Non-Adjusted,Levy (Primary),268,Natural                       ,No,Ground
+FL-2380854,OTTER CREEK WTP,Non-Adjusted,Levy (Primary),121,Natural                       ,No,Ground
+FL-2381178,BRONSON WTP,Non-Adjusted,Levy (Primary),1006,Natural                       ,No,Ground
+FL-2381208,UNIVERSITY OAKS MHP,Non-Adjusted,Levy (Primary),330,Natural                       ,No,Ground
+FL-2381409,FIMC HIDEAWAY INC,Non-Adjusted,Levy (Primary),246,Natural                       ,No,Ground
+FL-2381411,FANNING SPRINGS WS,Non-Adjusted,Levy (Primary),769,Natural                       ,No,Ground
+FL-2400185,CHERRY LAKE WTP,Non-Adjusted,Madison (Primary),671,Natural                       ,No,Ground
+FL-2400205,MADISON WATER DEPART.,Adjusted,Madison (Primary),6572,H2SiF6,Yes,Ground
+FL-2400440,GREENVILLE WTP,Non-Adjusted,Madison (Primary),715,Natural                       ,No,Ground
+FL-2401296,"LEE , TOWN OF",Consecutive,Madison (Primary),346,H2SiF6,Yes,Ground
+FL-2401312,FUMCH-MADISON YOUTH RANCH,Non-Adjusted,Madison (Primary),27,Natural                       ,No,Ground
+FL-2450022,NASSAU - AMELIA UTILITIES,Natural,Nassau (Primary),8530,Natural                       ,Yes,Ground
+FL-2450146,CALLAHAN WATER TREATMENT PLANT,Non-Adjusted,Nassau (Primary),1419,Natural                       ,No,Ground
+FL-2450364,CITY OF FERNANDINA BCH UTILITIES,Natural,Nassau (Primary),14306,Natural                       ,Yes,Ground
+FL-2450431,GOODBREAD MOBILE HOME PARK,Non-Adjusted,Nassau (Primary),54,Natural                       ,No,Ground
+FL-2451002,SANDPIPER MHP,Non-Adjusted,Nassau (Primary),27,Natural                       ,No,Ground
+FL-2451147,TEAKWOOD MOBILE HOME PARK,Non-Adjusted,Nassau (Primary),72,Natural                       ,No,Ground
+FL-2451179,HILLIARD WTP,Non-Adjusted,Nassau (Primary),2682,Natural                       ,No,Ground
+FL-2451322,MARSH COVE APTS.,Non-Adjusted,Nassau (Primary),371,Natural                       ,No,Ground
+FL-2451323,NASSAU ACRES MHP,Non-Adjusted,Nassau (Primary),46,Natural                       ,No,Ground
+FL-2454138,DAYSPRING VILLAGE,Non-Adjusted,Nassau (Primary),138,Natural                       ,No,Ground
+FL-2454282,YULEE VILLAS,Non-Adjusted,Nassau (Primary),153,Natural                       ,No,Ground
+FL-2454300,GREEN ACRES OF YULEE,Non-Adjusted,Nassau (Primary),150,Natural                       ,No,Ground
+FL-2454338,LOFTON OAKS WTP,Natural,Nassau (Primary),14711,Natural                       ,Yes,Ground
+FL-2454378,DAYSPRING SENIOR LIVING,Non-Adjusted,Nassau (Primary),57,Natural                       ,No,Ground
+FL-2540058,BASS CAPITAL MHP,Non-Adjusted,Putnam (Primary),89,Natural                       ,No,Ground
+FL-2540070,BEECHER'S POINT S/D,Consecutive,Putnam (Primary),169,Natural                       ,No,Ground
+FL-2540239,CRESCENT CITY WTP,Non-Adjusted,Putnam (Primary),1609,Natural                       ,No,Ground
+FL-2540482,HERMITS COVE WATER SYSTEM,Non-Adjusted,Putnam (Primary),499,Natural                       ,No,Ground
+FL-2540545,INTERLACHEN LAKE ESTATES,Non-Adjusted,Putnam (Primary),637,Natural                       ,No,Ground
+FL-2540631,LAKE COMO WATER ASSOCIATION,Non-Adjusted,Putnam (Primary),402,Natural                       ,No,Ground
+FL-2540865,PALM PORT SUBDIVISION,Non-Adjusted,Putnam (Primary),284,Natural                       ,No,Ground
+FL-2540905,POMONA PARK WATER SYSTEM,Non-Adjusted,Putnam (Primary),601,Natural                       ,No,Ground
+FL-2540911,PORT BUENA VISTA,Non-Adjusted,Putnam (Primary),121,Natural                       ,No,Ground
+FL-2540959,RIVERGROVE SUBDIVISON WTP,Non-Adjusted,Putnam (Primary),335,Natural                       ,No,Ground
+FL-2540964,RIVER PARK T/P,Non-Adjusted,Putnam (Primary),894,Natural                       ,No,Ground
+FL-2540974,RODEHEAVER BOYS RANCH,Non-Adjusted,Putnam (Primary),63,Natural                       ,No,Ground
+FL-2541008,SARATOGA HARBOR,Non-Adjusted,Putnam (Primary),134,Natural                       ,No,Ground
+FL-2541086,ST. JOHNS HARBOR,Non-Adjusted,Putnam (Primary),291,Natural                       ,No,Ground
+FL-2541087,SAINT JOHNS CAMPGROUND,Non-Adjusted,Putnam (Primary),72,Natural                       ,No,Ground
+FL-2541180,INTERLACHEN WTP,Non-Adjusted,Putnam (Primary),676,Natural                       ,No,Ground
+FL-2541200,RIVER VILLAS,Non-Adjusted,Putnam (Primary),85,Natural                       ,No,Ground
+FL-2541242,WELAKA MHP,Non-Adjusted,Putnam (Primary),284,Natural                       ,No,Ground
+FL-2541280,WOOTEN'S MHP,Non-Adjusted,Putnam (Primary),78,Natural                       ,No,Ground
+FL-2544255,MELROSE WTP,Non-Adjusted,Putnam (Primary),1162,Natural                       ,No,Ground
+FL-2544257,CRESCENT HILLS SD,Non-Adjusted,Putnam (Primary),79,Natural                       ,No,Ground
+FL-2544258,SILVER LAKE OAKS MHV,Non-Adjusted,Putnam (Primary),84,Natural                       ,No,Ground
+FL-2544260,R. C. WILLIS WTP (CITY OF PALATKA),Non-Adjusted,Putnam (Primary),10640,Natural                       ,No,Ground
+FL-2544265,MOUNT ROYAL S/D,Non-Adjusted,Putnam (Primary),77,Natural                       ,No,Ground
+FL-2544266,ST. JOHN'S RIVER CLUB UTILITIE,Non-Adjusted,Putnam (Primary),152,Natural                       ,No,Ground
+FL-2544278,HIDE-A-WAY ACRES,Non-Adjusted,Putnam (Primary),54,Natural                       ,No,Ground
+FL-2544295,JAN'S MODULAR ESTATES,Non-Adjusted,Putnam (Primary),100,Natural                       ,No,Ground
+FL-2544298,GRASSY LAKE WTP,Non-Adjusted,Putnam (Primary),215,Natural                       ,No,Ground
+FL-2544392,WELAKA WTP,Non-Adjusted,Putnam (Primary),2130,Natural                       ,No,Ground
+FL-2544434,WESTWOOD VILLAGE APARTMENTS,Non-Adjusted,Putnam (Primary),45,Natural                       ,No,Ground
+FL-2544444,EAST PUTNAM REGIONAL,Non-Adjusted,Putnam (Primary),1341,Natural                       ,No,Ground
+FL-2544488,KIRKWOOD ESTATES,Non-Adjusted,Putnam (Primary),40,Natural                       ,No,Ground
+FL-2550210,ST. AUGUSTINE WTP,Non-Adjusted,St. Johns (Primary),40656,Natural                       ,No,Ground
+FL-2550250,CYPRESS LANDING WTP,Non-Adjusted,St. Johns (Primary),34,Natural                       ,No,Ground
+FL-2550396,FRUIT COVE OAKS,Consecutive,St. Johns (Primary),414,Natural                       ,Yes,Ground
+FL-2550476,HASTINGS WTP,Natural,St. Johns (Primary),384,Natural                       ,Yes,Ground
+FL-2550812,NORTH BEACH UTILITIES,Natural,St. Johns (Primary),3205,Natural                       ,Yes,Ground
+FL-2550866,JEA: PALM VALLEY WS,Consecutive,St. Johns (Primary),747,Natural                       ,Yes,Ground
+FL-2550908,PONTE VEDRA GRID (JEA),Natural,St. Johns (Primary),4670,Natural                       ,Yes,Ground
+FL-2551004,ST. JOHNS COUNTY SAWGRASS GRID,Natural,St. Johns (Primary),10848,Natural                       ,Yes,Ground
+FL-2551120,BARTRAM OAKS MHP,Natural,St. Johns (Primary),134,Natural                       ,Yes,Ground
+FL-2551228,WAGON WHEEL MHP/JAMES SMITH,Non-Adjusted,St. Johns (Primary),45,Natural                       ,No,Ground
+FL-2551370,WILDWOOD WATER SYSTEM,Non-Adjusted,St. Johns (Primary),767,Natural                       ,No,Ground
+FL-2551459,SHAMROCK TRAILER & TRAVEL PARK,Non-Adjusted,St. Johns (Primary),98,Natural                       ,No,Ground
+FL-2554166,CAMACHEE COVE YACHT HARBOR,Non-Adjusted,St. Johns (Primary),274,Natural                       ,No,Ground
+FL-2554332,OAK HAVEN RETIREMENT VILLAGE,Non-Adjusted,St. Johns (Primary),36,Natural                       ,No,Ground
+FL-2554334,PONCE DE LEON GRID,Natural,St. Johns (Primary),2011,Natural                       ,Yes,Ground
+FL-2554337,HOMEOWNERS UTILITIES INC.,Natural,St. Johns (Primary),282,Natural                       ,Yes,Ground
+FL-2554343,ST. JOHNS SERVICE GRID,Natural,St. Johns (Primary),11577,Natural                       ,Yes,Ground
+FL-2554344,BAYSIDE ESTATES,Non-Adjusted,St. Johns (Primary),161,Natural                       ,No,Ground
+FL-2554346,OAKS OF WILDWOOD,Non-Adjusted,St. Johns (Primary),137,Natural                       ,No,Ground
+FL-2554353,EAGLE CREEK WS,Consecutive,St. Johns (Primary),586,Natural                       ,No,Ground
+FL-2554447,CR-214 MAINLAND,Non-Adjusted,St. Johns (Primary),46797,Natural                       ,No,Ground
+FL-2554471,NORTHWEST UTILITIES WTP,Non-Adjusted,St. Johns (Primary),18162,Natural                       ,No,Ground
+FL-2554475,NORTHEAST UTILITIES,Consecutive,St. Johns (Primary),6785,Natural                       ,Yes,Ground
+FL-2610012,ADVENT CHRISTIAN VILLAGE,Non-Adjusted,Suwannee (Primary),701,Natural                       ,No,Ground
+FL-2610109,BRANFORD WTP,Non-Adjusted,Suwannee (Primary),626,Natural                       ,No,Ground
+FL-2610203,LIVE OAK WTP,Adjusted,Suwannee (Primary),6125,H2SiF6,Yes,Ground
+FL-2610370,FLORIDA SHERIFF'S BOYS RANCH,Non-Adjusted,Suwannee (Primary),89,Natural                       ,No,Ground
+FL-2611239,WAYNE FRIER'S TRAILER PARK,Non-Adjusted,Suwannee (Primary),264,Natural                       ,No,Ground
+FL-2611246,WELLBORN WTP,Non-Adjusted,Suwannee (Primary),447,Natural                       ,No,Ground
+FL-2620208,PERRY WATER SYSTEM,Adjusted,Taylor (Primary),7958,H2SiF6,Yes,Ground
+FL-2621102,BIG BEND WATER AUTHORITY,Non-Adjusted,Taylor (Primary),2682,Natural                       ,No,Ground
+FL-2624165,TAYLOR BEACHES WTP,Non-Adjusted,Taylor (Primary),1162,Natural                       ,No,Ground
+FL-2630202,LAKE BUTLER WTP,Non-Adjusted,Union (Primary),1654,Natural                       ,No,Ground
+FL-2634222,NORTH FLORIDA RECEPTION CENTER,Non-Adjusted,Union (Primary),2682,Natural                       ,No,Ground
+FL-3050057,BAREFOOT BAY,Non-Adjusted,Brevard (Primary),8627,Natural                       ,No,Ground
+FL-3050108,BREEZEWAY TRAILER PARK,Non-Adjusted,Brevard (Primary),85,Natural                       ,No,Ground
+FL-3050131,CAMELOT RV PARK INC,Non-Adjusted,Brevard (Primary),89,Natural                       ,No,Ground
+FL-3050223,"COCOA, CITY OF",Adjusted,Brevard (Primary),262909,H2SiF6,Yes,Ground
+FL-3050341,ENCHANTED LAKE ESTATES,Non-Adjusted,Brevard (Primary),96,Natural                       ,No,Ground
+FL-3050442,CITY OF PALM BAY,Adjusted,Brevard (Primary),108333,H2SiF6,Yes,Ground
+FL-3050596,INDIAN RIVER SHORES MHP,Non-Adjusted,Brevard (Primary),49,Natural                       ,No,Ground
+FL-3050834,MIMS WATER TREATMENT/NORTH BREVARD CO.,Adjusted,Brevard (Primary),7115,H2SiF6,Yes,Ground
+FL-3050841,INTERCOASTAL ESTATES,Non-Adjusted,Brevard (Primary),246,Natural                       ,No,Ground
+FL-3050873,PINEWOOD VILLAGE MHP,Non-Adjusted,Brevard (Primary),224,Natural                       ,No,Ground
+FL-3050890,NORTHGATE MOBILE RANCH,Non-Adjusted,Brevard (Primary),224,Natural                       ,No,Ground
+FL-3050905,OAK PARK MOBILE HOME PARK,Non-Adjusted,Brevard (Primary),80,Natural                       ,No,Ground
+FL-3051086,PELICAN BAY,Non-Adjusted,Brevard (Primary),386,Natural                       ,No,Ground
+FL-3051311,SOUTH BREVARD WATER CO-OP,Non-Adjusted,Brevard (Primary),1374,Natural                       ,No,Ground
+FL-3051367,"TITUSVILLE, CITY OF",Adjusted,Brevard (Primary),45639,H2SiF6,Yes,Ground
+FL-3051447,"MELBOURNE, CITY OF",Adjusted,Brevard (Primary),148372,H2SiF6,Yes,Surface
+FL-3051460,WEST MELBOURNE WATER SYSTEM,Consecutive,Brevard (Primary),18106,H2SiF6,Yes,Surface
+FL-3054015,SOUTHERN COMFORT MHP,Non-Adjusted,Brevard (Primary),100,Natural                       ,No,Ground
+FL-3054017,SUMMIT COVE (STE.ADELE SOUTH),Non-Adjusted,Brevard (Primary),202,Natural                       ,No,Ground
+FL-3054057,RIVER GROVE MOBILE HOME VILLAGE,Non-Adjusted,Brevard (Primary),386,Natural                       ,No,Ground
+FL-3054058,LIGHTHOUSE COVE,Non-Adjusted,Brevard (Primary),185,Natural                       ,No,Ground
+FL-3054060,AQUARINA UTILITIES,Non-Adjusted,Brevard (Primary),671,Natural                       ,No,Ground
+FL-3054062,SOUTH SHORES UTILITY ASSOC,Non-Adjusted,Brevard (Primary),805,Natural                       ,No,Ground
+FL-3054100,OAKWOOD MANOR(CONSEC.TO MIMS),Consecutive,Brevard (Primary),427,H2SiF6,Yes,Ground
+FL-3054101,KINGSWOOD MANOR(CONSEC.TO MIMS,Consecutive,Brevard (Primary),125,H2SiF6,Yes,Ground
+FL-3054128,PATRICK AIR FORCE BASE,Consecutive,Brevard (Primary),6706,H2SiF6,Yes,Unknown
+FL-3054146,WINGATE RESERVE SUBDIVISION,Non-Adjusted,Brevard (Primary),48,Natural                       ,No,Ground
+FL-3054170,SAN SEBASTIAN WOODS,Non-Adjusted,Brevard (Primary),117,Natural                       ,No,Ground
+FL-3310206,"VERO BEACH, CITY OF",Adjusted,Indian River (Primary),33358,H2SiF6,Yes,Ground
+FL-3314052,INDIAN RIVER COUNTY UTILITIES  (2 WTPS),Adjusted,Indian River (Primary),109564,H2SiF6,Yes,Ground
+FL-3314280,"FELLSMERE, CITY OF",Adjusted,Indian River (Primary),3992,H2SiF6,Yes,Ground
+FL-3350005,FORTY-EIGHT ESTATES,Non-Adjusted,Lake (Primary),78,Natural                       ,No,Ground
+FL-3350044,ST. JOHN'S RIVER UTILITY INC,Non-Adjusted,Lake (Primary),2234,Natural                       ,No,Ground
+FL-3350062,CYPRESS COVE MPH,Non-Adjusted,Lake (Primary),54,Natural                       ,No,Ground
+FL-3350094,BLUE PARROT RV PARK,Non-Adjusted,Lake (Primary),89,Natural                       ,No,Ground
+FL-3350102,BONFIRE MOBILE HOME PARK,Non-Adjusted,Lake (Primary),241,Natural                       ,No,Ground
+FL-3350117,BRITTANY ESTATES,Non-Adjusted,Lake (Primary),342,Natural                       ,No,Ground
+FL-3350152,CARLTON VILLAGE,Non-Adjusted,Lake (Primary),424,Natural                       ,No,Ground
+FL-3350172,GRAND ISLAND RESORT MHP,Non-Adjusted,Lake (Primary),429,Natural                       ,No,Ground
+FL-3350191,LEISURE MEADOWS MH RANCH,Non-Adjusted,Lake (Primary),268,Natural                       ,No,Ground
+FL-3350215,"CLERMONT, CITY OF",Non-Adjusted,Lake (Primary),10397,Natural                       ,No,Ground
+FL-3350240,CORLEY ISLAND MOBILE MANOR,Non-Adjusted,Lake (Primary),224,Natural                       ,No,Ground
+FL-3350249,COUNTRY SQUIRE MOBILE HOME PK,Non-Adjusted,Lake (Primary),215,Natural                       ,No,Ground
+FL-3350319,EAGLE NEST MOBILE HOME ESTATES,Non-Adjusted,Lake (Primary),304,Natural                       ,No,Ground
+FL-3350322,EAST LAKE HARRIS ESTATES,Non-Adjusted,Lake (Primary),410,Natural                       ,No,Ground
+FL-3350346,"EUSTIS, CITY OF",Adjusted,Lake (Primary),31374,H2SiF6,Yes,Ground
+FL-3350370,FERN TERRACE SUBDIVISION,Non-Adjusted,Lake (Primary),253,Natural                       ,No,Ground
+FL-3350417,FORESTER HAVEN II,Non-Adjusted,Lake (Primary),34,Natural                       ,No,Ground
+FL-3350426,FRIENDLY CENTER SUBDIVISION,Non-Adjusted,Lake (Primary),72,Natural                       ,No,Ground
+FL-3350427,"FRUITLAND PARK, CITY OF",Non-Adjusted,Lake (Primary),4584,Natural                       ,No,Ground
+FL-3350474,GRIFFWOOD MOBILE HOME PARK,Non-Adjusted,Lake (Primary),264,Natural                       ,No,Ground
+FL-3350476,GROVELAND WATER DEPARTMENT,Non-Adjusted,Lake (Primary),11610,Natural                       ,No,Ground
+FL-3350481,HAINES CREEK MOBILE HOME S/D,Non-Adjusted,Lake (Primary),197,Natural                       ,No,Ground
+FL-3350495,HARBOR OAKS MOBILE HOME PARK,Non-Adjusted,Lake (Primary),376,Natural                       ,No,Ground
+FL-3350506,HASELTON VILLAGE,Non-Adjusted,Lake (Primary),447,Natural                       ,No,Ground
+FL-3350507,HAWTHORNE AT LEESBURG,Non-Adjusted,Lake (Primary),1684,Natural                       ,No,Ground
+FL-3350523,HICKORY HOLLOW ESTATES,Non-Adjusted,Lake (Primary),199,Natural                       ,No,Ground
+FL-3350536,HIGHLANDS MOBILE HOME PARK,Non-Adjusted,Lake (Primary),116,Natural                       ,No,Ground
+FL-3350544,HOBBY HILL SUBDIVISION,Non-Adjusted,Lake (Primary),237,Natural                       ,No,Ground
+FL-3350573,HOWEY IN THE HILLS,Non-Adjusted,Lake (Primary),1812,Natural                       ,No,Ground
+FL-3350584,IMPERIAL TERRACE WEST,Non-Adjusted,Lake (Primary),445,Natural                       ,No,Ground
+FL-3350655,KING'S COVE SUBDIVISION,Non-Adjusted,Lake (Primary),655,Natural                       ,No,Ground
+FL-3350679,LADY LAKE MOBILE HOME PARK,Non-Adjusted,Lake (Primary),241,Natural                       ,No,Ground
+FL-3350690,LAKE CORRECTIONAL INSTITUTION,Non-Adjusted,Lake (Primary),1341,Natural                       ,No,Ground
+FL-3350691,SUNSHINE PARKWAY SYSTEMS,Non-Adjusted,Lake (Primary),1294,Natural                       ,No,Ground
+FL-3350730,LAKEVIEW TERRACE RETIREMENT SERVICES,Non-Adjusted,Lake (Primary),290,Natural                       ,No,Ground
+FL-3350744,LAKESIDE VILLAGE I,Non-Adjusted,Lake (Primary),250,Natural                       ,No,Ground
+FL-3350745,"LEESBURG, CITY OF",Non-Adjusted,Lake (Primary),34772,Natural                       ,No,Ground
+FL-3350760,LITTLE LK HARRIS SHORES ASSOC,Non-Adjusted,Lake (Primary),304,Natural                       ,No,Ground
+FL-3350783,YOUTH WITH A MISSION (2WPS),Non-Adjusted,Lake (Primary),89,Natural                       ,No,Ground
+FL-3350812,MASCOTTE WATER DEPARTMENT-2WPS,Non-Adjusted,Lake (Primary),6607,Natural                       ,No,Ground
+FL-3350825,MID-FLORIDA LAKES YACHT CLUB,Non-Adjusted,Lake (Primary),2741,Natural                       ,No,Ground
+FL-3350836,MINNEOLA WATER DEPARTMENT,Non-Adjusted,Lake (Primary),12681,Natural                       ,No,Ground
+FL-3350842,MOLOKAI MOBILE COMMUNITY,Non-Adjusted,Lake (Primary),445,Natural                       ,No,Ground
+FL-3350846,MONTVERDE MOBILE HOME SD,Non-Adjusted,Lake (Primary),715,Natural                       ,No,Ground
+FL-3350847,MONTVERDE WATER DEPARTMENT,Non-Adjusted,Lake (Primary),1071,Natural                       ,No,Ground
+FL-3350851,MORGAN'S MHP & FISH CAMP,Non-Adjusted,Lake (Primary),27,Natural                       ,No,Ground
+FL-3350852,MORNINGVIEW SUBDIVISION,Non-Adjusted,Lake (Primary),110,Natural                       ,No,Ground
+FL-3350858,"MOUNT DORA, CITY OF",Non-Adjusted,Lake (Primary),30601,Natural                       ,No,Ground
+FL-3350900,OAK LANE TRAILER PARK,Non-Adjusted,Lake (Primary),97,Natural                       ,No,Ground
+FL-3350907,OAK SPRINGS MOBILE HOME PARK,Non-Adjusted,Lake (Primary),888,Natural                       ,No,Ground
+FL-3350942,VILLAGES OF LAKE-SUMTER,Non-Adjusted,Lake (Primary),16634,Natural                       ,No,Ground
+FL-3350977,LADY LAKE CENTRAL #1 & #2,Non-Adjusted,Lake (Primary),5765,Natural                       ,No,Ground
+FL-3350980,PALM GARDENS MOBILE HOME PARK,Non-Adjusted,Lake (Primary),67,Natural                       ,No,Ground
+FL-3350981,PALM MOBILE HOME ESTATES,Non-Adjusted,Lake (Primary),141,Natural                       ,No,Ground
+FL-3350984,PALM SHORES RV RESORT,Non-Adjusted,Lake (Primary),72,Natural                       ,No,Ground
+FL-3351009,PICCIOLA ISLAND SUBDIVISION,Non-Adjusted,Lake (Primary),334,Natural                       ,No,Ground
+FL-3351021,PINEY WOODS SUBDIVISION,Non-Adjusted,Lake (Primary),391,Natural                       ,No,Ground
+FL-3351062,RAVENSWOOD WATER SYSTEM,Non-Adjusted,Lake (Primary),144,Natural                       ,No,Ground
+FL-3351115,SANDPIPER MOBILE HOME MANOR,Non-Adjusted,Lake (Primary),241,Natural                       ,No,Ground
+FL-3351182,SILVER LAKE ESTATES,Non-Adjusted,Lake (Primary),2106,Natural                       ,No,Ground
+FL-3351205,SKYCREST SUBDIVISION,Non-Adjusted,Lake (Primary),275,Natural                       ,No,Ground
+FL-3351254,"SPRINGS PARK AREA, INC",Non-Adjusted,Lake (Primary),299,Natural                       ,No,Ground
+FL-3351331,TARA VILLAGE,Non-Adjusted,Lake (Primary),253,Natural                       ,No,Ground
+FL-3351333,TAVARES WATER DEPARTMENT,Adjusted,Lake (Primary),34321,H2SiF6,Yes,Ground
+FL-3351335,RIDGECREST RESORT COMMUNITY,Non-Adjusted,Lake (Primary),426,Natural                       ,No,Ground
+FL-3351348,"HILL, THE",Non-Adjusted,Lake (Primary),80,Natural                       ,No,Ground
+FL-3351366,TIMBER VILLAGE MOBILE HOME PK,Non-Adjusted,Lake (Primary),157,Natural                       ,No,Ground
+FL-3351376,TORCHLIGHT TRAILER PARK,Non-Adjusted,Lake (Primary),206,Natural                       ,No,Ground
+FL-3351402,UMATILLA WATER WORKS,Adjusted,Lake (Primary),3113,H2SiF6,Yes,Ground
+FL-3351421,VALENCIA TERRACE SUBDIVISION,Non-Adjusted,Lake (Primary),671,Natural                       ,No,Ground
+FL-3351426,VENETIAN VILLAGE,Non-Adjusted,Lake (Primary),393,Natural                       ,No,Ground
+FL-3351464,WESTERN SHORES SUBDIVISION,Non-Adjusted,Lake (Primary),861,Natural                       ,No,Ground
+FL-3351555,SUNLAKE ESTATES,Non-Adjusted,Lake (Primary),671,Natural                       ,No,Ground
+FL-3351561,CYPRESS CREEK,Non-Adjusted,Lake (Primary),171,Natural                       ,No,Ground
+FL-3351563,WOODLANDS CHURCH LAKE LLC,Non-Adjusted,Lake (Primary),256,Natural                       ,No,Ground
+FL-3351564,CITRUS CIRCLE MOBILE HOME S/D,Non-Adjusted,Lake (Primary),79,Natural                       ,No,Ground
+FL-3351566,LEESBURG EAST,Non-Adjusted,Lake (Primary),8603,Natural                       ,No,Ground
+FL-3351567,BAYWOOD CONDOMINIUMS,Non-Adjusted,Lake (Primary),179,Natural                       ,No,Ground
+FL-3354005,"COVE WATER SYSTEM, INC.",Non-Adjusted,Lake (Primary),268,Natural                       ,No,Ground
+FL-3354010,WATER OAK COUNTRY CLUB ESTATES,Non-Adjusted,Lake (Primary),1310,Natural                       ,No,Ground
+FL-3354027,CENTURY ESTATES ~SELMA HOMES²,Non-Adjusted,Lake (Primary),307,Natural                       ,No,Ground
+FL-3354028,SHANGRI-LA BY THE LAKE,Non-Adjusted,Lake (Primary),293,Natural                       ,No,Ground
+FL-3354038,THE MEADOWS (FORMERLY ASTATULA EST,Non-Adjusted,Lake (Primary),109,Natural                       ,No,Ground
+FL-3354043,BRENDENWOOD WATER SYSTEM,Non-Adjusted,Lake (Primary),116,Natural                       ,No,Ground
+FL-3354044,LAKE JOANNA ESTATES,Non-Adjusted,Lake (Primary),125,Natural                       ,No,Ground
+FL-3354053,CITRUS COVE SUBDIVISION,Non-Adjusted,Lake (Primary),72,Natural                       ,No,Ground
+FL-3354054,LAKE GRIFFIN ISLES MHP (2 WPS),Non-Adjusted,Lake (Primary),1084,Natural                       ,No,Ground
+FL-3354055,WATERWOOD SUBDIVISION,Non-Adjusted,Lake (Primary),165,Natural                       ,No,Ground
+FL-3354104,CLERBROOK RV RESORTS,Non-Adjusted,Lake (Primary),2809,Natural                       ,No,Ground
+FL-3354106,B'S RV RESORT,Non-Adjusted,Lake (Primary),141,Natural                       ,No,Ground
+FL-3354110,LAKESIDE VILLAGE II,Non-Adjusted,Lake (Primary),171,Natural                       ,No,Ground
+FL-3354112,SUMMIT CHASE VILLAS,Non-Adjusted,Lake (Primary),688,Natural                       ,No,Ground
+FL-3354142,COUNTRY LIFE FAMILY PARK,Non-Adjusted,Lake (Primary),192,Natural                       ,No,Ground
+FL-3354644,PINE HARBOUR WATER UTILITY,Non-Adjusted,Lake (Primary),118,Natural                       ,No,Ground
+FL-3354646,CHATEAU ORANGE LAKE MH COMMUN,Non-Adjusted,Lake (Primary),550,Natural                       ,No,Ground
+FL-3354647,FOUR LAKES AND HARBOR OAKS S/D,Non-Adjusted,Lake (Primary),204,Natural                       ,No,Ground
+FL-3354650,LEESBURG/THE PLANTATION,Non-Adjusted,Lake (Primary),4595,Natural                       ,No,Ground
+FL-3354651,HAINES CREEK RV PARK,Non-Adjusted,Lake (Primary),192,Natural                       ,No,Ground
+FL-3354653,PENNBROOKE FAIRWAYS,Non-Adjusted,Lake (Primary),2225,Natural                       ,No,Ground
+FL-3354655,CARLTON PALMS EDUCATIONAL CTR,Non-Adjusted,Lake (Primary),130,Natural                       ,No,Ground
+FL-3354656,LAKE IDLEWILD ESTATES,Non-Adjusted,Lake (Primary),152,Natural                       ,No,Ground
+FL-3354657,DIAMOND POINT,Non-Adjusted,Lake (Primary),224,Natural                       ,No,Ground
+FL-3354660,SILVER OAKS SUBDIVISION,Non-Adjusted,Lake (Primary),110,Natural                       ,No,Ground
+FL-3354661,PICCIOLA LANDING,Non-Adjusted,Lake (Primary),112,Natural                       ,No,Ground
+FL-3354662,LAKE BEAUCLAIRE S/D,Non-Adjusted,Lake (Primary),88,Natural                       ,No,Ground
+FL-3354664,TREASURE COVE,Non-Adjusted,Lake (Primary),113,Natural                       ,No,Ground
+FL-3354687,RAINTREE HARBOR,Non-Adjusted,Lake (Primary),237,Natural                       ,No,Ground
+FL-3354688,LAKE YALE ESTATES,Non-Adjusted,Lake (Primary),90,Natural                       ,No,Ground
+FL-3354695,LAKE SAUNDERS ACRES,Non-Adjusted,Lake (Primary),144,Natural                       ,No,Ground
+FL-3354697,GRAND TERRACE SUBDIVISION,Non-Adjusted,Lake (Primary),229,Natural                       ,No,Ground
+FL-3354701,WEDGEWOOD SUBDIVISION,Non-Adjusted,Lake (Primary),876,Natural                       ,No,Ground
+FL-3354779,CLERMONT EAST WATER SYSTEMS,Non-Adjusted,Lake (Primary),32728,Natural                       ,No,Ground
+FL-3354781,HARBOR HILLS,Non-Adjusted,Lake (Primary),1090,Natural                       ,No,Ground
+FL-3354836,SARABANDE,Non-Adjusted,Lake (Primary),218,Natural                       ,No,Ground
+FL-3354867,QUAIL RIDGE ESTATES,Non-Adjusted,Lake (Primary),215,Natural                       ,No,Ground
+FL-3354869,LEESBURG/HIGHLAND LAKES,Non-Adjusted,Lake (Primary),2182,Natural                       ,No,Ground
+FL-3354877,PALISADES COUNTRY CLUB,Non-Adjusted,Lake (Primary),1759,Natural                       ,No,Ground
+FL-3354881,LAKE UTILITY SERVICES INC SOUTH,Non-Adjusted,Lake (Primary),11801,Natural                       ,No,Ground
+FL-3354883,LAKE UTILITY SERVICES INC NORTH,Non-Adjusted,Lake (Primary),19240,Natural                       ,No,Ground
+FL-3354886,HOLIDAY HAVEN (CONSECUTIVE),Consecutive,Lake (Primary),264,Natural                       ,No,Ground
+FL-3354916,SOUTHLAKE UTILITIES,Non-Adjusted,Lake (Primary),7421,Natural                       ,No,Ground
+FL-3354926,LAKES OF LADY LAKE EXEC GOLF,Non-Adjusted,Lake (Primary),89,Natural                       ,No,Ground
+FL-3354929,LEESBURG/ROYAL HIGHLANDS,Non-Adjusted,Lake (Primary),2904,Natural                       ,No,Ground
+FL-3354935,THE PARK AT WOLF BRANCH OAKS,Non-Adjusted,Lake (Primary),363,Natural                       ,No,Ground
+FL-3354938,BLACK BEAR RESERVE,Non-Adjusted,Lake (Primary),559,Natural                       ,No,Ground
+FL-3354943,POMEROSA PARK,Non-Adjusted,Lake (Primary),47,Natural                       ,No,Ground
+FL-3354944,LAS COLINAS WATER PLANT,Non-Adjusted,Lake (Primary),232,Natural                       ,No,Ground
+FL-3354945,FAIRWAYS AT MOUNT PLYMOUTH,Non-Adjusted,Lake (Primary),590,Natural                       ,No,Ground
+FL-3354953,EUSTIS EASTERN WTP,Non-Adjusted,Lake (Primary),1949,Natural                       ,No,Ground
+FL-3354954,HEATHROW COUNTRY ESTATES,Non-Adjusted,Lake (Primary),945,Natural                       ,No,Ground
+FL-3354956,PINE ISLAND,Non-Adjusted,Lake (Primary),31,Natural                       ,No,Ground
+FL-3354969,COLINA BAY,Non-Adjusted,Lake (Primary),156,Natural                       ,No,Ground
+FL-3420074,"BELLEVIEW, CITY OF [2 PLANTS]",Non-Adjusted,Marion (Primary),7540,Natural                       ,No,Ground
+FL-3420095,BLUE SKIES ESTATES,Non-Adjusted,Marion (Primary),174,Natural                       ,No,Ground
+FL-3420124,BUCKSKIN LAKE MANOR,Non-Adjusted,Marion (Primary),216,Natural                       ,No,Ground
+FL-3420162,CEDAR HILLS S/D,Non-Adjusted,Marion (Primary),1255,Natural                       ,No,Ground
+FL-3420216,CLIFTWOOD MOBILE HOME PARK,Non-Adjusted,Marion (Primary),48,Natural                       ,No,Ground
+FL-3420340,EMIL-MAR SUBDIVISION,Non-Adjusted,Marion (Primary),228,Natural                       ,No,Ground
+FL-3420386,FLORIDA CORRECTIONAL INSTITUTN,Non-Adjusted,Marion (Primary),2504,Natural                       ,No,Ground
+FL-3420387,MARION CORRECTIONAL INSTITUTN,Non-Adjusted,Marion (Primary),1341,Natural                       ,No,Ground
+FL-3420408,SALT SPRINGS VILLAGE,Non-Adjusted,Marion (Primary),306,Natural                       ,No,Ground
+FL-3420411,FLOYD CLARK SUBDIVISION,Non-Adjusted,Marion (Primary),224,Natural                       ,No,Ground
+FL-3420419,FORT KING FOREST,Non-Adjusted,Marion (Primary),292,Natural                       ,No,Ground
+FL-3420456,GOLDEN HOLIDAY MHP (2 WPS),Non-Adjusted,Marion (Primary),548,Natural                       ,No,Ground
+FL-3420484,MILL DAM MHP LLC,Non-Adjusted,Marion (Primary),139,Natural                       ,No,Ground
+FL-3420509,HAZEL GARDENS MOBILE HOME PARK,Non-Adjusted,Marion (Primary),59,Natural                       ,No,Ground
+FL-3420531,WANDERING OAKS RV RESORT (2WPS/1POE),Non-Adjusted,Marion (Primary),109,Natural                       ,No,Ground
+FL-3420533,HI-CLIFF ESTATES/SLEEPY HOLLOW,Non-Adjusted,Marion (Primary),916,Natural                       ,No,Ground
+FL-3420608,FORE ACRES S/D,Non-Adjusted,Marion (Primary),1509,Natural                       ,No,Ground
+FL-3420761,LITTLE LAKE WEIR SUBDIVISION,Non-Adjusted,Marion (Primary),861,Natural                       ,No,Ground
+FL-3420763,LIVE OAKS MOBILE HOME PARK,Non-Adjusted,Marion (Primary),194,Natural                       ,No,Ground
+FL-3420781,EDGEWOOD MHP,Non-Adjusted,Marion (Primary),38,Natural                       ,No,Ground
+FL-3420805,MARIE'S MHP,Non-Adjusted,Marion (Primary),79,Natural                       ,No,Ground
+FL-3420870,NELSON'S FISH CAMP,Non-Adjusted,Marion (Primary),188,Natural                       ,No,Ground
+FL-3420904,OAK PARK VILLAGE,Non-Adjusted,Marion (Primary),85,Natural                       ,No,Ground
+FL-3420916,OAKWOOD MOBILE MANOR,Non-Adjusted,Marion (Primary),225,Natural                       ,No,Ground
+FL-3420922,"OCALA, CITY OF",Adjusted,Marion (Primary),51560,H2SiF6,Yes,Ground
+FL-3420924,OCALA EAST VILLAS,Non-Adjusted,Marion (Primary),544,Natural                       ,No,Ground
+FL-3420939,OCKLAWAHA WATER WORKS (2 WTPS ),Non-Adjusted,Marion (Primary),730,Natural                       ,No,Ground
+FL-3421018,PINE RIDGE ESTATES S/D,Non-Adjusted,Marion (Primary),674,Natural                       ,No,Ground
+FL-3421098,ROLLING GREENS,Non-Adjusted,Marion (Primary),2234,Natural                       ,No,Ground
+FL-3421118,SANDY ACRES,Non-Adjusted,Marion (Primary),543,Natural                       ,No,Ground
+FL-3421159,SHARPES FERRY MANUFACTURED HOME CMNTY,Non-Adjusted,Marion (Primary),185,Natural                       ,No,Ground
+FL-3421197,SILVER SPRINGS SHORES,Non-Adjusted,Marion (Primary),17497,Natural                       ,No,Ground
+FL-3421201,SUN RESORT,Non-Adjusted,Marion (Primary),72,Natural                       ,No,Ground
+FL-3421283,STONE OAKS MOBILE HOME PARK,Non-Adjusted,Marion (Primary),270,Natural                       ,No,Ground
+FL-3421314,SUN RAY ESTATES,Non-Adjusted,Marion (Primary),1787,Natural                       ,No,Ground
+FL-3421379,"MCINTOSH, TOWN OF",Non-Adjusted,Marion (Primary),433,Natural                       ,No,Ground
+FL-3421467,WHISPERING OAKS MHP,Non-Adjusted,Marion (Primary),143,Natural                       ,No,Ground
+FL-3421490,WOODS AND LAKES SUBDIVISION,Non-Adjusted,Marion (Primary),246,Natural                       ,No,Ground
+FL-3421495,COUNTRY OAKS MHP,Non-Adjusted,Marion (Primary),85,Natural                       ,No,Ground
+FL-3421520,SUNLIGHT ACRES SUBDIVISION,Non-Adjusted,Marion (Primary),177,Natural                       ,No,Ground
+FL-3421528,TALL TIMBER TRAVEL TRAILER PRK,Non-Adjusted,Marion (Primary),85,Natural                       ,No,Ground
+FL-3421554,OCALA GARDEN APARTMENTS,Non-Adjusted,Marion (Primary),43,Natural                       ,No,Ground
+FL-3421559,VICTORY MOBILE HOME PARK LLC,Non-Adjusted,Marion (Primary),222,Natural                       ,No,Ground
+FL-3421560,OCALA OAKS SUBDIVISION,Non-Adjusted,Marion (Primary),1969,Natural                       ,No,Ground
+FL-3421573,GOLDEN POND VILLAGE MHP,Non-Adjusted,Marion (Primary),121,Natural                       ,No,Ground
+FL-3421574,SERENITY OAKS MHP,Non-Adjusted,Marion (Primary),121,Natural                       ,No,Ground
+FL-3421576,WINDGATE ESTATES,Non-Adjusted,Marion (Primary),458,Natural                       ,No,Ground
+FL-3424000,BELLAIRE SUBDIVISION,Non-Adjusted,Marion (Primary),682,Natural                       ,No,Ground
+FL-3424001,MARION HILLS,Non-Adjusted,Marion (Primary),91,Natural                       ,No,Ground
+FL-3424009,WHISPERING SANDS S/D,Non-Adjusted,Marion (Primary),391,Natural                       ,No,Ground
+FL-3424029,CHAPPELL HILLS,Non-Adjusted,Marion (Primary),129,Natural                       ,No,Ground
+FL-3424030,BELLEVIEW HILLS SUBDIVISION,Non-Adjusted,Marion (Primary),338,Natural                       ,No,Ground
+FL-3424031,FLORIDA HEIGHTS S/D,Non-Adjusted,Marion (Primary),309,Natural                       ,No,Ground
+FL-3424032,OAKHURST SUBDIVISION,Non-Adjusted,Marion (Primary),309,Natural                       ,No,Ground
+FL-3424034,VILLAGES OF OCALA,Non-Adjusted,Marion (Primary),116,Natural                       ,No,Ground
+FL-3424036,WEST VIEW SUBDIVISION,Consecutive,Marion (Primary),91,H2SiF6,Yes,Ground
+FL-3424042,FAIRFAX HILLS SUBDIVISION,Non-Adjusted,Marion (Primary),257,Natural                       ,No,Ground
+FL-3424046,QUAIL RUN SUBDIVISION,Non-Adjusted,Marion (Primary),206,Natural                       ,No,Ground
+FL-3424061,PARADISE MHP,Non-Adjusted,Marion (Primary),85,Natural                       ,No,Ground
+FL-3424062,PONDEROSA PINES,Non-Adjusted,Marion (Primary),416,Natural                       ,No,Ground
+FL-3424087,OAK BEND MHP,Non-Adjusted,Marion (Primary),367,Natural                       ,No,Ground
+FL-3424099,ELEVEN OAKS SUBDIVISION,Non-Adjusted,Marion (Primary),122,Natural                       ,No,Ground
+FL-3424106,OAK HAVEN QUADRUPLEXES,Non-Adjusted,Marion (Primary),92,Natural                       ,No,Ground
+FL-3424620,TRADEWINDS VILLAGE,Non-Adjusted,Marion (Primary),1174,Natural                       ,No,Ground
+FL-3424621,BELLEVIEW OAKS ESTATES,Non-Adjusted,Marion (Primary),263,Natural                       ,No,Ground
+FL-3424622,SPRINGLAKE VILLAGE,Non-Adjusted,Marion (Primary),145,Natural                       ,No,Ground
+FL-3424625,RESIDENTIAL WATER SYSTEMS INC,Non-Adjusted,Marion (Primary),1606,Natural                       ,No,Ground
+FL-3424628,SMITH LAKE SHORES MHP,Non-Adjusted,Marion (Primary),329,Natural                       ,No,Ground
+FL-3424637,SHERI OAKS S/D,Non-Adjusted,Marion (Primary),63,Natural                       ,No,Ground
+FL-3424638,OAK CREEK CAVERNS S/D,Non-Adjusted,Marion (Primary),131,Natural                       ,No,Ground
+FL-3424643,MCATEER ACRES,Non-Adjusted,Marion (Primary),209,Natural                       ,No,Ground
+FL-3424644,FORE OAKS ESTATES,Non-Adjusted,Marion (Primary),709,Natural                       ,No,Ground
+FL-3424645,WINDSTREAM & CARRIAGE HILL SDS,Non-Adjusted,Marion (Primary),269,Natural                       ,No,Ground
+FL-3424646,WOODBERRY FOREST,Non-Adjusted,Marion (Primary),173,Natural                       ,No,Ground
+FL-3424648,HILLTOP ESTATES MHP S/D,Non-Adjusted,Marion (Primary),206,Natural                       ,No,Ground
+FL-3424649,VICKI'S MOBILE HOME PARK,Non-Adjusted,Marion (Primary),49,Natural                       ,No,Ground
+FL-3424651,OCALA HEIGHTS S/D,Non-Adjusted,Marion (Primary),738,Natural                       ,No,Ground
+FL-3424652,SHADY ROAD VILLAS TRAILER PARK,Non-Adjusted,Marion (Primary),164,Natural                       ,No,Ground
+FL-3424654,WILDERNESS RV PARK ESTATES,Non-Adjusted,Marion (Primary),54,Natural                       ,No,Ground
+FL-3424655,HIGH HOPES MOBILE HOME PARK,Non-Adjusted,Marion (Primary),61,Natural                       ,No,Ground
+FL-3424657,COUNTRY WALK S/D,Non-Adjusted,Marion (Primary),169,Natural                       ,No,Ground
+FL-3424658,PADDOCK PARK SOUTH MHP,Non-Adjusted,Marion (Primary),345,Natural                       ,No,Ground
+FL-3424659,TROPICANA VILLAGE S/D,Non-Adjusted,Marion (Primary),103,Natural                       ,No,Ground
+FL-3424662,HILLTOP AT LAKE WEIR,Non-Adjusted,Marion (Primary),401,Natural                       ,No,Ground
+FL-3424664,JACK MOBILE HOME PARK,Non-Adjusted,Marion (Primary),45,Natural                       ,No,Ground
+FL-3424685,HAWKS POINT S/D,Non-Adjusted,Marion (Primary),413,Natural                       ,No,Ground
+FL-3424689,SILVER SPRINGS WOODS/VILLAGE,Non-Adjusted,Marion (Primary),1020,Natural                       ,No,Ground
+FL-3424690,LANDFAIR SUBDIVISION,Non-Adjusted,Marion (Primary),519,Natural                       ,No,Ground
+FL-3424691,WINDING WATERS,Non-Adjusted,Marion (Primary),423,Natural                       ,No,Ground
+FL-3424789,LAKEVIEW WOODS/TRAILS EAST S/D,Non-Adjusted,Marion (Primary),200,Natural                       ,No,Ground
+FL-3424808,PONDEROSA M.H./SUBDIVISION,Non-Adjusted,Marion (Primary),60,Natural                       ,No,Ground
+FL-3424827,CITRA HIGHLANDS,Non-Adjusted,Marion (Primary),79,Natural                       ,No,Ground
+FL-3424839,BELLEVIEW HILLS ESTATES,Non-Adjusted,Marion (Primary),678,Natural                       ,No,Ground
+FL-3424841,TURNING POINTE ESTATES,Non-Adjusted,Marion (Primary),252,Natural                       ,No,Ground
+FL-3424857,VETERANS OF FOREIGN WARS,Non-Adjusted,Marion (Primary),40,Natural                       ,No,Ground
+FL-3424897,STONECREST SUBDIVISION,Non-Adjusted,Marion (Primary),16714,Natural                       ,No,Ground
+FL-3424962,ASHLEY HEIGHTS S/D,Non-Adjusted,Marion (Primary),138,Natural                       ,No,Ground
+FL-3425006,GREENFIELDS/INDIAN PINES,Non-Adjusted,Marion (Primary),1450,Natural                       ,No,Ground
+FL-3425020,SPRUCE CREEK GOLF AND COUNTRY CLUB,Non-Adjusted,Marion (Primary),6031,Natural                       ,No,Ground
+FL-3425029,FOREST GREEN SUBDIVISION,Non-Adjusted,Marion (Primary),241,Natural                       ,No,Ground
+FL-3425039,PLANTATION LANDING MHP,Non-Adjusted,Marion (Primary),32,Natural                       ,No,Ground
+FL-3425108,LEIGHTON ESTATES WATER SYSTEM,Non-Adjusted,Marion (Primary),93,Natural                       ,No,Ground
+FL-3425111,SUNSET HARBOR WATER SYSTEM,Non-Adjusted,Marion (Primary),22,Natural                       ,No,Ground
+FL-3425126,IRISH ACRES,Non-Adjusted,Marion (Primary),80,Natural                       ,No,Ground
+FL-3425127,ASHLEY FARMS,Non-Adjusted,Marion (Primary),985,Natural                       ,No,Ground
+FL-3480114,BRIGHTWOOD MANOR MHP,Non-Adjusted,Orange (Primary),376,Natural                       ,No,Ground
+FL-3480149,PLURIS-WEDGEFIELD INC,Non-Adjusted,Orange (Primary),5211,Natural                       ,No,Ground
+FL-3480200,"APOPKA, CITY OF",Non-Adjusted,Orange (Primary),56556,Natural                       ,No,Ground
+FL-3480203,"MAITLAND, CITY OF",Adjusted,Orange (Primary),11955,H2SiF6,Yes,Ground
+FL-3480204,"OCOEE,SOUTH",Adjusted,Orange (Primary),30400,H2SiF6,Yes,Ground
+FL-3480226,COLLEGE MOBILE HOME PARK,Non-Adjusted,Orange (Primary),80,Natural                       ,No,Ground
+FL-3480255,CRESCENT HEIGHTS S/D(CONSEC),Consecutive,Orange (Primary),866,H2SiF6,Yes,Ground
+FL-3480265,OCUD/DAETWYLER SHORES (CONSEC),Consecutive,Orange (Primary),169,H2SiF6,Yes,Ground
+FL-3480272,DAVIS SHORES (CONSEC),Consecutive,Orange (Primary),128,H2SiF6,Yes,Ground
+FL-3480289,DE NEEF VILLAGE,Non-Adjusted,Orange (Primary),134,Natural                       ,No,Ground
+FL-3480327,EATONVILLE WATER DEPARTMENT,Non-Adjusted,Orange (Primary),2438,Natural                       ,No,Ground
+FL-3480409,UNIVERSITY OF CENTRAL FLORIDA,Consecutive,Orange (Primary),39438,H2SiF6,Yes,Ground
+FL-3480502,VALLEY MHP,Non-Adjusted,Orange (Primary),88,Natural                       ,No,Ground
+FL-3480555,HOLIDAY ACRES MOBILE HOME PARK,Non-Adjusted,Orange (Primary),70,Natural                       ,No,Ground
+FL-3480681,HARRISON'S TRAILER PARK,Non-Adjusted,Orange (Primary),63,Natural                       ,No,Ground
+FL-3480695,LAKE DOWNEY MOBILE HOME PARK,Non-Adjusted,Orange (Primary),179,Natural                       ,No,Ground
+FL-3480700,OCUD/LAKE JOHN SHORES WTR SYS,Non-Adjusted,Orange (Primary),60,Natural                       ,No,Ground
+FL-3480792,OCUD/MAGNOLIA WOODS WTR SYSTEM,Consecutive,Orange (Primary),310,Natural                       ,No,Ground
+FL-3480913,"OAKLAND, TOWN OF",Non-Adjusted,Orange (Primary),3424,Natural                       ,No,Ground
+FL-3480940,OLA BEACH IMPROVEMENT ASSN,Non-Adjusted,Orange (Primary),130,Natural                       ,No,Ground
+FL-3480962,ORLANDO UTILITIES COMMISSION,Adjusted,Orange (Primary),394641,H2SiF6,Yes,Ground
+FL-3481016,PINE ISLE MOBILE VILLA,Non-Adjusted,Orange (Primary),114,Natural                       ,No,Ground
+FL-3481093,ROCK SPRINGS MOBILE HOME PARK,Non-Adjusted,Orange (Primary),1196,Natural                       ,No,Ground
+FL-3481155,SHADY OAKS TRAILER PARK,Non-Adjusted,Orange (Primary),34,Natural                       ,No,Ground
+FL-3481199,SILVER STAR VILLAGE,Non-Adjusted,Orange (Primary),571,Natural                       ,No,Ground
+FL-3481270,STARLIGHT RANCH MH ESTATES,Non-Adjusted,Orange (Primary),1092,Natural                       ,No,Ground
+FL-3481326,TAFT WATER ASSOCIATION,Non-Adjusted,Orange (Primary),3784,Natural                       ,No,Ground
+FL-3481329,TANGERINE WATER COMPANY,Non-Adjusted,Orange (Primary),761,Natural                       ,No,Ground
+FL-3481420,VALENCIA ESTATES MO HO PK,Non-Adjusted,Orange (Primary),273,Natural                       ,No,Ground
+FL-3481481,WINTER GARDEN WATER DEPT,Non-Adjusted,Orange (Primary),66457,Natural                       ,No,Ground
+FL-3481482,"WINTER PARK, CITY OF",Adjusted,Orange (Primary),74199,H2SiF6,Yes,Ground
+FL-3481501,CLARCONA RESORTS,Non-Adjusted,Orange (Primary),1134,Natural                       ,No,Ground
+FL-3481506,ZELLWOOD STATION,Non-Adjusted,Orange (Primary),2299,Natural                       ,No,Ground
+FL-3481507,ZELLWOOD WATER USERS INC.,Non-Adjusted,Orange (Primary),1124,Natural                       ,No,Ground
+FL-3481518,HIDDEN VALLEY MOBILE HOME PARK,Non-Adjusted,Orange (Primary),811,Natural                       ,No,Ground
+FL-3481546,OCUD/WESTERN REGIONAL WTR SYS,Adjusted,Orange (Primary),160739,H2SiF6,Yes,Ground
+FL-3481547,OCUD/PARTLOW ACRES(CONSECUTIVE,Consecutive,Orange (Primary),91,Natural                       ,No,Ground
+FL-3481551,CONESTOGA MOBILE HOME PARK,Non-Adjusted,Orange (Primary),55,Natural                       ,No,Ground
+FL-3481571,BIG OAKS MOBILE HOME PARK,Non-Adjusted,Orange (Primary),112,Natural                       ,No,Ground
+FL-3484093,WDW CENTRAL,Non-Adjusted,Orange (Primary),122049,Natural                       ,No,Ground
+FL-3484119,OCUD/SOUTH REGIONAL WATER SYS,Adjusted,Orange (Primary),69318,H2SiF6,Yes,Ground
+FL-3484132,OCUD/EASTERN WATER SYSTEM,Adjusted,Orange (Primary),260083,H2SiF6,Yes,Ground
+FL-3484175,J&ampC MHP,Non-Adjusted,Orange (Primary),22,Natural                       ,No,Ground
+FL-3484257,BNMS MOBILE HOME PARK,Non-Adjusted,Orange (Primary),30,Natural                       ,No,Ground
+FL-3490090,BAY LAKE ESTATES;,Non-Adjusted,Osceola (Primary),205,Natural                       ,No,Ground
+FL-3490184,BUENAVENTURA LAKES,Consecutive,Osceola (Primary),14815,H2SiF6,Yes,Ground
+FL-3490265,COLONIAL MOBILE HOME PARK,Non-Adjusted,Osceola (Primary),103,Natural                       ,No,Ground
+FL-3490293,MILL CREEK RV RESORT,Non-Adjusted,Osceola (Primary),107,Natural                       ,No,Ground
+FL-3490314,CYPRESS COVE,Non-Adjusted,Osceola (Primary),258,Natural                       ,No,Ground
+FL-3490673,INTERCESSION CITY,Non-Adjusted,Osceola (Primary),289,Natural                       ,No,Ground
+FL-3490751,TOHO WATER AUTHORITY EASTERN,Adjusted,Osceola (Primary),98446,H2SiF6,Yes,Ground
+FL-3490770,LAKE RUNNYMEDE MOBILE HOME PK,Non-Adjusted,Osceola (Primary),198,Natural                       ,No,Ground
+FL-3490816,GREAT OAK R.V. RESORT,Non-Adjusted,Osceola (Primary),31,Natural                       ,No,Ground
+FL-3490986,PLEASANT HILL MHP,Non-Adjusted,Osceola (Primary),148,Natural                       ,No,Ground
+FL-3491002,KISSIMMEE RV PARK,Non-Adjusted,Osceola (Primary),38,Natural                       ,No,Ground
+FL-3491011,TOHO WATER AUTHORITY WESTERN,Adjusted,Osceola (Primary),36060,H2SiF6,Yes,Ground
+FL-3491077,EAST LAKE FISH CAMP,Non-Adjusted,Osceola (Primary),84,Natural                       ,No,Ground
+FL-3491298,SHELTER COVE RESORT,Non-Adjusted,Osceola (Primary),167,Natural                       ,No,Ground
+FL-3491373,"ST. CLOUD, CITY OF",Adjusted,Osceola (Primary),57822,H2SiF6,Yes,Ground
+FL-3491702,FLORIDIAN RV RESORT,Non-Adjusted,Osceola (Primary),402,Natural                       ,No,Ground
+FL-3491726,SHARP'S MOBILE HOME PARK,Non-Adjusted,Osceola (Primary),160,Natural                       ,No,Ground
+FL-3491904,KING'S MOBILE PARK,Non-Adjusted,Osceola (Primary),38,Natural                       ,No,Ground
+FL-3491956,LAKE AJAY VILLAGE S/D,Consecutive,Osceola (Primary),197,H2SiF6,Yes,Ground
+FL-3494313,WHISPERING PINES MHP,Non-Adjusted,Osceola (Primary),383,Natural                       ,No,Ground
+FL-3494316,BERMUDA M.H.P.,Non-Adjusted,Osceola (Primary),43,Natural                       ,No,Ground
+FL-3494318,LAKE MARIAN SHORES,Non-Adjusted,Osceola (Primary),116,Natural                       ,No,Ground
+FL-3494359,HYATT FARMS,Non-Adjusted,Osceola (Primary),36,Natural                       ,No,Ground
+FL-3494399,DEER PARK,Non-Adjusted,Osceola (Primary),76,Natural                       ,No,Ground
+FL-3494400,HAMMOCK POINTE,Non-Adjusted,Osceola (Primary),460,Natural                       ,No,Ground
+FL-3494416,HIDDEN GLEN,Non-Adjusted,Osceola (Primary),63,Natural                       ,No,Ground
+FL-3494418,SPRINGLAKE VILLAGE WTP,Non-Adjusted,Osceola (Primary),2745,Natural                       ,No,Ground
+FL-3494427,HARMONY WATER SYSTEM,Adjusted,Osceola (Primary),1060,Unknown,Yes,Ground
+FL-3494428,ENTERPRISE CDD,Consecutive,Osceola (Primary),7301,H2SiF6,Yes,Ground
+FL-3494429,TOHO WATER AUTHORITY-POINCIANA SYSTEM,Adjusted,Osceola (Primary),62095,Unknown,Yes,Ground
+FL-3530240,Camp Rosalie,Non-Adjusted,Polk (Primary),53,Natural                       ,No,Ground
+FL-3530592,FLORIDA CAMP INN,Non-Adjusted,Polk (Primary),1028,Natural                       ,No,Ground
+FL-3530683,GRAPE HAMMOCK,Non-Adjusted,Polk (Primary),107,Natural                       ,No,Ground
+FL-3530711,HAINES CITY MOBILE HOME PARK,Non-Adjusted,Polk (Primary),179,Natural                       ,No,Ground
+FL-3530736,"HARBOR CAMPGROUND, THE",Non-Adjusted,Polk (Primary),189,Natural                       ,No,Ground
+FL-3530814,HOLIDAY MANOR,Non-Adjusted,Polk (Primary),70,Natural                       ,No,Ground
+FL-3530854,ILE UTILITIES,Non-Adjusted,Polk (Primary),606,Natural                       ,No,Ground
+FL-3530946,KISSIMMEE RIVER PARK LLC,Non-Adjusted,Polk (Primary),380,Natural                       ,No,Ground
+FL-3531008,GOLD COAST UTILITY,Non-Adjusted,Polk (Primary),2235,Natural                       ,No,Ground
+FL-3531009,WALK-IN-THE-WATER LAKE ESTATES,Non-Adjusted,Polk (Primary),449,Natural                       ,No,Ground
+FL-3531198,MINERVA MHP,Non-Adjusted,Polk (Primary),40,Natural                       ,No,Ground
+FL-3531275,OAK HARBOUR CAMPGROUND,Non-Adjusted,Polk (Primary),67,Natural                       ,No,Ground
+FL-3531318,OUTDOOR RESORTS,Non-Adjusted,Polk (Primary),1341,Natural                       ,No,Ground
+FL-3531517,NEW RIVER RANCH & RV RESORT,Non-Adjusted,Polk (Primary),1878,Natural                       ,No,Ground
+FL-3531546,ROSALIE OAKS,Non-Adjusted,Polk (Primary),183,Natural                       ,No,Ground
+FL-3531744,EAST,Non-Adjusted,Polk (Primary),4517,Natural                       ,No,Ground
+FL-3532183,AVON PARK CORRECTION INSTITUTE,Non-Adjusted,Polk (Primary),2682,Natural                       ,No,Ground
+FL-3532355,BREEZE HILL MOBILE HOME PARK,Non-Adjusted,Polk (Primary),249,Natural                       ,No,Ground
+FL-3532582,EMERALD LAKE MHP,Non-Adjusted,Polk (Primary),224,Natural                       ,No,Ground
+FL-3535116,LAKE KISSIMMEE MOBILE HOME PK,Non-Adjusted,Polk (Primary),31,Natural                       ,No,Ground
+FL-3590026,ALTAMONTE SPRINGS WATER DEPT,Adjusted,Seminole (Primary),49692,H2SiF6,Yes,Ground
+FL-3590039,APPLE VALLEY,Consecutive,Seminole (Primary),2923,H2SiF6,Yes,Ground
+FL-3590069,BEAR LAKE MANOR,Consecutive,Seminole (Primary),695,H2SiF6,Yes,Ground
+FL-3590111,DRUID HILLS,Non-Adjusted,Seminole (Primary),734,Natural                       ,No,Ground
+FL-3590159,"CASSELBERRY, CITY OF",Consecutive,Seminole (Primary),48951,H2SiF6,Yes,Ground
+FL-3590186,CHULUOTA WATER SYSTEM,Non-Adjusted,Seminole (Primary),3454,Natural                       ,No,Ground
+FL-3590201,"LAKE MARY, CITY OF",Adjusted,Seminole (Primary),14973,H2SiF6,Yes,Ground
+FL-3590202,"LONGWOOD, CITY OF",Adjusted,Seminole (Primary),18179,H2SiF6,Yes,Ground
+FL-3590205,"SANFORD, CITY OF",Adjusted,Seminole (Primary),58312,H2SiF6,Yes,Ground
+FL-3590338,ELDER SPRINGS TRAILER PARK,Non-Adjusted,Seminole (Primary),55,Natural                       ,No,Ground
+FL-3590473,SEMINOLE COUNTY NORTHEAST,Adjusted,Seminole (Primary),17816,H2SiF6,Yes,Ground
+FL-3590497,HARMONY HOMES,Non-Adjusted,Seminole (Primary),209,Natural                       ,No,Ground
+FL-3590571,SEMINOLE COUNTY SOUTHEAST,Adjusted,Seminole (Primary),62625,H2SiF6,Yes,Ground
+FL-3590615,JANSEN S/D,Non-Adjusted,Seminole (Primary),776,Natural                       ,No,Ground
+FL-3590685,LAKE BRANTLEY,Non-Adjusted,Seminole (Primary),172,Natural                       ,No,Ground
+FL-3590698,LAKE HARNEY WATER ASSOCIATION,Non-Adjusted,Seminole (Primary),626,Natural                       ,No,Ground
+FL-3590762,LITTLE WEKIVA ESTATES,Non-Adjusted,Seminole (Primary),191,Natural                       ,No,Ground
+FL-3590785,SEMINOLE COUNTY SOUTHWEST,Adjusted,Seminole (Primary),8603,H2SiF6,Yes,Ground
+FL-3590823,MEREDITH MANOR,Non-Adjusted,Seminole (Primary),1563,Natural                       ,No,Ground
+FL-3590865,MULLET LAKE WATER ASSOCIATION,Non-Adjusted,Seminole (Primary),873,Natural                       ,No,Ground
+FL-3590879,"WINTER SPRINGS, CITY OF (WEST)",Non-Adjusted,Seminole (Primary),30988,Natural                       ,No,Ground
+FL-3590912,OAKLAND SHORES,Consecutive,Seminole (Primary),705,H2SiF6,Yes,Ground
+FL-3590970,OVIEDO & A.M.JONES WTPS,Adjusted,Seminole (Primary),41741,H2SiF6,Yes,Ground
+FL-3590988,PALM VALLEY MOBILE HOME PARK,Non-Adjusted,Seminole (Primary),1320,Natural                       ,No,Ground
+FL-3590993,PARK RIDGE,Non-Adjusted,Seminole (Primary),220,Natural                       ,No,Ground
+FL-3591008,PHILLIPS SECTION,Consecutive,Seminole (Primary),244,H2SiF6,Yes,Ground
+FL-3591061,RAVENNA PARK,Non-Adjusted,Seminole (Primary),1882,Natural                       ,No,Ground
+FL-3591121,SANLANDO UTIL/WEKIVA HUNT CLUB,Non-Adjusted,Seminole (Primary),33041,Natural                       ,No,Ground
+FL-3591248,SPRING HAMMOCK MHP,Non-Adjusted,Seminole (Primary),134,Natural                       ,No,Ground
+FL-3591395,TWELVE OAKS R.V.RESORT,Non-Adjusted,Seminole (Primary),447,Natural                       ,No,Ground
+FL-3591451,WEATHERSFIELD,Consecutive,Seminole (Primary),3774,H2SiF6,Yes,Ground
+FL-3594050,SEMINOLE WOODS COMMUNITY ASSN,Non-Adjusted,Seminole (Primary),697,Natural                       ,No,Ground
+FL-3594107,SEMINOLE COUNTY NORTHWEST,Adjusted,Seminole (Primary),28600,H2SiF6,Yes,Ground
+FL-3594186,BLACK HAMMOCK -MSBU,Consecutive,Seminole (Primary),698,H2SiF6,Yes,Ground
+FL-3594214,CHASE GROVES,Consecutive,Seminole (Primary),3623,H2SiF6,Yes,Ground
+FL-3594216,SUNSHADOWS APARTMENTS,Consecutive,Seminole (Primary),882,H2SiF6,No,Ground
+FL-3594230,MIDWAY-CANAAN WATER ASSOCIATION,Consecutive,Seminole (Primary),1341,H2SiF6,Yes,Ground
+FL-3640019,JOHN KNOX VILLAGE,Non-Adjusted,Volusia (Primary),662,Natural                       ,No,Ground
+FL-3640156,MEADOWLEA ESTATES,Non-Adjusted,Volusia (Primary),393,Natural                       ,No,Ground
+FL-3640158,CASSADAGA WATER SUPPLY,Non-Adjusted,Volusia (Primary),248,Natural                       ,No,Ground
+FL-3640275,"DAYTONA BEACH, CITY OF",Adjusted,Volusia (Primary),81026,Na2SiF6 Dry,Yes,Ground
+FL-3640285,APPLEGATE ESTATES MHP,Non-Adjusted,Volusia (Primary),277,Natural                       ,No,Ground
+FL-3640286,"DELAND, CITY OF",Adjusted,Volusia (Primary),45520,H2SiF6,Yes,Ground
+FL-3640287,DELTONA LAKES,Non-Adjusted,Volusia (Primary),68194,Natural                       ,No,Ground
+FL-3640331,"EDGEWATER, CITY OF",Non-Adjusted,Volusia (Primary),21125,Natural                       ,No,Ground
+FL-3640336,ELDORADO ESTATES,Non-Adjusted,Volusia (Primary),224,Natural                       ,No,Ground
+FL-3640403,FLA.UNITED METH.CHILDRENS HOME,Non-Adjusted,Volusia (Primary),334,Natural                       ,No,Ground
+FL-3640412,SPRUCE CREEK FLY IN,Non-Adjusted,Volusia (Primary),3011,Natural                       ,No,Ground
+FL-3640528,HIDDEN VALLEY PARK,Non-Adjusted,Volusia (Primary),246,Natural                       ,No,Ground
+FL-3640557,"HOLLY HILL, CITY OF",Adjusted,Volusia (Primary),12014,H2SiF6,Yes,Ground
+FL-3640643,KOVE ESTATES ASSOCIATION,Non-Adjusted,Volusia (Primary),494,Natural                       ,No,Ground
+FL-3640682,LAKE ASHBY MOBILE HOME PARK,Non-Adjusted,Volusia (Primary),82,Natural                       ,No,Ground
+FL-3640683,LAKE BERESFORD,Non-Adjusted,Volusia (Primary),1767,Natural                       ,No,Ground
+FL-3640727,LAKESIDE VILLAGE MOBILE HOME PARK,Non-Adjusted,Volusia (Primary),54,Natural                       ,No,Ground
+FL-3640748,LEMON BLUFF WATER ASSOCIATION,Non-Adjusted,Volusia (Primary),141,Natural                       ,No,Ground
+FL-3640876,"NEW SMYRNA BEACH, CITY OF",Adjusted,Volusia (Primary),56601,Na2SiF6 Dry,Yes,Ground
+FL-3640945,Orange City Country Village,Non-Adjusted,Volusia (Primary),1627,Natural                       ,No,Ground
+FL-3640946,ORANGE CITY UTILITIES,Non-Adjusted,Volusia (Primary),6801,Natural                       ,No,Ground
+FL-3640955,ORANGEWOOD MOBILE HOME PARK,Non-Adjusted,Volusia (Primary),60,Natural                       ,No,Ground
+FL-3640963,"ORMOND BEACH, CITY OF",Adjusted,Volusia (Primary),45272,H2SiF6,Yes,Ground
+FL-3641014,PINE ISLAND UTILITY CORP.,Non-Adjusted,Volusia (Primary),260,Natural                       ,No,Ground
+FL-3641041,TOWN OF PONCE INLET,Consecutive,Volusia (Primary),3302,H2SiF6,Yes,Ground
+FL-3641044,"PORT ORANGE, CITY OF",Adjusted,Volusia (Primary),66908,H2SiF6,Yes,Ground
+FL-3641216,"SOUTH DAYTONA,CITY OF",Consecutive,Volusia (Primary),11177,Na2SiF6 Dry,Yes,Ground
+FL-3641308,SUNNY SANDS RESORT INC.,Non-Adjusted,Volusia (Primary),52,Natural                       ,No,Ground
+FL-3641315,ENCORE-SUNSHINE HOLIDAY PARK,Non-Adjusted,Volusia (Primary),157,Natural                       ,No,Ground
+FL-3641324,TOWN OF PIERSON/OP.BY VCU,Non-Adjusted,Volusia (Primary),2376,Natural                       ,No,Ground
+FL-3641336,SOUTHWEST INTERCONNECT,Non-Adjusted,Volusia (Primary),15704,Natural                       ,No,Ground
+FL-3641373,TOMOKA VIEW ESTATES,Non-Adjusted,Volusia (Primary),436,Natural                       ,No,Ground
+FL-3641399,TWIN RIVERS ESTATES,Non-Adjusted,Volusia (Primary),165,Natural                       ,No,Ground
+FL-3641401,TYMBER CREEK UTILITIES,Consecutive,Volusia (Primary),900,H2SiF6,Yes,Ground
+FL-3641444,PHOENIX ESTATES,Non-Adjusted,Volusia (Primary),149,Natural                       ,No,Ground
+FL-3641550,LAKE HELEN WATER DEPARTMENT,Non-Adjusted,Volusia (Primary),2414,Natural                       ,No,Ground
+FL-3644119,VILLAGE OF PINE RUN UTILITY CORP.,Non-Adjusted,Volusia (Primary),231,Natural                       ,No,Ground
+FL-3644123,HALIFAX PLANTATION,Non-Adjusted,Volusia (Primary),4158,Natural                       ,No,Ground
+FL-3644125,"MAGNOLIAS,THE ATTN:MR. KEERAN",Non-Adjusted,Volusia (Primary),352,Natural                       ,No,Ground
+FL-3644127,JUNGLE DEN,Consecutive,Volusia (Primary),206,Natural                       ,No,Ground
+FL-3644155,VC/SOUTHWEST WTP-2,Non-Adjusted,Volusia (Primary),3306,Natural                       ,No,Ground
+FL-3644279,HALCRESS/LOPEZ MHP,Non-Adjusted,Volusia (Primary),28,Natural                       ,No,Ground
+FL-3644292,LAKE REESER COTTAGES,Non-Adjusted,Volusia (Primary),48,Natural                       ,No,Ground
+FL-3644327,STONE ISLAND,Consecutive,Volusia (Primary),636,Natural                       ,No,Ground
+FL-3644328,ENTERPRISE,Consecutive,Volusia (Primary),248,Natural                       ,No,Ground
+FL-3644329,SOUTHEAST VOLUSIA INTERCONNECTED,Consecutive,Volusia (Primary),3522,Natural                       ,No,Ground
+FL-3644332,NEW HOPE VILLAS OF SEVILLE,Non-Adjusted,Volusia (Primary),207,Natural                       ,No,Ground
+FL-3644349,LAKES OF PINE RUN,Consecutive,Volusia (Primary),79,Natural                       ,No,Ground
+FL-4060162,BCWWS 3B/C,Consecutive,Broward (Primary),29193,H2SiF6,Yes,Ground
+FL-4060163,BCWWS 2A,Adjusted,Broward (Primary),48839,H2SiF6,Yes,Ground
+FL-4060165,BCWWS 3A,Consecutive,Broward (Primary),14347,H2SiF6,Yes,Ground
+FL-4060167,BCWWS 1A,Adjusted,Broward (Primary),67333,H2SiF6,Yes,Ground
+FL-4060253,"DANIA BEACH, CITY OF",Adjusted,Broward (Primary),15318,H2SiF6,Yes,Ground
+FL-4060254,"DEERFIELD BEACH, CITY OF E & W",Adjusted,Broward (Primary),47165,H2SiF6,Yes,Ground
+FL-4060282,COOPER CITY,Adjusted,Broward (Primary),30179,H2SiF6,Yes,Ground
+FL-4060290,"CORAL SPRINGS, CITY OF",Adjusted,Broward (Primary),58119,H2SiF6,Yes,Ground
+FL-4060291,CORAL SPRINGS IMPROVEMENT DIST,Adjusted,Broward (Primary),35765,H2SiF6,Yes,Ground
+FL-4060344,"DAVIE, TOWN OF, #3 & #5",Adjusted,Broward (Primary),23247,H2SiF6,Yes,Ground
+FL-4060419,FERNCREST UTILITIES,Adjusted,Broward (Primary),2792,H2SiF6,Yes,Ground
+FL-4060486,"FORT LAUDERDALE, CITY OF",Adjusted,Broward (Primary),162951,H2SiF6,Yes,Ground
+FL-4060573,"HALLANDALE, CITY OF",Adjusted,Broward (Primary),35765,H2SiF6,Yes,Ground
+FL-4060615,"HILLSBORO BEACH, TOWN OF",Adjusted,Broward (Primary),1788,H2SiF6,Yes,Ground
+FL-4060642,"HOLLYWOOD, CITY OF",Adjusted,Broward (Primary),131943,H2SiF6,Yes,Ground
+FL-4060787,"LAUDERHILL, CITY OF",Adjusted,Broward (Primary),49177,H2SiF6,Yes,Ground
+FL-4060845,"MARGATE, CITY OF",Adjusted,Broward (Primary),55663,H2SiF6,Yes,Ground
+FL-4060925,MIRAMAR (EAST & WEST) PLANTS,Adjusted,Broward (Primary),114181,H2SiF6,Yes,Ground
+FL-4060976,"NORTH LAUDERDALE, CITY OF",Adjusted,Broward (Primary),31929,H2SiF6,Yes,Ground
+FL-4060989,OAKLAND PARK CITY OF,Consecutive,Broward (Primary),25021,H2SiF6,Yes,Ground
+FL-4061083,PEMBROKE PINES,Adjusted,Broward (Primary),150750,H2SiF6,Yes,Ground
+FL-4061121,"PLANTATION, EAST & CENTRAL",Adjusted,Broward (Primary),76445,H2SiF6,Yes,Ground
+FL-4061127,CITY OF WESTON (INDIAN TRACE),Consecutive,Broward (Primary),48837,H2SiF6,Yes,Ground
+FL-4061129,"POMPANO BEACH, CITY OF",Adjusted,Broward (Primary),75107,H2SiF6,Yes,Ground
+FL-4061408,"SUNRISE #3, CITY OF",Adjusted,Broward (Primary),62164,H2SiF6,Yes,Ground
+FL-4061410,"SUNRISE #1, CITY OF",Adjusted,Broward (Primary),71128,H2SiF6,Yes,Ground
+FL-4061429,"TAMARAC (WEST), CITY OF",Adjusted,Broward (Primary),57039,H2SiF6,Yes,Ground
+FL-4061517,ROYAL UTILITY COMPANY,Adjusted,Broward (Primary),4007,H2SiF6,Yes,Ground
+FL-4061574,"WILTON MANORS, CITY OF",Consecutive,Broward (Primary),10461,H2SiF6,Yes,Ground
+FL-4061584,"COCONUT CREEK, CITY OF",Consecutive,Broward (Primary),48283,H2SiF6,Yes,Ground
+FL-4061593,"TAMARAC (EAST), CITY OF",Consecutive,Broward (Primary),2309,H2SiF6,Yes,Ground
+FL-4061925,DAVIE (HACIENDA VILLAGE),Consecutive,Broward (Primary),894,H2SiF6,Yes,Ground
+FL-4061957,PARKLAND UTILITIES INC,Adjusted,Broward (Primary),2316,H2SiF6,Yes,Ground
+FL-4064326,SOUTH BROWARD UTILITY/SUNRISE,Adjusted,Broward (Primary),8456,H2SiF6,Yes,Ground
+FL-4064390,NORTH SPRINGS IMPROVEMENT DIST,Adjusted,Broward (Primary),33415,H2SiF6,Yes,Ground
+FL-4130077,BAL HARBOUR VILLAGE,Consecutive,Miami-Dade (Primary),2735,Na2SiF6 Dry,Yes,Ground
+FL-4130089,"BAY HARBOR ISLANDS, TOWN OF",Consecutive,Miami-Dade (Primary),5371,Na2SiF6 Dry,Yes,Ground
+FL-4130255,FLORIDA CITY,Non-Adjusted,Miami-Dade (Primary),10730,Natural                       ,No,Ground
+FL-4130588,REDLANDS MOBILE HOME PARK,Non-Adjusted,Miami-Dade (Primary),89,Natural                       ,No,Ground
+FL-4130604,"HIALEAH, CITY OF",Adjusted,Miami-Dade (Primary),214591,Unknown,Yes,Ground
+FL-4130645,"HOMESTEAD, CITY OF",Adjusted,Miami-Dade (Primary),62589,H2SiF6,Yes,Ground
+FL-4130662,INDIAN CREEK VILLAGE,Consecutive,Miami-Dade (Primary),77,Na2SiF6 Dry,Yes,Ground
+FL-4130833,JONES' TRAILER PARK,Non-Adjusted,Miami-Dade (Primary),107,Natural                       ,No,Ground
+FL-4130871,MDWASA - MAIN SYSTEM,Adjusted,Miami-Dade (Primary),2056501,Na2SiF6 Dry,Yes,Ground
+FL-4130901,"MIAMI BEACH, CITY OF",Consecutive,Miami-Dade (Primary),80472,Na2SiF6 Dry,Yes,Ground
+FL-4130970,NORTH BAY VILLAGE,Consecutive,Miami-Dade (Primary),8002,Na2SiF6 Dry,Yes,Ground
+FL-4130977,"NORTH MIAMI, CITY OF",Adjusted,Miami-Dade (Primary),78996,H2SiF6,Yes,Ground
+FL-4131001,"OPA LOCKA, CITY OF",Consecutive,Miami-Dade (Primary),14039,Na2SiF6 Dry,Yes,Ground
+FL-4131202,MDWASA/REX UTILITIES,Non-Adjusted,Miami-Dade (Primary),40415,Natural                       ,No,Ground
+FL-4131206,REX UTILITIES INC/REDAVO,Consecutive,Miami-Dade (Primary),344,H2SiF6,Yes,Ground
+FL-4131312,SILVER PALM PLACE,Non-Adjusted,Miami-Dade (Primary),224,Natural                       ,No,Ground
+FL-4131403,AMERICANA VILLAGE,Non-Adjusted,Miami-Dade (Primary),1878,Natural                       ,No,Ground
+FL-4131424,"SURFSIDE, TOWN OF",Consecutive,Miami-Dade (Primary),5136,Na2SiF6 Dry,Yes,Ground
+FL-4131474,MEDLEY WATER DEPARTMENT,Consecutive,Miami-Dade (Primary),947,Na2SiF6 Dry,Yes,Ground
+FL-4131531,"VIRGINIA GARDENS, VILLAGE OF",Consecutive,Miami-Dade (Primary),2210,Na2SiF6 Dry,Yes,Ground
+FL-4131558,"WEST MIAMI, CITY OF",Consecutive,Miami-Dade (Primary),5454,Na2SiF6 Dry,Yes,Ground
+FL-4131618,NORTH MIAMI BEACH,Adjusted,Miami-Dade (Primary),160944,H2SiF6,Yes,Ground
+FL-4134357,FKAA FLORIDA CITY PLANT,Adjusted,Miami-Dade (Primary),76895,H2SiF6,Yes,Ground
+FL-4134358,DADE JUVENILE RESIDENTIAL FACILITY,Non-Adjusted,Miami-Dade (Primary),67,Natural                       ,No,Ground
+FL-4134365,HIALEAH GARDENS,Consecutive,Miami-Dade (Primary),20246,Na2SiF6 Dry,Yes,Ground
+FL-4430259,"STUART, CITY OF - WATER PLANT",Adjusted,Martin (Primary),16988,H2SiF6,Yes,Ground
+FL-4430484,SOUTH FORK HOMEOWNER UTIL.CORP,Non-Adjusted,Martin (Primary),179,Natural                       ,No,Ground
+FL-4430624,SOUTH MARTIN REGIONAL UTILITIES,Non-Adjusted,Martin (Primary),24142,Natural                       ,No,Ground
+FL-4430667,"INDIANTOWN COMPANY, INC.",Non-Adjusted,Martin (Primary),5228,Natural                       ,No,Ground
+FL-4430774,LAKESIDE VILLAGE MBL HOME PARK,Non-Adjusted,Martin (Primary),197,Natural                       ,No,Ground
+FL-4430956,NATALIE ESTATES MOBILE HOME PK,Non-Adjusted,Martin (Primary),224,Natural                       ,No,Ground
+FL-4431050,PALM CIRCLE COTTAGES AND MHP,Non-Adjusted,Martin (Primary),89,Natural                       ,No,Ground
+FL-4431235,RONNY'S MOBILE RANCH,Non-Adjusted,Martin (Primary),80,Natural                       ,No,Ground
+FL-4431379,ST. LUCIE MOBILE VILLAGE,Non-Adjusted,Martin (Primary),671,Natural                       ,No,Ground
+FL-4431456,SOUNDINGS YACHT & TENNIS CLUB,Non-Adjusted,Martin (Primary),402,Natural                       ,No,Ground
+FL-4431582,WOODBRIDGE MOBILE VILLAGE,Non-Adjusted,Martin (Primary),169,Natural                       ,No,Ground
+FL-4431870,J & S FISH CAMP,Non-Adjusted,Martin (Primary),36,Natural                       ,No,Ground
+FL-4431883,CORA-WIN COVE,Non-Adjusted,Martin (Primary),148,Natural                       ,No,Ground
+FL-4431891,MARTIN CO UTIL UTILITIES,Non-Adjusted,Martin (Primary),85147,Natural                       ,No,Ground
+FL-4434000,SAILFISH POINT UTILITY CORP.,Non-Adjusted,Martin (Primary),1024,Natural                       ,No,Ground
+FL-4434014,ST. LUCIE FALLS,Consecutive,Martin (Primary),446,Natural                       ,No,Ground
+FL-4470257,OKEECHOBEE UTILITY AUTHORITY,Non-Adjusted,Okeechobee (Primary),17883,Natural                       ,No,Ground
+FL-4470472,OKEECHOBEE YOUTH DEVELOPMENT,Non-Adjusted,Okeechobee (Primary),313,Natural                       ,No,Ground
+FL-4471736,VILLA MARGARET,Non-Adjusted,Okeechobee (Primary),118,Natural                       ,No,Ground
+FL-4474396,ANCIENT OAKS RV RESORT,Non-Adjusted,Okeechobee (Primary),666,Natural                       ,No,Ground
+FL-4474453,BLUE CYPRESS GOLF & RV PARK,Non-Adjusted,Okeechobee (Primary),374,Natural                       ,No,Ground
+FL-4474462,MCARTHUR/LINE 1/SE,Non-Adjusted,Okeechobee (Primary),50,Natural                       ,No,Ground
+FL-4474467,OAK PARK LLC,Non-Adjusted,Okeechobee (Primary),89,Natural                       ,No,Ground
+FL-4474474,MCARTHUR/LINE 7/SW,Non-Adjusted,Okeechobee (Primary),129,Natural                       ,No,Ground
+FL-4474497,OKEECHOBEE CORRECTIONAL INST,Non-Adjusted,Okeechobee (Primary),1520,Natural                       ,No,Ground
+FL-4500014,WELLINGTON WTP,Adjusted,Palm Beach (Primary),50496,H2SiF6,Yes,Ground
+FL-4500062,MARALAGO CAY MHP,Non-Adjusted,Palm Beach (Primary),1073,Natural                       ,No,Ground
+FL-4500068,"ATLANTIS, CITY OF",Consecutive,Palm Beach (Primary),2682,H2SiF6,Yes,Ground
+FL-4500130,BOCA RATON WTP,Non-Adjusted,Palm Beach (Primary),116238,Natural                       ,No,Ground
+FL-4500145,BOYNTON BEACH WTP,Adjusted,Palm Beach (Primary),100143,H2SiF6,Yes,Ground
+FL-4500264,COLONIAL ESTATES MHP,Non-Adjusted,Palm Beach (Primary),402,Natural                       ,No,Ground
+FL-4500351,DELRAY BEACH WATER DEPARTMENT,Adjusted,Palm Beach (Primary),53827,H2SiF6,Yes,Ground
+FL-4500455,SEMINOLE MANOR SUBDIVISION,Consecutive,Palm Beach (Primary),2910,H2SiF6,Yes,Ground
+FL-4500466,LAKE CLARKE SHORES,Consecutive,Palm Beach (Primary),2207,Natural                       ,No,Ground
+FL-4500565,"GULFSTREAM, TOWN OF",Consecutive,Palm Beach (Primary),895,H2SiF6,Yes,Ground
+FL-4500609,HIGHLAND BEACH WATER PLANT,Non-Adjusted,Palm Beach (Primary),3164,Natural                       ,No,Ground
+FL-4500634,PALM LAKE  ESTATES NORTH,Consecutive,Palm Beach (Primary),429,Natural                       ,No,Ground
+FL-4500773,LAKE WORTH UTILITIES,Non-Adjusted,Palm Beach (Primary),42918,Natural                       ,No,Ground
+FL-4500784,LANTANA WATER TREATMENT PLANT,Non-Adjusted,Palm Beach (Primary),8433,Natural                       ,No,Ground
+FL-4500840,MANALAPAN WTP(LEROY C.PASLAY),Non-Adjusted,Palm Beach (Primary),2165,Natural                       ,No,Ground
+FL-4500841,"MANGONIA PARK, TOWN OF",Non-Adjusted,Palm Beach (Primary),2135,Natural                       ,No,Ground
+FL-4500981,"TROPICAL BREEZE ESTATES,INC",Non-Adjusted,Palm Beach (Primary),536,Natural                       ,No,Ground
+FL-4501039,FAITH FARMS MINISTRIES,Non-Adjusted,Palm Beach (Primary),179,Natural                       ,No,Ground
+FL-4501058,"PALM SPRINGS, VILLAGE OF",Non-Adjusted,Palm Beach (Primary),29030,Natural                       ,No,Ground
+FL-4501075,PARRY TRAILER VILLAGE,Non-Adjusted,Palm Beach (Primary),116,Natural                       ,No,Ground
+FL-4501104,PINE GROVE VILLAGE,Non-Adjusted,Palm Beach (Primary),143,Natural                       ,No,Ground
+FL-4501124,SEACOAST UTILITIES AUTHORITY,Non-Adjusted,Palm Beach (Primary),85964,Natural                       ,No,Ground
+FL-4501229,"RIVIERA BEACH UTILITY DIST, CITY OF",Non-Adjusted,Palm Beach (Primary),31026,Natural                       ,No,Ground
+FL-4501438,TEQUESTA WATER TREATMENT PLANT,Non-Adjusted,Palm Beach (Primary),13859,Natural                       ,No,Ground
+FL-4501491,"JUPITER WATER SYSTEM,TOWN OF",Non-Adjusted,Palm Beach (Primary),78962,Natural                       ,No,Ground
+FL-4501528,VILLAGE OF GOLF,Non-Adjusted,Palm Beach (Primary),3134,Natural                       ,No,Ground
+FL-4501559,WEST PALM BEACH WTP,Adjusted,Palm Beach (Primary),91201,H2SiF6,Yes,Surface
+FL-4504285,SUNSHINE MEADOWS,Non-Adjusted,Palm Beach (Primary),67,Natural                       ,No,Ground
+FL-4504287,PALM LAKE  ESTATES SOUTH,Consecutive,Palm Beach (Primary),626,Natural                       ,No,Ground
+FL-4504393,PALM BEACH COUNTY WATER UTILITIES,Adjusted,Palm Beach (Primary),534376,H2SiF6,Yes,Ground
+FL-4504396,WHISPERING PINES MHP,Consecutive,Palm Beach (Primary),680,H2SiF6,Yes,Ground
+FL-4504998,HYPOLUXO VILLAGE,Consecutive,Palm Beach (Primary),1471,Natural                       ,No,Ground
+FL-4505002,PELICAN WATER CORPORATION,Non-Adjusted,Palm Beach (Primary),198,Natural                       ,No,Ground
+FL-4505005,GLADES UTILITIES AUTHORITY,Adjusted,Palm Beach (Primary),27303,H2SiF6,Yes,Ground
+FL-4560069,COUNTRY COVE MOBILE HOME PARK,Non-Adjusted,St. Lucie (Primary),176,Natural                       ,No,Ground
+FL-4560075,BENTONWOOD TRAILER PARK,Non-Adjusted,St. Lucie (Primary),72,Natural                       ,No,Ground
+FL-4560266,COLONY CLUB MOBILE HOME PARK,Non-Adjusted,St. Lucie (Primary),91,Natural                       ,No,Ground
+FL-4560490,FT. PIERCE UTILITIES AUTHORITY,Adjusted,St. Lucie (Primary),51860,H2SiF6,Yes,Ground
+FL-4560954,PORT ST LUCIE UTILITIES,Adjusted,St. Lucie (Primary),141222,H2SiF6,Yes,Ground
+FL-4560971,NORTH HUTCHINSON ISLAND,Consecutive,St. Lucie (Primary),3535,H2SiF6,Yes,Ground
+FL-4561005,CYPRESS BAY MHP,Non-Adjusted,St. Lucie (Primary),78,Natural                       ,No,Ground
+FL-4561689,HOLIDAY PINES,Consecutive,St. Lucie (Primary),2873,H2SiF6,Yes,Ground
+FL-4561916,LAKEWOOD PARK SUBDIVISION,Non-Adjusted,St. Lucie (Primary),156,Natural                       ,No,Ground
+FL-4561954,OCEAN TOWERS / ISLAND VILLAGE,Non-Adjusted,St. Lucie (Primary),687,Natural                       ,No,Ground
+FL-4564006,SPANISH LAKES COUNTRY CLUB VIL,Non-Adjusted,St. Lucie (Primary),2084,Natural                       ,No,Ground
+FL-4564007,INDIAN RIVER LANDING,Non-Adjusted,St. Lucie (Primary),116,Natural                       ,No,Ground
+FL-4564322,"GROVE OF FT. PIERCE,INC.  THE",Non-Adjusted,St. Lucie (Primary),1006,Natural                       ,No,Ground
+FL-4564397,MEADOWWOOD,Non-Adjusted,St. Lucie (Primary),581,Natural                       ,No,Ground
+FL-4564399,SANDALWOOD ESTATES S/D,Non-Adjusted,St. Lucie (Primary),107,Natural                       ,No,Ground
+FL-4565002,HARBOUR RIDGE,Non-Adjusted,St. Lucie (Primary),1406,Natural                       ,No,Ground
+FL-4565030,RESERVE UTILIIES,Consecutive,St. Lucie (Primary),3722,H2SiF6,Yes,Ground
+FL-4565031,ST. LUCIE WEST UTILITIES,Adjusted,St. Lucie (Primary),15017,H2SiF6,Yes,Ground
+FL-4565043,SPANISH LAKES FAIRWAYS,Non-Adjusted,St. Lucie (Primary),2325,Natural                       ,No,Ground
+FL-4565097,LAKE MANOR MHP,Non-Adjusted,St. Lucie (Primary),89,Natural                       ,No,Ground
+FL-4565154,H&ampH MHP,Non-Adjusted,St. Lucie (Primary),39,Natural                       ,No,Ground
+FL-4565198,NETTLES ISLAND,Consecutive,St. Lucie (Primary),2732,H2SiF6,Yes,Ground
+FL-4565204,Indian River Estates,Consecutive,St. Lucie (Primary),2090,H2SiF6,Yes,Ground
+FL-5084082,CHARLOTTE CORRECTIONAL INST.,Non-Adjusted,Charlotte (Primary),1425,Natural                       ,No,Ground
+FL-5084100,CHARLOTTE COUNTY UTILITIES,Consecutive,Charlotte (Primary),115313,Natural                       ,No,Surface
+FL-5084110,NHC UTILITIES INC,Consecutive,Charlotte (Primary),359,Natural                       ,No,Surface
+FL-5084111,RIVERWOOD COMMUNITY DEL. DIST.,Consecutive,Charlotte (Primary),1907,Natural                       ,No,Surface
+FL-5084116,TOWN AND COUNTRY UTILITY,Non-Adjusted,Charlotte (Primary),22,Natural                       ,No,Ground
+FL-5084117,GATOR WILDERNESS CAMP SCHOOL,Non-Adjusted,Charlotte (Primary),39,Natural                       ,No,Ground
+FL-5110058,LEE CYPRESS CO-OP,Non-Adjusted,Collier (Primary),224,Natural                       ,No,Ground
+FL-5110087,BIG CYPRESS PARK HEADQUARTERS,Non-Adjusted,Collier (Primary),89,Natural                       ,No,Ground
+FL-5110089,EVERGLADES  CITY,Non-Adjusted,Collier (Primary),2663,Natural                       ,No,Ground
+FL-5110117,FLORIDA GOVERNMENTAL UTILITY AUTHORITY SOUTH,Adjusted,Collier (Primary),13753,H2SiF6,Yes,Ground
+FL-5110118,GOODLAND WATER COMPANY,Consecutive,Collier (Primary),720,Natural                       ,No,Surface
+FL-5110142,IMMOKALEE WATER,Adjusted,Collier (Primary),22897,H2SiF6,Yes,Ground
+FL-5110182,FWSC / MARCO SHORES UTILITIES,Consecutive,Collier (Primary),1473,Na2SiF6 Dry,Yes,Surface
+FL-5110183,FWSC / MARCO ISLAND UTILITIES,Non-Adjusted,Collier (Primary),24562,Natural                       ,No,Surface
+FL-5110198,NAPLES WATER DEPT,Adjusted,Collier (Primary),47305,Na2SiF6 Dry,Yes,Ground
+FL-5110230,PORT OF THE ISLANDS,Non-Adjusted,Collier (Primary),1073,Natural                       ,No,Ground
+FL-5114069,COLLIER COUNTY REGIONAL WTP,Adjusted,Collier (Primary),153227,Na2SiF6 Dry,Yes,Ground
+FL-5114085,ORANGE TREE UTILITY CO.,Non-Adjusted,Collier (Primary),6171,Natural                       ,No,Ground
+FL-5114154,"AVE MARIA UTILITY COMPANY, LLLP",Non-Adjusted,Collier (Primary),2834,Natural                       ,No,Ground
+FL-5220166,LAKEPORT WATER ASSOCIATION,Natural,Glades (Primary),1442,Natural                       ,Yes,Ground
+FL-5220192,MOORE HAVEN WATER DEPT,Non-Adjusted,Glades (Primary),3340,Natural                       ,No,Ground
+FL-5220235,RIVER OAKS SUBDIVISION,Non-Adjusted,Glades (Primary),107,Natural                       ,No,Ground
+FL-5224074,WHISPER CREEK R.V. PARK,Non-Adjusted,Glades (Primary),787,Natural                       ,No,Ground
+FL-5224091,MAPLE CORNER,Non-Adjusted,Glades (Primary),50,Natural                       ,No,Ground
+FL-5260050,"LABELLE, CITY OF",Adjusted,Hendry (Primary),4142,H2SiF6,Yes,Ground
+FL-5260053,CITY OF CLEWISTON,Adjusted,Hendry (Primary),8213,H2SiF6,Yes,Ground
+FL-5260226,PORT LABELLE,Consecutive,Hendry (Primary),5803,H2SiF6,Yes,Ground
+FL-5260262,"SOUTH SHORE WATER ASSN., INC.",Consecutive,Hendry (Primary),4247,H2SiF6,Yes,Surface
+FL-5264050,PALM AND PINES MOBILE HOME PK,Non-Adjusted,Hendry (Primary),134,Natural                       ,No,Ground
+FL-5264054,RIVERBEND ESTATES,Non-Adjusted,Hendry (Primary),107,Natural                       ,No,Ground
+FL-5264103,RIVERBEND MOTORCOACH RESORT,Non-Adjusted,Hendry (Primary),533,Natural                       ,No,Surface
+FL-5280129,HIDDEN ACRES ESTATES,Non-Adjusted,Highlands (Primary),131,Natural                       ,No,Ground
+FL-5280155,KISSIMMEE RIVER FISHING RESORT,Non-Adjusted,Highlands (Primary),150,Natural                       ,No,Ground
+FL-5280180,MALLARD MOBILE HOME PARK,Non-Adjusted,Highlands (Primary),161,Natural                       ,No,Ground
+FL-5280211,THE PALMS ESTATES WTP,Non-Adjusted,Highlands (Primary),179,Natural                       ,No,Ground
+FL-5280266,SPRING LAKE IMPROVEMENT DIST.,Non-Adjusted,Highlands (Primary),3206,Natural                       ,No,Ground
+FL-5284101,SILVER LAKE UTILITY- BUCKHORN HOUSING,Non-Adjusted,Highlands (Primary),54,Natural                       ,No,Ground
+FL-5284114,EAGLE'S NEST ESTATES,Non-Adjusted,Highlands (Primary),45,Natural                       ,No,Ground
+FL-5284133,HIGHWAY PARK WTP,Non-Adjusted,Highlands (Primary),874,Natural                       ,No,Ground
+FL-5360025,BONITA SPRINGS WATER SYSTEM IN,Non-Adjusted,Lee (Primary),63705,Natural                       ,No,Ground
+FL-5360048,CITRUS PARK RV RESORT,Non-Adjusted,Lee (Primary),2935,Natural                       ,No,Ground
+FL-5360102,FORT MYERS WATER DEPARTMENT,Adjusted,Lee (Primary),66200,H2SiF6,Yes,Ground
+FL-5360146,ISLAND WATER ASSOCIATION,Non-Adjusted,Lee (Primary),13135,Natural                       ,No,Ground
+FL-5360172,FLORIDA GOVERNMENTAL UTILITY AUTHORITY SDLE,Non-Adjusted,Lee (Primary),26516,Natural                       ,No,Ground
+FL-5360204,OAK PARK MOBILE HOME VILLAGE,Non-Adjusted,Lee (Primary),358,Natural                       ,No,Ground
+FL-5360299,USEPPA ISLAND CLUB,Non-Adjusted,Lee (Primary),179,Natural                       ,No,Ground
+FL-5360322,GREATER PINE ISLAND WATER ASSO,Non-Adjusted,Lee (Primary),14153,Natural                       ,No,Ground
+FL-5360325,"CAPE CORAL, CITY OF",Natural,Lee (Primary),130611,Natural                       ,Yes,Ground
+FL-5364002,SUNSET ACRES,Non-Adjusted,Lee (Primary),62,Natural                       ,No,Ground
+FL-5364040,LAKE FAIRWAYS MOBILE HOME PARK,Non-Adjusted,Lee (Primary),1788,Natural                       ,No,Ground
+FL-5364048,LEE COUNTY UTILITIES,Adjusted,Lee (Primary),223788,H2SiF6,Yes,Mixed
+FL-5364062,FOUNTAINVIEW R.V. PARK,Non-Adjusted,Lee (Primary),447,Natural                       ,No,Ground
+FL-5364068,CHARLESTON PARK,Non-Adjusted,Lee (Primary),279,Natural                       ,No,Ground
+FL-5364143,GATEWAY SERVICES DISTRICT,Consecutive,Lee (Primary),11371,H2SiF6,Yes,Surface
+FL-5364145,"FORT MYERS BEACH, TOWN OF",Consecutive,Lee (Primary),6170,H2SiF6,Yes,Ground
+FL-5364149,OLD BRIDGE VILLAGE MHP,Consecutive,Lee (Primary),894,H2SiF6,Yes,Surface
+FL-5364150,PINE LAKES MHP,Consecutive,Lee (Primary),1091,H2SiF6,Yes,Surface
+FL-5364151,TAMIAMI VILLAGE MHP,Consecutive,Lee (Primary),1073,H2SiF6,Yes,Surface
+FL-5364152,MOBILE MANOR MHP,Consecutive,Lee (Primary),431,H2SiF6,Yes,Surface
+FL-6080044,CHARLOTTE HARBOR WATER ASSN.,Non-Adjusted,Charlotte (Primary),4024,Natural                       ,No,Ground
+FL-6080051,"PUNTA GORDA, CITY OF",Non-Adjusted,Charlotte (Primary),32459,Natural                       ,No,Surface
+FL-6080081,EL JOBEAN WATER ASSOCIATION IN,Consecutive,Charlotte (Primary),1196,Natural                       ,No,Surface
+FL-6080104,GASPARILLA ISLAND WATER ASSOC,Non-Adjusted,Charlotte (Primary),4973,Natural                       ,No,Ground
+FL-6080175,LITTLE GASPARILLA UTILITY INC,Non-Adjusted,Charlotte (Primary),402,Natural                       ,No,Ground
+FL-6080256,SHELL CREEK PARK,Non-Adjusted,Charlotte (Primary),416,Natural                       ,No,Ground
+FL-6080318,CHARLOTTE COUNTY UTILITIES/BURNT STORE,Non-Adjusted,Charlotte (Primary),5633,Natural                       ,No,Ground
+FL-6080324,TROPICAL PALM MHP,Non-Adjusted,Charlotte (Primary),454,Natural                       ,No,Ground
+FL-6084074,"SUN RIVER UTILITIES, INC.",Non-Adjusted,Charlotte (Primary),80,Natural                       ,No,Ground
+FL-6084075,"KNIGHT ISLAND UTILITIES, INC.",Non-Adjusted,Charlotte (Primary),385,Natural                       ,No,Ground
+FL-6084079,"BOCILLA UTILITIES, INC.",Non-Adjusted,Charlotte (Primary),367,Natural                       ,No,Ground
+FL-6090099,SUNSHINE #6/BLACKWATER HEIGHTS,Non-Adjusted,Citrus (Primary),239,Natural                       ,No,Ground
+FL-6090150,BEVERLY HILLS SUBDIVISION,Non-Adjusted,Citrus (Primary),10347,Natural                       ,No,Ground
+FL-6090156,BIG PINE ACRES,Non-Adjusted,Citrus (Primary),63,Natural                       ,No,Ground
+FL-6090267,CASTLE LAKE PARK,Non-Adjusted,Citrus (Primary),175,Natural                       ,No,Ground
+FL-6090312,CITRUS SPRINGS,Non-Adjusted,Citrus (Primary),14016,Natural                       ,No,Ground
+FL-6090317,"CRYSTAL RIVER, CITY OF",Adjusted,Citrus (Primary),4049,H2SiF6,Yes,Ground
+FL-6090411,CRYSTAL ACRES MHP,Non-Adjusted,Citrus (Primary),67,Natural                       ,No,Ground
+FL-6090523,SUNSHINE #7(ELLISWORTH POINT),Non-Adjusted,Citrus (Primary),75,Natural                       ,No,Ground
+FL-6090532,THE OASIS MHP,Non-Adjusted,Citrus (Primary),89,Natural                       ,No,Ground
+FL-6090541,EVANRIDGE MHP,Non-Adjusted,Citrus (Primary),112,Natural                       ,No,Ground
+FL-6090588,FLORAL CITY WATER ASSN,Non-Adjusted,Citrus (Primary),5022,Natural                       ,No,Ground
+FL-6090609,FT COOPER MOBILE HOME COMM,Non-Adjusted,Citrus (Primary),179,Natural                       ,No,Ground
+FL-6090674,GOLDEN TERRACE,Consecutive,Citrus (Primary),224,H2SiF6,Yes,Ground
+FL-6090729,HARBOR LIGHTS MOBILE RESORT,Non-Adjusted,Citrus (Primary),56,Natural                       ,No,Ground
+FL-6090828,HOMOSASSA SPECIAL WATER DIST,Non-Adjusted,Citrus (Primary),4961,Natural                       ,No,Ground
+FL-6090860,INVERNESS VILLAGE GARDENS,Non-Adjusted,Citrus (Primary),224,Natural                       ,No,Ground
+FL-6090861,INVERNESS WATER DEPT,Adjusted,Citrus (Primary),6432,H2SiF6,Yes,Ground
+FL-6090875,INVERNESS PARK,Non-Adjusted,Citrus (Primary),179,Natural                       ,No,Ground
+FL-6090898,CROFT BAY VILLAGE,Non-Adjusted,Citrus (Primary),43,Natural                       ,No,Ground
+FL-6091178,MEADOW DRIVE S,Non-Adjusted,Citrus (Primary),142,Natural                       ,No,Ground
+FL-6091274,OAK FOREST,Non-Adjusted,Citrus (Primary),376,Natural                       ,No,Ground
+FL-6091322,OZELLO WATER ASSOCIATION,Consecutive,Citrus (Primary),4667,Natural                       ,No,Ground
+FL-6091422,POINT O'WOODS,Non-Adjusted,Citrus (Primary),785,Natural                       ,No,Ground
+FL-6091554,ROYAL OAKS MANOR INC,Non-Adjusted,Citrus (Primary),304,Natural                       ,No,Ground
+FL-6091672,SOUTH DUNNELLON WATER ASSOC,Non-Adjusted,Citrus (Primary),268,Natural                       ,No,Ground
+FL-6091735,SUGARMILL WOODS S/D,Non-Adjusted,Citrus (Primary),9217,Natural                       ,No,Ground
+FL-6091816,THUNDERBIRD MHP,Non-Adjusted,Citrus (Primary),41,Natural                       ,No,Ground
+FL-6091876,SUNCOAST MOBILE PARK,Non-Adjusted,Citrus (Primary),72,Natural                       ,No,Ground
+FL-6092199,SPRING GARDENS,Non-Adjusted,Citrus (Primary),283,Natural                       ,No,Ground
+FL-6092326,CEDAR LAKE ESTATES,Non-Adjusted,Citrus (Primary),76,Natural                       ,No,Ground
+FL-6092327,FOREST HILLS SUBDIVISION,Non-Adjusted,Citrus (Primary),83,Natural                       ,No,Ground
+FL-6092331,AURORA ACRES,Non-Adjusted,Citrus (Primary),152,Natural                       ,No,Ground
+FL-6092334,SANDY OAKS RV & MHP;ATTN R. S.,Non-Adjusted,Citrus (Primary),80,Natural                       ,No,Ground
+FL-6092338,MEADOW WOOD S/D,Non-Adjusted,Citrus (Primary),77,Natural                       ,No,Ground
+FL-6094480,THE MEADOWS,Non-Adjusted,Citrus (Primary),100,Natural                       ,No,Ground
+FL-6094523,SPRINGHORN W S,Non-Adjusted,Citrus (Primary),22,Natural                       ,No,Ground
+FL-6094656,WEST CITRUS UTILITIES,Non-Adjusted,Citrus (Primary),172,Natural                       ,No,Ground
+FL-6094773,CONSTATE UTL/HILLS OF AVALON,Non-Adjusted,Citrus (Primary),715,Natural                       ,No,Ground
+FL-6094871,GREENBRIAR I,Non-Adjusted,Citrus (Primary),268,Natural                       ,No,Ground
+FL-6094874,PINEWOOD MOBILE HOME S/D,Non-Adjusted,Citrus (Primary),89,Natural                       ,No,Ground
+FL-6094875,DUNNELLON HILLS WATER SYSTEM,Non-Adjusted,Citrus (Primary),89,Natural                       ,No,Ground
+FL-6094886,ELDORADO ESTATES,Non-Adjusted,Citrus (Primary),168,Natural                       ,No,Ground
+FL-6094892,WALDEN WOODS MHC,Non-Adjusted,Citrus (Primary),760,Natural                       ,No,Ground
+FL-6094899,WELLAQUA,Non-Adjusted,Citrus (Primary),72,Natural                       ,No,Ground
+FL-6094928,CRYSTAL POINTE (OFF CITRUS AVE,Non-Adjusted,Citrus (Primary),84,Natural                       ,No,Ground
+FL-6094933,CITRUS CO UTL/WATER OAKS S/D,Non-Adjusted,Citrus (Primary),132,Natural                       ,No,Ground
+FL-6094934,"PINE VALLEY, UNIT 1",Non-Adjusted,Citrus (Primary),147,Natural                       ,No,Ground
+FL-6094948,CITRUS CO UTL/CHARLES A. BLACK,Non-Adjusted,Citrus (Primary),18507,Natural                       ,No,Ground
+FL-6094953,GOSPEL ISLAND ESTATES,Non-Adjusted,Citrus (Primary),55,Natural                       ,No,Ground
+FL-6094957,KENWOOD NORTH,Non-Adjusted,Citrus (Primary),154,Natural                       ,No,Ground
+FL-6094970,OAK POND ADULT M.H. ESTATES,Non-Adjusted,Citrus (Primary),63,Natural                       ,No,Ground
+FL-6094994,VENTURA VILLAGE/JOHN SLATER,Non-Adjusted,Citrus (Primary),89,Natural                       ,No,Ground
+FL-6095036,TARAWOOD OF FLORAL CITY,Non-Adjusted,Citrus (Primary),125,Natural                       ,No,Ground
+FL-6095046,CINNAMON RIDGE UTILITIES #2,Non-Adjusted,Citrus (Primary),570,Natural                       ,No,Ground
+FL-6140314,"ARCADIA WATER DEPT, CITY OF",Natural,DeSoto (Primary),7995,Natural                       ,Yes,Ground
+FL-6140451,DESOTO CORRECTIONAL INST,Non-Adjusted,DeSoto (Primary),2802,Natural                       ,No,Ground
+FL-6142734,PEACE RIVER REG WATER PLANT,Non-Adjusted,DeSoto (Primary),2952,Natural                       ,No,Surface
+FL-6144834,DESOTO VILLAGE MHP,Non-Adjusted,DeSoto (Primary),148,Natural                       ,No,Ground
+FL-6144856,LAKE SUZY SUBDIVISION,Consecutive,DeSoto (Primary),3153,Natural                       ,No,Surface
+FL-6144898,Desoto County Water System,Consecutive,DeSoto (Primary),4080,Natural                       ,No,Mixed
+FL-6250278,CHARLIE CREEK-THE VILLAGE OF,Non-Adjusted,Hardee (Primary),123,Natural                       ,No,Ground
+FL-6250329,WAUCHULA CITY WATER DEPARTMENT,Natural,Hardee (Primary),4471,Natural                       ,Yes,Ground
+FL-6250332,"ZOLFO SPRINGS, CITY OF",Natural,Hardee (Primary),1609,Natural                       ,Yes,Ground
+FL-6251954,PEACE RIVER HTS,Non-Adjusted,Hardee (Primary),224,Natural                       ,No,Ground
+FL-6252022,"BOWLING GREEN, CITY OF",Non-Adjusted,Hardee (Primary),2629,Natural                       ,No,Ground
+FL-6252030,RESTHAVEN,Non-Adjusted,Hardee (Primary),30,Natural                       ,No,Ground
+FL-6254754,HARDEE CORRECTIONAL INSTITUTE,Non-Adjusted,Hardee (Primary),1699,Natural                       ,No,Ground
+FL-6254762,BROOKSIDE BLUFF RV PARK,Non-Adjusted,Hardee (Primary),268,Natural                       ,No,Ground
+FL-6254774,F.I.N.R.,Non-Adjusted,Hardee (Primary),268,Natural                       ,No,Ground
+FL-6254785,TORREY OAKS SUBDIVISION,Non-Adjusted,Hardee (Primary),89,Natural                       ,No,Ground
+FL-6254799,WAUCHULA HILLS,Consecutive,Hardee (Primary),2159,Natural                       ,Yes,Ground
+FL-6270009,BIG TREE MOBILE HOME & RV VILL,Non-Adjusted,Hernando (Primary),179,Natural                       ,No,Ground
+FL-6270246,CAMP-A-WYLE LAKE RESORT,Non-Adjusted,Hernando (Primary),358,Natural                       ,No,Ground
+FL-6270269,HERNANDO CO UTL-CEDAR LN SITES,Non-Adjusted,Hernando (Primary),325,Natural                       ,No,Ground
+FL-6270468,HERNANDO CO UTL-DOGWOOD EST,Non-Adjusted,Hernando (Primary),709,Natural                       ,No,Ground
+FL-6270851,IMPERIAL ESTATES MHP,Non-Adjusted,Hernando (Primary),224,Natural                       ,No,Ground
+FL-6271171,FRONTIER CAMPGROUND,Non-Adjusted,Hernando (Primary),201,Natural                       ,No,Ground
+FL-6271553,HERNANDO CO UTL -ROYAL OAKS,Non-Adjusted,Hernando (Primary),161,Natural                       ,No,Ground
+FL-6271934,WEEKI WACHEE NORTH TP,Non-Adjusted,Hernando (Primary),134,Natural                       ,No,Ground
+FL-6272180,BROOKSVILLE  CITY OF,Adjusted,Hernando (Primary),10283,Unknown,Yes,Ground
+FL-6272304,CAMPER'S HOLIDAY,Non-Adjusted,Hernando (Primary),358,Natural                       ,No,Ground
+FL-6272433,LAKE LINDSEY WATER,Non-Adjusted,Hernando (Primary),58,Natural                       ,No,Ground
+FL-6274859,COUNTRYSIDE ESTATES,Non-Adjusted,Hernando (Primary),125,Natural                       ,No,Ground
+FL-6277059,HERNANDO CO. UTILITIES - WEST,Non-Adjusted,Hernando (Primary),116736,Natural                       ,No,Ground
+FL-6277060,HERNANDO CO. UTILITIES - EAST,Non-Adjusted,Hernando (Primary),6929,Natural                       ,No,Ground
+FL-6277064,SEVILLE WATER SYSTEM,Non-Adjusted,Hernando (Primary),72,Natural                       ,No,Ground
+FL-6280049,"AVON PARK, CITY OF",Non-Adjusted,Highlands (Primary),16596,Natural                       ,No,Ground
+FL-6280064,LEISURE LAKES/FWSC,Non-Adjusted,Highlands (Primary),565,Natural                       ,No,Ground
+FL-6280158,LAKE BONNET VILLAGE,Non-Adjusted,Highlands (Primary),448,Natural                       ,No,Ground
+FL-6280162,LAKE JOSEPHINE HEIGHTS,Non-Adjusted,Highlands (Primary),1118,Natural                       ,No,Ground
+FL-6280167,LAKESIDE VILLAGE MHP,Non-Adjusted,Highlands (Primary),291,Natural                       ,No,Ground
+FL-6280181,MARANATHA VILLAGE,Non-Adjusted,Highlands (Primary),358,Natural                       ,No,Ground
+FL-6280223,PLACID LAKES UTILITY INC,Non-Adjusted,Highlands (Primary),3666,Natural                       ,No,Ground
+FL-6280250,SEBRING WATER & SEWER SYSTEM,Adjusted,Highlands (Primary),38126,H2SiF6,Yes,Ground
+FL-6280273,SUN-N-LAKES OF LAKE PLACID,Non-Adjusted,Highlands (Primary),338,Natural                       ,No,Ground
+FL-6280274,SUN-N-LAKES OF SEBRING WATER,Non-Adjusted,Highlands (Primary),6894,Natural                       ,No,Ground
+FL-6280286,"LAKE PLACID, TOWN OF",Non-Adjusted,Highlands (Primary),3906,Natural                       ,No,Ground
+FL-6280296,TROPICAL HARBOR ESTATES,Non-Adjusted,Highlands (Primary),581,Natural                       ,No,Ground
+FL-6280304,THE WOODLANDS OF LAKE PLACID,Non-Adjusted,Highlands (Primary),715,Natural                       ,No,Ground
+FL-6284074,TOMOKA HEIGHTS,Non-Adjusted,Highlands (Primary),2318,Natural                       ,No,Ground
+FL-6284075,BUTTONWOOD BAY MHP,Non-Adjusted,Highlands (Primary),1788,Natural                       ,No,Ground
+FL-6284076,COUNTRY CLUB OF SEBRING,Non-Adjusted,Highlands (Primary),760,Natural                       ,No,Ground
+FL-6284077,ORANGE BLOSSOM FELLOWSHIP,Non-Adjusted,Highlands (Primary),134,Natural                       ,No,Ground
+FL-6284089,MEADOWLAKE SUBDIVISION,Non-Adjusted,Highlands (Primary),75,Natural                       ,No,Ground
+FL-6284097,DEEANN LAKEFRONT ESTATES,Non-Adjusted,Highlands (Primary),116,Natural                       ,No,Ground
+FL-6284114,COUNTRY WALK,Non-Adjusted,Highlands (Primary),149,Natural                       ,No,Ground
+FL-6290017,A&ampA MHP,Non-Adjusted,Hillsborough (Primary),67,Natural                       ,No,Ground
+FL-6290047,THONOTOSASSA TP,Non-Adjusted,Hillsborough (Primary),54,Natural                       ,No,Ground
+FL-6290072,ANNA MARY MHP,Non-Adjusted,Hillsborough (Primary),34,Natural                       ,No,Ground
+FL-6290112,VALRICO HILLS TRAILER PARK,Non-Adjusted,Hillsborough (Primary),145,Natural                       ,No,Ground
+FL-6290116,WINDEMERE UTILITY,Non-Adjusted,Hillsborough (Primary),2482,Natural                       ,No,Ground
+FL-6290157,OAKS OF THONOTOSASSA MHP,Non-Adjusted,Hillsborough (Primary),295,Natural                       ,No,Ground
+FL-6290186,MOUNT CARMEL RIDGE,Non-Adjusted,Hillsborough (Primary),224,Natural                       ,No,Ground
+FL-6290189,BRIARWOOD MOBILE HOME PARK,Non-Adjusted,Hillsborough (Primary),246,Natural                       ,No,Ground
+FL-6290190,BRITT'S TP,Non-Adjusted,Hillsborough (Primary),85,Natural                       ,No,Ground
+FL-6290222,CALM HARBOUR SUBDIVISION,Non-Adjusted,Hillsborough (Primary),49,Natural                       ,No,Ground
+FL-6290227,CAMELOT MHP,Non-Adjusted,Hillsborough (Primary),215,Natural                       ,No,Ground
+FL-6290251,PALMS OF LUTZ,Non-Adjusted,Hillsborough (Primary),40,Natural                       ,No,Ground
+FL-6290256,CAROUSEL VILLAGE MHP,Non-Adjusted,Hillsborough (Primary),73,Natural                       ,No,Ground
+FL-6290276,CHALET VILLAGE MHP,Non-Adjusted,Hillsborough (Primary),116,Natural                       ,No,Ground
+FL-6290279,CHARLIES MHP,Non-Adjusted,Hillsborough (Primary),195,Natural                       ,No,Ground
+FL-6290298,CHULA VISTA LANDINGS,Non-Adjusted,Hillsborough (Primary),340,Natural                       ,No,Ground
+FL-6290309,CITRUS KNOLL MHP,Non-Adjusted,Hillsborough (Primary),46,Natural                       ,No,Ground
+FL-6290323,PLANT CITY UTILITY,Adjusted,Hillsborough (Primary),32984,H2SiF6,Yes,Ground
+FL-6290327,CITY OF TAMPA-WATER DEPARTMENT,Adjusted,Hillsborough (Primary),576714,H2SiF6,Yes,Surface
+FL-6290333,HCWRS/SEABOARD UTILITIES,Consecutive,Hillsborough (Primary),12256,H2SiF6,Yes,Ground
+FL-6290388,HCWRS/NORTHWEST UTILITIES,Adjusted,Hillsborough (Primary),180906,H2SiF6,Yes,Ground
+FL-6290392,COUNTRYSIDE MHP,Non-Adjusted,Hillsborough (Primary),45,Natural                       ,No,Ground
+FL-6290401,CRENSHAW LK RD MHP,Non-Adjusted,Hillsborough (Primary),43,Natural                       ,No,Ground
+FL-6290406,STRAWBERRY FIELDS MHP,Non-Adjusted,Hillsborough (Primary),224,Natural                       ,No,Ground
+FL-6290416,CYPRESS COVE SUBDIVISION,Non-Adjusted,Hillsborough (Primary),60,Natural                       ,No,Ground
+FL-6290430,DAVPAM MHP,Non-Adjusted,Hillsborough (Primary),1118,Natural                       ,No,Ground
+FL-6290474,TRIPLE T MHP,Non-Adjusted,Hillsborough (Primary),113,Natural                       ,No,Ground
+FL-6290482,DUFFEY'S TRAILER PARK,Non-Adjusted,Hillsborough (Primary),76,Natural                       ,No,Ground
+FL-6290497,EASTLAKE UTILITIES,Consecutive,Hillsborough (Primary),1837,H2SiF6,Yes,Ground
+FL-6290505,FAMILY RENTALS OF SEFFNER,Non-Adjusted,Hillsborough (Primary),67,Natural                       ,No,Ground
+FL-6290548,ALAFIA OAKS TP,Non-Adjusted,Hillsborough (Primary),36,Natural                       ,No,Ground
+FL-6290595,FLORIDA LIGHT LIFE MHP,Non-Adjusted,Hillsborough (Primary),438,Natural                       ,No,Ground
+FL-6290607,FLYING CLOUD TP,Non-Adjusted,Hillsborough (Primary),54,Natural                       ,No,Ground
+FL-6290631,GALAXY MHP,Non-Adjusted,Hillsborough (Primary),72,Natural                       ,No,Ground
+FL-6290685,"SUNBURST RV PARK, TAMPA EAST",Non-Adjusted,Hillsborough (Primary),268,Natural                       ,No,Ground
+FL-6290696,GROVE MHP,Non-Adjusted,Hillsborough (Primary),61,Natural                       ,No,Ground
+FL-6290728,Happy Traveler's RVP,Non-Adjusted,Pasco (Primary),268,Natural                       ,No,Ground
+FL-6290740,MAGNOLIA TP,Non-Adjusted,Hillsborough (Primary),27,Natural                       ,No,Ground
+FL-6290741,HAWAIIAN ISLES MHP,Non-Adjusted,Hillsborough (Primary),326,Natural                       ,No,Ground
+FL-6290758,HI PINES MOBILE HOME PARK,Non-Adjusted,Hillsborough (Primary),64,Natural                       ,No,Ground
+FL-6290787,SOUTH CENTRAL SERVICE AREA,Adjusted,Hillsborough (Primary),376753,H2SiF6,Yes,Ground
+FL-6290800,HILLTOP MHP,Non-Adjusted,Hillsborough (Primary),73,Natural                       ,No,Ground
+FL-6290937,KING RICHARDS' CT,Non-Adjusted,Hillsborough (Primary),134,Natural                       ,No,Ground
+FL-6290960,LAZY ACRES TP,Non-Adjusted,Hillsborough (Primary),45,Natural                       ,No,Ground
+FL-6290997,LAKE ROSE VILLAGE,Non-Adjusted,Hillsborough (Primary),22,Natural                       ,No,Ground
+FL-6291018,CAX LAKESHORE VILLAS,Non-Adjusted,Hillsborough (Primary),528,Natural                       ,No,Ground
+FL-6291023,PINE TREE VILLAGE MHP,Non-Adjusted,Hillsborough (Primary),36,Natural                       ,No,Ground
+FL-6291037,MORNINGSTAR MOBILE HOME PARK,Non-Adjusted,Hillsborough (Primary),80,Natural                       ,No,Ground
+FL-6291087,LITTLE MANATEE ISLES TP,Non-Adjusted,Hillsborough (Primary),125,Natural                       ,No,Ground
+FL-6291088,LITTLE MANATEE SPRINGS MHP,Non-Adjusted,Hillsborough (Primary),474,Natural                       ,No,Ground
+FL-6291096,LIVINGSTON MHP,Non-Adjusted,Hillsborough (Primary),116,Natural                       ,No,Ground
+FL-6291104,STONE LEDGE MANOR,Non-Adjusted,Hillsborough (Primary),57,Natural                       ,No,Ground
+FL-6291139,WILD WOOD ACRES APTS,Consecutive,Hillsborough (Primary),1202,H2SiF6,Yes,Ground
+FL-6291170,DUNCAN'S M.H.P.,Non-Adjusted,Hillsborough (Primary),48,Natural                       ,No,Ground
+FL-6291213,EASY LIVING MHP,Non-Adjusted,Hillsborough (Primary),118,Natural                       ,No,Ground
+FL-6291251,HIDDEN OAKS MHP,Non-Adjusted,Hillsborough (Primary),121,Natural                       ,No,Ground
+FL-6291252,NEPTUNE VILLAGE MHP,Non-Adjusted,Hillsborough (Primary),218,Natural                       ,No,Ground
+FL-6291276,MONTANA'S MHP,Non-Adjusted,Hillsborough (Primary),70,Natural                       ,No,Ground
+FL-6291280,OAK HILL VILLAGE MHP,Non-Adjusted,Hillsborough (Primary),286,Natural                       ,No,Ground
+FL-6291288,HCWRS/OAKVIEW ESTATES,Consecutive,Polk (Primary),580,H2SiF6,Yes,Ground
+FL-6291341,"PARADISE VILLAGE,ATTN: JOHN",Non-Adjusted,Hillsborough (Primary),1098,Natural                       ,No,Ground
+FL-6291372,PEBBLE CREEK,Consecutive,Hillsborough (Primary),4838,H2SiF6,Yes,Surface
+FL-6291445,BLACKDAIRY ROAD TP,Non-Adjusted,Hillsborough (Primary),72,Natural                       ,No,Ground
+FL-6291481,RANCH OAKS MHP,Non-Adjusted,Hillsborough (Primary),147,Natural                       ,No,Ground
+FL-6291483,RAY-MAR MHP,Non-Adjusted,Hillsborough (Primary),80,Natural                       ,No,Ground
+FL-6291521,RIVERSIDE MHP,Non-Adjusted,Hillsborough (Primary),36,Natural                       ,No,Ground
+FL-6291524,RIVIERA MHP,Non-Adjusted,Hillsborough (Primary),22,Natural                       ,No,Ground
+FL-6291529,GUTHRIES SUNSHINE PK,Non-Adjusted,Hillsborough (Primary),36,Natural                       ,No,Ground
+FL-6291531,ROBINSON ORANGE PARK,Non-Adjusted,Hillsborough (Primary),224,Natural                       ,No,Ground
+FL-6291541,FEATHEROCK MHP,Non-Adjusted,Hillsborough (Primary),933,Natural                       ,No,Ground
+FL-6291547,ROSEBROOK MPH,Non-Adjusted,Hillsborough (Primary),116,Natural                       ,No,Ground
+FL-6291575,SAFFOLD FARMS,Non-Adjusted,Hillsborough (Primary),26,Natural                       ,No,Ground
+FL-6291581,SAN-REMO SUBDIVISION,Non-Adjusted,Hillsborough (Primary),219,Natural                       ,No,Ground
+FL-6291597,RIVERSIDE GOLF COURSE COMMUNITY LLC,Non-Adjusted,Hillsborough (Primary),989,Natural                       ,No,Ground
+FL-6291610,SHADY GROVE,Non-Adjusted,Hillsborough (Primary),38,Natural                       ,No,Ground
+FL-6291684,SPANISH MAIN TRAVEL RESORT,Non-Adjusted,Hillsborough (Primary),241,Natural                       ,No,Ground
+FL-6291687,SPEER MHP,Non-Adjusted,Hillsborough (Primary),241,Natural                       ,No,Ground
+FL-6291761,SUNRISE MHP,Non-Adjusted,Hillsborough (Primary),335,Natural                       ,No,Ground
+FL-6291767,SUNSHINE TP,Non-Adjusted,Hillsborough (Primary),22,Natural                       ,No,Ground
+FL-6291776,KINGS OAK MHP,Non-Adjusted,Hillsborough (Primary),36,Natural                       ,No,Ground
+FL-6291791,TEMPLE TERRACE UTILITY,Adjusted,Hillsborough (Primary),27942,H2SiF6,Yes,Ground
+FL-6291810,CRAWFORD 3 B'S,Non-Adjusted,Hillsborough (Primary),63,Natural                       ,No,Ground
+FL-6291840,TOWN & COUNTRY MHP,Non-Adjusted,Hillsborough (Primary),143,Natural                       ,No,Ground
+FL-6291847,STONEBRIDGE MHP,Non-Adjusted,Hillsborough (Primary),80,Natural                       ,No,Ground
+FL-6291870,TWIN PALMS COURT,Non-Adjusted,Hillsborough (Primary),122,Natural                       ,No,Ground
+FL-6291882,UNIV OF SOUTH FLORIDA,Non-Adjusted,Hillsborough (Primary),44707,Natural                       ,No,Ground
+FL-6291969,PINE OAKS MHP,Non-Adjusted,Hillsborough (Primary),279,Natural                       ,No,Ground
+FL-6291984,SUN CITY MHP,Non-Adjusted,Hillsborough (Primary),84,Natural                       ,No,Ground
+FL-6291988,WINDWARD KNOLL MHP,Non-Adjusted,Hillsborough (Primary),222,Natural                       ,No,Ground
+FL-6292076,RAINTREE OAKS,Non-Adjusted,Hillsborough (Primary),31,Natural                       ,No,Ground
+FL-6292080,42ND STREET APARTMENTS,Non-Adjusted,Hillsborough (Primary),143,Natural                       ,No,Ground
+FL-6292081,HCWRS/HERSHEL HEIGHTS,Consecutive,Hillsborough (Primary),693,H2SiF6,Yes,Surface
+FL-6292089,LA CASA MIA,Non-Adjusted,Hillsborough (Primary),49,Natural                       ,No,Ground
+FL-6292096,SPRINGTREE APTS,Non-Adjusted,Hillsborough (Primary),46,Natural                       ,No,Ground
+FL-6292099,TERRACE SQUARE APTS,Non-Adjusted,Hillsborough (Primary),40,Natural                       ,No,Ground
+FL-6292235,MEGCHAD MHP,Non-Adjusted,Hillsborough (Primary),67,Natural                       ,No,Ground
+FL-6292453,OAKWOOD ACRES APTS,Consecutive,Hillsborough (Primary),72,H2SiF6,Yes,Ground
+FL-6292643,REGENCY OAKS,Non-Adjusted,Hillsborough (Primary),52,Natural                       ,No,Ground
+FL-6292645,RIVERBREEZE MHP,Non-Adjusted,Hillsborough (Primary),27,Natural                       ,No,Ground
+FL-6292647,YAK'S MHP,Non-Adjusted,Hillsborough (Primary),39,Natural                       ,No,Ground
+FL-6292653,LARRET MHP,Non-Adjusted,Hillsborough (Primary),45,Natural                       ,No,Ground
+FL-6292654,OAKBROOK MOBILE HOME PARK,Non-Adjusted,Hillsborough (Primary),358,Natural                       ,No,Ground
+FL-6292655,STRAWBERRY SQUARE MHP,Non-Adjusted,Hillsborough (Primary),179,Natural                       ,No,Ground
+FL-6292755,RAINBOW ROCK MHP,Non-Adjusted,Hillsborough (Primary),67,Natural                       ,No,Ground
+FL-6292786,CHURCH OF GOD CAMPGROUND,Non-Adjusted,Hillsborough (Primary),72,Natural                       ,No,Ground
+FL-6292787,CRYSTAL-KAY TP,Non-Adjusted,Hillsborough (Primary),45,Natural                       ,No,Ground
+FL-6294172,GREEN OAKS MHP,Non-Adjusted,Hillsborough (Primary),55,Natural                       ,No,Ground
+FL-6294343,HOLLEY COURT APTS,Non-Adjusted,Hillsborough (Primary),36,Natural                       ,No,Ground
+FL-6294344,TOWERING PINES,Non-Adjusted,Hillsborough (Primary),31,Natural                       ,No,Ground
+FL-6294409,HIGHLAND APARTMENTS,Non-Adjusted,Hillsborough (Primary),43,Natural                       ,No,Ground
+FL-6294552,JULIE APTS,Non-Adjusted,Hillsborough (Primary),29,Natural                       ,No,Ground
+FL-6294612,RIVER PALM RV RESORT,Non-Adjusted,Hillsborough (Primary),536,Natural                       ,No,Ground
+FL-6294714,STAR-LITE TP,Non-Adjusted,Hillsborough (Primary),102,Natural                       ,No,Ground
+FL-6294733,SILVER DOLLAR GOLF CLUB,Non-Adjusted,Hillsborough (Primary),590,Natural                       ,No,Ground
+FL-6294775,MANATEE RVP,Natural,Hillsborough (Primary),59,Natural                       ,Yes,Ground
+FL-6294792,SOUTHERN AIRE RVP,Non-Adjusted,Hillsborough (Primary),89,Natural                       ,No,Ground
+FL-6294850,MEADOWS OF COUNTRYWOOD,Non-Adjusted,Hillsborough (Primary),2094,Natural                       ,No,Ground
+FL-6294856,EASTFIELD SLOPES CONDO ASSOC,Non-Adjusted,Hillsborough (Primary),268,Natural                       ,No,Ground
+FL-6295112,OAKWOOD CT APTS,Non-Adjusted,Hillsborough (Primary),46,Natural                       ,No,Ground
+FL-6295151,DOWNING LLC,Non-Adjusted,Hillsborough (Primary),60,Natural                       ,No,Ground
+FL-6295172,SUNRISE MOBILE HOME PARK,Non-Adjusted,Hillsborough (Primary),40,Natural                       ,No,Ground
+FL-6295177,WOODARD MANOR,Non-Adjusted,Hillsborough (Primary),89,Natural                       ,No,Ground
+FL-6295183,BAY HILLS VILLAGE CONDO ASSOCIATION,Non-Adjusted,Hillsborough (Primary),195,Natural                       ,No,Ground
+FL-6295184,PINE HAVEN MHP,Non-Adjusted,Hillsborough (Primary),63,Natural                       ,No,Ground
+FL-6295191,PARKWOOD ESTATES,Non-Adjusted,Hillsborough (Primary),384,Natural                       ,No,Ground
+FL-6295240,RIVER RUN MHP,Non-Adjusted,Hillsborough (Primary),49,Natural                       ,No,Ground
+FL-6295265,COUNTRY OAKS ADULT MHP,Non-Adjusted,Hillsborough (Primary),32,Natural                       ,No,Ground
+FL-6295275,CITRUS HILLS RVP,Non-Adjusted,Hillsborough (Primary),161,Natural                       ,No,Ground
+FL-6295310,PILGRIM HATHCOCK VILLAGE MHP,Non-Adjusted,Hillsborough (Primary),45,Natural                       ,No,Ground
+FL-6295311,MAGNOLIA HILL MOBILE HOME PARK,Non-Adjusted,Hillsborough (Primary),80,Natural                       ,No,Ground
+FL-6295355,HOPE CHILDREN'S HOME,Non-Adjusted,Hillsborough (Primary),243,Natural                       ,No,Ground
+FL-6295376,SUNDIAL MHP AND CAMPGROUND,Non-Adjusted,Hillsborough (Primary),116,Natural                       ,No,Ground
+FL-6295398,SUN LAND MHP,Non-Adjusted,Hillsborough (Primary),45,Natural                       ,No,Ground
+FL-6295413,SUNSET MANOR,Non-Adjusted,Hillsborough (Primary),66,Natural                       ,No,Ground
+FL-6295453,PARK VILLAGE MHP,Non-Adjusted,Hillsborough (Primary),64,Natural                       ,No,Ground
+FL-6295471,ASHLEY OAKS MOBILE HOME PARK,Non-Adjusted,Hillsborough (Primary),54,Natural                       ,No,Ground
+FL-6295491,PLEASANT GROVE ASSEMBLY OF GOD,Non-Adjusted,Hillsborough (Primary),89,Natural                       ,No,Ground
+FL-6295507,HUTTO'S MHP,Non-Adjusted,Hillsborough (Primary),67,Natural                       ,No,Ground
+FL-6295523,HIDE-A-WAY R.V. RESORT,Non-Adjusted,Hillsborough (Primary),556,Natural                       ,No,Ground
+FL-6295569,HILLSBOROUGH MHP,Non-Adjusted,Hillsborough (Primary),54,Natural                       ,No,Ground
+FL-6295577,NATURE'S TRAIL MHP,Non-Adjusted,Hillsborough (Primary),45,Natural                       ,No,Ground
+FL-6295604,FRESH START MHP,Non-Adjusted,Hillsborough (Primary),37,Natural                       ,No,Ground
+FL-6295613,CYPRESS MOBILE HOME PARK,Non-Adjusted,Hillsborough (Primary),55,Natural                       ,No,Ground
+FL-6295614,RAINBOW FOREST MHP/ WIG-WAM,Non-Adjusted,Hillsborough (Primary),89,Natural                       ,No,Ground
+FL-6295621,SHEARWOOD M.H.P.,Non-Adjusted,Hillsborough (Primary),33,Natural                       ,No,Ground
+FL-6295647,ORANGE BLOSSOM TRAILER PARK,Non-Adjusted,Hillsborough (Primary),56,Natural                       ,No,Ground
+FL-6295649,GREEN ACRES,Non-Adjusted,Hillsborough (Primary),40,Natural                       ,No,Ground
+FL-6295970,IRIS COURT APARTMENTS SOUTH,Non-Adjusted,Hillsborough (Primary),32,Natural                       ,No,Ground
+FL-6295971,PATRICIA HEARD MLC,Non-Adjusted,Hillsborough (Primary),79,Natural                       ,No,Ground
+FL-6295983,HAPPY HOMES MOBILE HOME PARK,Non-Adjusted,Hillsborough (Primary),192,Natural                       ,No,Ground
+FL-6295994,SILVER DOLLAR SHOOTERS CLUB,Non-Adjusted,Hillsborough (Primary),156,Natural                       ,No,Ground
+FL-6296005,ST. FRANCIS FOUNDATION INC,Non-Adjusted,Hillsborough (Primary),45,Natural                       ,No,Ground
+FL-6296039,EAST POINT ASSEMBLY OF GOD,Non-Adjusted,Hillsborough (Primary),22,Natural                       ,No,Ground
+FL-6296085,THE LAKES OF WELLINGTON,Non-Adjusted,Hillsborough (Primary),232,Natural                       ,No,Ground
+FL-6296139,TAMPA BAY WATER REG. SURFACE WP,Non-Adjusted,Hillsborough (Primary),22,Natural                       ,No,Ground
+FL-6296143,JAYMAR VILLAS,Non-Adjusted,Hillsborough (Primary),488,Natural                       ,No,Ground
+FL-6296145,FAIRVIEW MHP,Consecutive,Hillsborough (Primary),85,H2SiF6,Yes,Surface
+FL-6296153,TAMPA BAY SEAWATER DESALINATION FACILITY,Non-Adjusted,Hillsborough (Primary),22,Natural                       ,No,Surface
+FL-6296175,SUNPOINT MHP,Non-Adjusted,Hillsborough (Primary),61,Natural                       ,No,Ground
+FL-6296177,TAMPA BAY WATER MORRIS BRIDGE PUMP STA,Non-Adjusted,Hillsborough (Primary),22,Natural                       ,No,Ground
+FL-6296194,BARRINGTON OAKS,Non-Adjusted,Hillsborough (Primary),116,Natural                       ,No,Ground
+FL-6296199,PROMENADE SUBDIVISION,Consecutive,Hillsborough (Primary),179,H2SiF6,Yes,Surface
+FL-6296217,CPM PROPERTIES,Non-Adjusted,Hillsborough (Primary),27,Natural                       ,No,Ground
+FL-6296224,SAN JOSE MISSION,Non-Adjusted,Hillsborough (Primary),335,Natural                       ,No,Ground
+FL-6296243,FISHHAWK RANCH TOWNHOMES,Consecutive,Hillsborough (Primary),895,H2SiF6,Yes,Surface
+FL-6296249,ON THE PARK TOWNHOMES,Consecutive,Hillsborough (Primary),58,H2SiF6,Yes,Surface
+FL-6296251,SOUTH SHORE FALLS SOUTH MASTER METER #1,Consecutive,Hillsborough (Primary),358,H2SiF6,Yes,Surface
+FL-6296281,VILLAGE CENTRE TOWNHOMES,Consecutive,Hillsborough (Primary),161,H2SiF6,Yes,Surface
+FL-6296291,RUSKIN MOBILES,Non-Adjusted,Hillsborough (Primary),45,Natural                       ,No,Ground
+FL-6296317,SKIPPER MHP,Non-Adjusted,Hillsborough (Primary),63,Natural                       ,No,Ground
+FL-6296319,BUD WELL #7 WTP,Non-Adjusted,Hillsborough (Primary),22,Natural                       ,No,Ground
+FL-6296320,BUD WELL #5 WTP,Non-Adjusted,Hillsborough (Primary),22,Natural                       ,No,Ground
+FL-6296364,RICHARD HIGGINS MHP,Non-Adjusted,Hillsborough (Primary),43,Natural                       ,No,Ground
+FL-6296389,SHERWOOD MHP WEST,Non-Adjusted,Hillsborough (Primary),40,Natural                       ,No,Ground
+FL-6382055,WILLISTON WTP,Non-Adjusted,Levy (Primary),1118,Natural                       ,No,Ground
+FL-6382056,INGLIS WATER DEPT.,Non-Adjusted,Levy (Primary),1341,Natural                       ,No,Ground
+FL-6382108,INGLEWOOD ESTATES MH S,Non-Adjusted,Levy (Primary),134,Natural                       ,No,Ground
+FL-6382116,YANKEETOWN WATER DEPT.,Non-Adjusted,Levy (Primary),636,Natural                       ,No,Ground
+FL-6410182,BRADENTON CITY OF,Adjusted,Manatee (Primary),48649,H2SiF6,Yes,Surface
+FL-6410322,PALMETTO WATER DEPT,Consecutive,Manatee (Primary),11271,H2SiF6,Yes,Surface
+FL-6411078,LINGER LODGE TR TRAILER PARK,Non-Adjusted,Manatee (Primary),224,Natural                       ,No,Ground
+FL-6411098,TOWN OF LONGBOAT KEY,Consecutive,Manatee (Primary),6798,H2SiF6,Yes,Surface
+FL-6411132,MANATEE COUNTY UTILITIES DEPT,Adjusted,Manatee (Primary),400018,H2SiF6,Yes,Mixed
+FL-6412418,SUNNY SHORES WATER COMP,Consecutive,Manatee (Primary),402,H2SiF6,Yes,Surface
+FL-6412533,HEATHER HILLS ESTATES,Consecutive,Manatee (Primary),626,H2SiF6,Yes,Ground
+FL-6412551,HARBOUR ISLES MASTER ASSOCIATION,Consecutive,Manatee (Primary),179,H2SiF6,Yes,Surface
+FL-6420103,BAHIA OAKS,Consecutive,Marion (Primary),1073,H2SiF6,Yes,Ground
+FL-6420467,DOGWOOD ACRES,Non-Adjusted,Marion (Primary),162,Natural                       ,No,Ground
+FL-6420619,FOXWOOD FARMS (RONALD LAFERTE),Non-Adjusted,Marion (Primary),297,Natural                       ,No,Ground
+FL-6421041,PALM LAKE APTS,Non-Adjusted,Marion (Primary),54,Natural                       ,No,Ground
+FL-6421144,MARION OAKS SUB DIVISION,Non-Adjusted,Marion (Primary),17347,Natural                       ,No,Ground
+FL-6421512,RIO VISTA/ASTOR WEST,Non-Adjusted,Marion (Primary),358,Natural                       ,No,Ground
+FL-6421952,WESTWOOD MOBILE HOME PARK,Non-Adjusted,Marion (Primary),134,Natural                       ,No,Ground
+FL-6422359,OAK TREE VILLAGE APTS & CAMPGR,Non-Adjusted,Marion (Primary),368,Natural                       ,No,Ground
+FL-6422362,ARROWHEAD CAMPSITES,Non-Adjusted,Marion (Primary),89,Natural                       ,No,Ground
+FL-6422679,RAINBOW SPRINGS CC ESTATES,Non-Adjusted,Marion (Primary),1633,Natural                       ,No,Ground
+FL-6424073,"DUNNELLON, CITY OF",Non-Adjusted,Marion (Primary),1719,Natural                       ,No,Ground
+FL-6424076,GOLDEN HILLS GOLF AND TURF,Non-Adjusted,Marion (Primary),1662,Natural                       ,No,Ground
+FL-6424083,RAINBOW LAKES ESTATES,Non-Adjusted,Marion (Primary),1622,Natural                       ,No,Ground
+FL-6424352,COUNTRY OAKS,Non-Adjusted,Marion (Primary),82,Natural                       ,No,Ground
+FL-6424371,SATEKE VILLAGE,Non-Adjusted,Marion (Primary),77,Natural                       ,No,Ground
+FL-6424589,INTERNATIONAL VILLAS,Non-Adjusted,Marion (Primary),85,Natural                       ,No,Ground
+FL-6424590,LIBRA OAKS,Non-Adjusted,Marion (Primary),286,Natural                       ,No,Ground
+FL-6424591,RIDGE MEADOWS,Non-Adjusted,Marion (Primary),204,Natural                       ,No,Ground
+FL-6424618,PADDOCK DOWNS,Non-Adjusted,Marion (Primary),344,Natural                       ,No,Ground
+FL-6424619,ON TOP OF THE WORLD,Non-Adjusted,Marion (Primary),11535,Natural                       ,No,Ground
+FL-6424620,SADDLE OAK CLUB MHP,Non-Adjusted,Marion (Primary),581,Natural                       ,No,Ground
+FL-6424621,OCALA JOCKEY CLUB S/D,Non-Adjusted,Marion (Primary),89,Natural                       ,No,Ground
+FL-6424623,GOLDEN HILLS MHP,Non-Adjusted,Marion (Primary),289,Natural                       ,No,Ground
+FL-6424627,MARION LANDING,Non-Adjusted,Marion (Primary),894,Natural                       ,No,Ground
+FL-6424629,THE FALLS OF OCALA,Non-Adjusted,Marion (Primary),107,Natural                       ,No,Ground
+FL-6424630,OAK RUN ESTATES,Non-Adjusted,Marion (Primary),10540,Natural                       ,No,Ground
+FL-6424632,WOODS AND MEADOWS,Non-Adjusted,Marion (Primary),1552,Natural                       ,No,Ground
+FL-6424652,SPRUCE CREEK UTILITY CO INC.,Non-Adjusted,Marion (Primary),7745,Natural                       ,No,Ground
+FL-6424653,DEER CREEK MOBILE HOME S/D,Non-Adjusted,Marion (Primary),148,Natural                       ,No,Ground
+FL-6424673,THE CENTERS,Non-Adjusted,Marion (Primary),89,Natural                       ,No,Ground
+FL-6424678,MAJESTIC OAKS - PIGGEON PARK,Non-Adjusted,Marion (Primary),1292,Natural                       ,No,Ground
+FL-6424689,SWEETWATER OAKS,Non-Adjusted,Marion (Primary),215,Natural                       ,No,Ground
+FL-6424704,FAIRFIELD VILLAGE,Non-Adjusted,Marion (Primary),447,Natural                       ,No,Ground
+FL-6424706,HAMPTON MANOR WEST,Non-Adjusted,Marion (Primary),45,Natural                       ,No,Ground
+FL-6424741,HAMPTON MANOR GARDENS ACLF,Non-Adjusted,Marion (Primary),67,Natural                       ,No,Ground
+FL-6424749,SPRUCE CREEK PRESERVE,Non-Adjusted,Marion (Primary),1302,Natural                       ,No,Ground
+FL-6424768,GOLDEN OCALA,Non-Adjusted,Marion (Primary),163,Natural                       ,No,Ground
+FL-6424785,OCALA PALMS,Non-Adjusted,Marion (Primary),1802,Natural                       ,No,Ground
+FL-6510050,ALOHA GARDENS UTILITIES,Consecutive,Pasco (Primary),7275,Natural                       ,No,Ground
+FL-6510165,BLUE JAY MHP,Non-Adjusted,Pasco (Primary),376,Natural                       ,No,Ground
+FL-6510216,CRYSTAL SPRINGS WATER SYSTEM,Non-Adjusted,Pasco (Primary),898,Natural                       ,No,Ground
+FL-6510324,PORT RICHEY WATER DEPT-CITY OF,Consecutive,Pasco (Primary),6805,H2SiF6,Yes,Ground
+FL-6510325,SAN ANTONIO WATER DEPT-CITY OF,Non-Adjusted,Pasco (Primary),1018,Natural                       ,No,Ground
+FL-6510355,COLONIAL MANOR WATER SYSTEM,Non-Adjusted,Pasco (Primary),1604,Natural                       ,No,Ground
+FL-6510378,COUNTRY AIRE ESTATES,Non-Adjusted,Pasco (Primary),72,Natural                       ,No,Ground
+FL-6510379,COUNTRY AIRE VILLAGE MHP,Non-Adjusted,Pasco (Primary),581,Natural                       ,No,Ground
+FL-6510389,COUNTRY VILLAGE MHP,Non-Adjusted,Pasco (Primary),72,Natural                       ,No,Ground
+FL-6510403,CRESTRIDGE GDNS. UTILITIES,Non-Adjusted,Pasco (Primary),1081,Natural                       ,No,Ground
+FL-6510424,DADE CITY WATER DEPT,Non-Adjusted,Pasco (Primary),12851,Natural                       ,No,Ground
+FL-6510461,DIXIE GROVES ESTATES,Non-Adjusted,Pasco (Primary),787,Natural                       ,No,Ground
+FL-6510603,PCUD-FLORIDA ESTATES (EAST PASCO),Consecutive,Pasco (Primary),514,Natural                       ,No,Ground
+FL-6510620,CYPRESS COVE - FOXWOOD,Non-Adjusted,Pasco (Primary),1420,Natural                       ,No,Ground
+FL-6510650,GEM ESTATES MH VILLAGE,Non-Adjusted,Pasco (Primary),378,Natural                       ,No,Ground
+FL-6510678,TROPIC BREEZE,Non-Adjusted,Pasco (Primary),112,Natural                       ,No,Ground
+FL-6510689,GREENHILLS ESTATES,Non-Adjusted,Pasco (Primary),215,Natural                       ,No,Ground
+FL-6510709,HACIENDA VILLAGE MHP,Non-Adjusted,Pasco (Primary),858,Natural                       ,No,Ground
+FL-6510760,PCUD-HICKORY HILL (EAST PASCO),Non-Adjusted,Pasco (Primary),334,Natural                       ,No,Ground
+FL-6510778,"HILLCREST ESTATES, INC.",Non-Adjusted,Pasco (Primary),116,Natural                       ,No,Ground
+FL-6510807,HOLIDAY GARDENS UTIL INC,Non-Adjusted,Pasco (Primary),792,Natural                       ,No,Ground
+FL-6511076,LINDA LAKE GROVES,Non-Adjusted,Pasco (Primary),253,Natural                       ,No,Ground
+FL-6511077,GULF HARBORS,Non-Adjusted,Pasco (Primary),8146,Natural                       ,No,Ground
+FL-6511255,NEW PORT RICHEY WATER DEPT,Adjusted,Pasco (Primary),29506,H2SiF6,Yes,Ground
+FL-6511307,ORANGELAND SUBDIVISION,Non-Adjusted,Pasco (Primary),166,Natural                       ,No,Ground
+FL-6511311,ORANGEWOOD WATER SYSTEM,Non-Adjusted,Pasco (Primary),5308,Natural                       ,No,Ground
+FL-6511315,OSCEOLA MOBILE HOME PARK,Non-Adjusted,Pasco (Primary),114,Natural                       ,No,Ground
+FL-6511331,PALM TERRACE GARDENS,Consecutive,Pasco (Primary),2274,Natural                       ,No,Ground
+FL-6511332,PALM TREE ACRES MHP,Non-Adjusted,Pasco (Primary),447,Natural                       ,No,Ground
+FL-6511348,PARKVIEW ACRES,Non-Adjusted,Pasco (Primary),170,Natural                       ,No,Ground
+FL-6511360,ANGUS VALLEY,Non-Adjusted,Pasco (Primary),1607,Natural                       ,No,Ground
+FL-6511361,PCUD-WEST,Consecutive,Pasco (Primary),191710,Natural                       ,No,Ground
+FL-6511388,PCUD-PINE BREEZE (EAST PASCO),Non-Adjusted,Pasco (Primary),156,Natural                       ,No,Ground
+FL-6511423,SUMMER-TREE,Non-Adjusted,Pasco (Primary),2548,Natural                       ,No,Ground
+FL-6511569,S PRETTY POND MHP,Non-Adjusted,Pasco (Primary),72,Natural                       ,No,Ground
+FL-6511710,ST.LEO ABBEY WATER DEPT,Non-Adjusted,Pasco (Primary),224,Natural                       ,No,Ground
+FL-6511745,PCUD-SUNBURST HILL(EAST PASCO),Non-Adjusted,Pasco (Primary),453,Natural                       ,No,Ground
+FL-6511824,TIPPECANOE VILLAGE HOMEOWN ASS,Non-Adjusted,Pasco (Primary),429,Natural                       ,No,Ground
+FL-6511850,TRAVELERS REST RESORT INC,Non-Adjusted,Pasco (Primary),1252,Natural                       ,No,Ground
+FL-6511859,TROPICAL TRAILER PARK,Non-Adjusted,Pasco (Primary),224,Natural                       ,No,Ground
+FL-6511907,VIRGINIA CITY,Consecutive,Pasco (Primary),704,Natural                       ,No,Ground
+FL-6511953,WESTWOOD S/D (LOREN ECOFF MGR),Non-Adjusted,Pasco (Primary),308,Natural                       ,No,Ground
+FL-6512004,WOODDALE MHP,Non-Adjusted,Pasco (Primary),238,Natural                       ,No,Ground
+FL-6512018,ZEPHYR SHORES MOBILE HOME EST,Non-Adjusted,Pasco (Primary),874,Natural                       ,No,Ground
+FL-6512020,ZEPHYRHILLS  CITY OF,Non-Adjusted,Pasco (Primary),20652,Natural                       ,No,Ground
+FL-6512033,BLANTON LAKE PARK,Non-Adjusted,Pasco (Primary),123,Natural                       ,No,Ground
+FL-6512064,TURTLE LAKE S/D,Non-Adjusted,Pasco (Primary),6278,Natural                       ,No,Ground
+FL-6512069,ORANGEWOOD LAKES MHP,Non-Adjusted,Pasco (Primary),404,Natural                       ,No,Ground
+FL-6512070,JASMINE LAKES UTL,Consecutive,Pasco (Primary),2960,Natural                       ,No,Ground
+FL-6512177,ANCLOTE VILLAGE,Consecutive,Pasco (Primary),1124,H2SiF6,Yes,Ground
+FL-6512182,CARIBBEAN MOBILE HOME ESTATES,Non-Adjusted,Pasco (Primary),111,Natural                       ,No,Ground
+FL-6512198,LAKE BAMBI MH RANCH,Non-Adjusted,Pasco (Primary),89,Natural                       ,No,Ground
+FL-6512200,PCUD-NORTHEAST,Non-Adjusted,Pasco (Primary),832,Natural                       ,No,Ground
+FL-6512205,PCUD-PASADENA SHORES(E PASCO),Non-Adjusted,Pasco (Primary),102,Natural                       ,No,Ground
+FL-6512214,SEVEN SPRINGS,Consecutive,Pasco (Primary),29358,Natural                       ,No,Ground
+FL-6512226,HUDSON WATER WORKS,Non-Adjusted,Pasco (Primary),6974,Natural                       ,No,Ground
+FL-6512230,TAMPA BAY WATER -CYPRESS CREEK,Non-Adjusted,Pasco (Primary),22,Natural                       ,No,Ground
+FL-6512309,HOLIDAY OAKS CONDO ASSN,Non-Adjusted,Pasco (Primary),45,Natural                       ,No,Ground
+FL-6512537,LAKESIDE OAKS MHP,Non-Adjusted,Pasco (Primary),54,Natural                       ,No,Ground
+FL-6514120,PCUD-SOUTHEAST #2,Non-Adjusted,Pasco (Primary),493,Natural                       ,No,Ground
+FL-6514545,PARADISE LAKES,Non-Adjusted,Pasco (Primary),1049,Natural                       ,No,Ground
+FL-6514837,TIMBER LAKES ESTATES,Non-Adjusted,Pasco (Primary),1095,Natural                       ,No,Ground
+FL-6514838,RAMBLEWOOD MHP,Non-Adjusted,Pasco (Primary),359,Natural                       ,No,Ground
+FL-6514841,FOREST GREEN MHP,Non-Adjusted,Pasco (Primary),253,Natural                       ,No,Ground
+FL-6514842,LABRADOR UTILITIES INC.,Non-Adjusted,Pasco (Primary),2107,Natural                       ,No,Ground
+FL-6514852,CHELSEA MEADOWS / WATERS EDGE,Non-Adjusted,Pasco (Primary),107,Natural                       ,No,Ground
+FL-6514862,HUDSON HOUSE ALF,Non-Adjusted,Pasco (Primary),40,Natural                       ,No,Ground
+FL-6514873,GLENDALE VILLAS / LOL VILLAGE APTS,Non-Adjusted,Pasco (Primary),266,Natural                       ,No,Ground
+FL-6515161,ST. LEO UNIVERSITY,Non-Adjusted,Pasco (Primary),268,Natural                       ,No,Ground
+FL-6515179,SOUTH FORK MHP,Non-Adjusted,Pasco (Primary),215,Natural                       ,No,Ground
+FL-6515208,KEENE'S ADULT M.H.P.,Non-Adjusted,Pasco (Primary),72,Natural                       ,No,Ground
+FL-6515234,TAMPA BAY WATER/LAKE BRIDGE,Consecutive,Pasco (Primary),22,Natural                       ,No,Ground
+FL-6515250,PCUD-LAKE JOVITA GOLF AND C.C.,Non-Adjusted,Pasco (Primary),1609,Natural                       ,No,Ground
+FL-6515275,TBW/S. PASCO WELLFIELD CHEM. FEED SYS.,Non-Adjusted,Pasco (Primary),22,Natural                       ,No,Ground
+FL-6520135,BELLEAIR WATER PLANT,Adjusted,Pinellas (Primary),4738,H2SiF6,Yes,Ground
+FL-6520336,CLEARWATER WATER SYSTEM,Consecutive,Pinellas (Primary),98354,H2SiF6,Yes,Ground
+FL-6520486,DUNEDIN WATER SYSTEM,Adjusted,Pinellas (Primary),38997,H2SiF6,Yes,Ground
+FL-6520705,GULFPORT WATER SYSTEM,Consecutive,Pinellas (Primary),11266,H2SiF6,Yes,Ground
+FL-6521000,LAKE TARPON MOBILE HOME VILLAG,Consecutive,Pinellas (Primary),1149,H2SiF6,Yes,Ground
+FL-6521405,PINELLAS COUNTY UTILITIES,Adjusted,Pinellas (Primary),401747,H2SiF6,Yes,Ground
+FL-6521406,PINELLAS PARK WATER DEPT,Consecutive,Pinellas (Primary),43758,H2SiF6,Yes,Ground
+FL-6521417,OLDSMAR WATER SYSTEM,Adjusted,Pinellas (Primary),13171,H2SiF6,Yes,Ground
+FL-6521576,SAFETY HARBOR WATER DEPT,Consecutive,Pinellas (Primary),14729,H2SiF6,Yes,Ground
+FL-6521680,SOUTHERN COMFORT MHP,Consecutive,Pinellas (Primary),329,H2SiF6,Yes,Ground
+FL-6521715,"ST PETERSBURG, CITY OF",Adjusted,Pinellas (Primary),271830,H2SiF6,Yes,Ground
+FL-6521784,TARPON SPRINGS WATER SYSTEM,Consecutive,Pinellas (Primary),27195,H2SiF6,Yes,Ground
+FL-6524777,INNISBROOK RESORT AND GOLF CLUB,Consecutive,Pinellas (Primary),1252,H2SiF6,Yes,Ground
+FL-6530057,ALTURAS UTILITIES,Non-Adjusted,Polk (Primary),268,Natural                       ,No,Ground
+FL-6530079,GIBSONIA ESTATES WATER SYSTEM,Non-Adjusted,Polk (Primary),370,Natural                       ,No,Ground
+FL-6530090,"AUBURNDALE, CITY OF",Adjusted,Polk (Primary),27504,Na2SiF6 Dry,Yes,Ground
+FL-6530091,G & H MHP,Non-Adjusted,Polk (Primary),72,Natural                       ,No,Ground
+FL-6530098,BABSON PARK,Non-Adjusted,Polk (Primary),1932,Natural                       ,No,Ground
+FL-6530170,BOB'S LANDING MOBILE HOME PARK,Non-Adjusted,Polk (Primary),89,Natural                       ,No,Ground
+FL-6530261,CHRISTMAS TREE TP,Non-Adjusted,Polk (Primary),54,Natural                       ,No,Ground
+FL-6530262,LA CASA CONDO,Non-Adjusted,Polk (Primary),128,Natural                       ,No,Ground
+FL-6530315,"BARTOW, CITY OF",Adjusted,Polk (Primary),19225,H2SiF6,Yes,Ground
+FL-6530320,"FT. MEADE, CITY OF",Non-Adjusted,Polk (Primary),4877,Natural                       ,No,Ground
+FL-6530321,"LAKE ALFRED, CITY OF",Adjusted,Polk (Primary),4993,H2SiF6,Yes,Ground
+FL-6530399,MOUSE MOUNTAIN RV RESORT/MHP,Non-Adjusted,Polk (Primary),536,Natural                       ,No,Ground
+FL-6530407,CROFT'S MOB HM PK,Non-Adjusted,Polk (Primary),36,Natural                       ,No,Ground
+FL-6530408,PARK WATER COMPANY,Non-Adjusted,Polk (Primary),1742,Natural                       ,No,Ground
+FL-6530418,CYPRESS GARDENS FAMILY CAMPGD.,Non-Adjusted,Polk (Primary),224,Natural                       ,No,Ground
+FL-6530431,"DAVENPORT, CITY OF",Non-Adjusted,Polk (Primary),5126,Natural                       ,No,Ground
+FL-6530485,"DUNDEE, TOWN OF",Non-Adjusted,Polk (Primary),3419,Natural                       ,No,Ground
+FL-6530492,"EAGLE LAKE, CITY OF",Non-Adjusted,Polk (Primary),2325,Natural                       ,No,Ground
+FL-6530521,ELIMS MHP,Non-Adjusted,Polk (Primary),69,Natural                       ,No,Ground
+FL-6530573,FISH HAVEN LODGE,Non-Adjusted,Polk (Primary),59,Natural                       ,No,Ground
+FL-6530617,NORTHEAST,Non-Adjusted,Polk (Primary),54146,Natural                       ,No,Ground
+FL-6530623,TWIN FOUNTAIN MOBILE HOME PARK,Non-Adjusted,Polk (Primary),335,Natural                       ,No,Ground
+FL-6530627,"FROSTPROOF, CITY OF",Non-Adjusted,Polk (Primary),3174,Natural                       ,No,Ground
+FL-6530677,CYPRESS ACRES MOBILE HOME PARK,Non-Adjusted,Polk (Primary),70,Natural                       ,No,Ground
+FL-6530686,GREEN ACRES S/D/CO. UTILITIES,Non-Adjusted,Polk (Primary),671,Natural                       ,No,Ground
+FL-6530692,GRENELEFE SUBDIVISION,Non-Adjusted,Polk (Primary),1890,Natural                       ,No,Ground
+FL-6530698,GROVE SHORES MOB HC,Non-Adjusted,Polk (Primary),89,Natural                       ,No,Ground
+FL-6530717,HAMMOCK LAKE MOBILE HOME PARK,Non-Adjusted,Polk (Primary),89,Natural                       ,No,Ground
+FL-6530718,HAMMONDELL CAMPSITES,Non-Adjusted,Polk (Primary),246,Natural                       ,No,Ground
+FL-6530723,HAPPY DAY TR. PK.,Non-Adjusted,Polk (Primary),109,Natural                       ,No,Ground
+FL-6530746,SHADY OAKS MOBILE HOME PARK,Non-Adjusted,Polk (Primary),72,Natural                       ,No,Ground
+FL-6530772,HIGHLAND PARK,Non-Adjusted,Polk (Primary),220,Natural                       ,No,Ground
+FL-6530840,OAK MEADOWS MHP,Non-Adjusted,Polk (Primary),179,Natural                       ,No,Ground
+FL-6530852,SOUTHWEST/POLK COUNTY UTILITY,Consecutive,Polk (Primary),35058,H2SiF6,Yes,Ground
+FL-6530870,KATHLEEN OAKS MHP,Non-Adjusted,Polk (Primary),31,Natural                       ,No,Ground
+FL-6530915,BRIARWOOD ESTATES,Non-Adjusted,Polk (Primary),72,Natural                       ,No,Ground
+FL-6530956,CAMP INN RESORTS,Non-Adjusted,Polk (Primary),1341,Natural                       ,No,Ground
+FL-6530973,LAKE FRONT TRAILER PARK,Non-Adjusted,Polk (Primary),63,Natural                       ,No,Ground
+FL-6530977,"LAKE HAMILTON, TOWN OF",Consecutive,Polk (Primary),2173,H2SiF6,Yes,Ground
+FL-6530995,LAKE REGION MOBILE HOME VILLAG,Non-Adjusted,Polk (Primary),832,Natural                       ,No,Ground
+FL-6531000,PLANTATION LANDINGS,Non-Adjusted,Polk (Primary),536,Natural                       ,No,Ground
+FL-6531014,"LAKELAND, CITY OF",Adjusted,Polk (Primary),161652,H2SiF6,Yes,Ground
+FL-6531021,LAKESIDE RANCH INVESTMENT CORP,Non-Adjusted,Polk (Primary),291,Natural                       ,No,Ground
+FL-6531024,SNELL ISLE REALTY LLC,Non-Adjusted,Polk (Primary),179,Natural                       ,No,Ground
+FL-6531052,LAUREL MOBILE HOME PARK/MOTEL,Non-Adjusted,Polk (Primary),89,Natural                       ,No,Ground
+FL-6531107,LUCERNE PARK MOBILE HOME PARK,Non-Adjusted,Polk (Primary),250,Natural                       ,No,Ground
+FL-6531161,MAYGROVE MHP,Non-Adjusted,Polk (Primary),125,Natural                       ,No,Ground
+FL-6531222,CHAPMAN'S M.H.P.,Non-Adjusted,Polk (Primary),161,Natural                       ,No,Ground
+FL-6531226,MOUNTAIN LAKE ESTATES,Non-Adjusted,Polk (Primary),268,Natural                       ,No,Ground
+FL-6531237,"MULBERRY, CITY OF-",Non-Adjusted,Polk (Primary),3380,Natural                       ,No,Ground
+FL-6531265,NORTH POINTE S/D,Non-Adjusted,Polk (Primary),172,Natural                       ,No,Ground
+FL-6531271,COUNTRY VILLA MHP,Non-Adjusted,Polk (Primary),57,Natural                       ,No,Ground
+FL-6531305,ORANGE HILL - SUGAR CREEK,Non-Adjusted,Polk (Primary),579,Natural                       ,No,Ground
+FL-6531313,ORCHID SPRINGS,Non-Adjusted,Polk (Primary),671,Natural                       ,No,Ground
+FL-6531328,PALM SHORES MH COL,Non-Adjusted,Polk (Primary),31,Natural                       ,No,Ground
+FL-6531340,PARADISE ISLAND S/D,Non-Adjusted,Polk (Primary),240,Natural                       ,No,Ground
+FL-6531350,PARKWAY MHP,Non-Adjusted,Polk (Primary),45,Natural                       ,No,Ground
+FL-6531396,PINE RIDGE ESTATES,Non-Adjusted,Polk (Primary),46,Natural                       ,No,Ground
+FL-6531397,PINE LAKE MOBILE HOME PARK,Non-Adjusted,Polk (Primary),111,Natural                       ,No,Ground
+FL-6531424,POLK CITY SYSTEM CITY LAKELAND,Non-Adjusted,Polk (Primary),2296,Natural                       ,No,Ground
+FL-6531426,POLK CORRECTIONAL INST,Non-Adjusted,Polk (Primary),1341,Natural                       ,No,Ground
+FL-6531527,LAKEMONT RIDGE HOME & RV PARK,Non-Adjusted,Polk (Primary),419,Natural                       ,No,Ground
+FL-6531572,SADDLEBAG LAKE RESORT,Non-Adjusted,Polk (Primary),1073,Natural                       ,No,Ground
+FL-6531584,LIME TREE MOBILE HOME PARK,Non-Adjusted,Polk (Primary),63,Natural                       ,No,Ground
+FL-6531596,SCENIC VIEW MHP,Non-Adjusted,Polk (Primary),107,Natural                       ,No,Ground
+FL-6531657,PROCTOR'S MHP,Non-Adjusted,Polk (Primary),76,Natural                       ,No,Ground
+FL-6531697,SPRING LAKE TRAILER PARK,Non-Adjusted,Polk (Primary),49,Natural                       ,No,Ground
+FL-6531739,SUNRISE UTILITIES,Non-Adjusted,Polk (Primary),653,Natural                       ,No,Ground
+FL-6531742,SOUTHEAST,Non-Adjusted,Polk (Primary),2529,Natural                       ,No,Ground
+FL-6531751,ENCHANTED GROVE MHP,Non-Adjusted,Polk (Primary),206,Natural                       ,No,Ground
+FL-6531792,LINCOLN PK MHP C/O JOE EDWARDS,Non-Adjusted,Polk (Primary),27,Natural                       ,No,Ground
+FL-6531796,"PINES, THE",Consecutive,Polk (Primary),452,H2SiF6,Yes,Ground
+FL-6531812,THREE WORLDS CAMP RESORT,Non-Adjusted,Polk (Primary),45,Natural                       ,No,Ground
+FL-6531837,TOWER MANOR ESTATES,Non-Adjusted,Polk (Primary),277,Natural                       ,No,Ground
+FL-6531873,HIGHLAND PINES MOBILE HOME PK,Non-Adjusted,Polk (Primary),32,Natural                       ,No,Ground
+FL-6531917,WAHNETA WATER SYSTEM,Non-Adjusted,Polk (Primary),4024,Natural                       ,No,Ground
+FL-6531923,LINWOOD OAKS M.H.P.,Non-Adjusted,Polk (Primary),70,Natural                       ,No,Ground
+FL-6531955,WHIDDEN MOBILE HOME PARK,Non-Adjusted,Polk (Primary),126,Natural                       ,No,Ground
+FL-6531957,WHISPERING PINES MHP,Non-Adjusted,Polk (Primary),192,Natural                       ,No,Ground
+FL-6531991,WINTER HAVEN MHP,Non-Adjusted,Polk (Primary),426,Natural                       ,No,Ground
+FL-6531992,WINTER HAVEN WATER DEPT.,Adjusted,Polk (Primary),63173,H2SiF6,Yes,Ground
+FL-6531993,WINTERSET SHORES EST,Non-Adjusted,Polk (Primary),46,Natural                       ,No,Ground
+FL-6532232,"HAINES CITY, CITY OF",Adjusted,Polk (Primary),27311,H2SiF6,Yes,Ground
+FL-6532234,"LAKE WALES, CITY OF",Non-Adjusted,Polk (Primary),16740,Natural                       ,No,Ground
+FL-6532235,NEW HARMONY M H P,Non-Adjusted,Polk (Primary),23,Natural                       ,No,Ground
+FL-6532236,TEN ROCKS MHP,Non-Adjusted,Polk (Primary),97,Natural                       ,No,Ground
+FL-6532277,LAKE GARFIELD EST./POLK CO.UTL,Non-Adjusted,Polk (Primary),265,Natural                       ,No,Ground
+FL-6532339,PEAK HAVEN PARK,Non-Adjusted,Polk (Primary),49,Natural                       ,No,Ground
+FL-6532344,SHEPHERD S/D,Non-Adjusted,Polk (Primary),89,Natural                       ,No,Ground
+FL-6532345,MOUNT OLIVE ESTATES,Non-Adjusted,Polk (Primary),2436,Natural                       ,No,Ground
+FL-6532347,LAKE GIBSON ESTATES,Non-Adjusted,Polk (Primary),1696,Natural                       ,No,Ground
+FL-6532348,NORTHWEST,Non-Adjusted,Polk (Primary),25109,Natural                       ,No,Ground
+FL-6532352,FAIRVIEW VILLAGE,Non-Adjusted,Polk (Primary),139,Natural                       ,No,Ground
+FL-6532354,VALHALLA,Non-Adjusted,Polk (Primary),107,Natural                       ,No,Ground
+FL-6532497,PADGETT ESTATES,Consecutive,Polk (Primary),159,H2SiF6,Yes,Ground
+FL-6532587,FOXWOOD LAKE ESTATES,Consecutive,Polk (Primary),1624,H2SiF6,Yes,Ground
+FL-6532715,SWISS VILLAGE MHP TENNIS &ampGOLF,Non-Adjusted,Polk (Primary),1261,Natural                       ,No,Ground
+FL-6532718,DAVENPORT MOB EST,Non-Adjusted,Polk (Primary),349,Natural                       ,No,Ground
+FL-6532779,VILLAGE WATER LTD.,Consecutive,Polk (Primary),441,H2SiF6,Yes,Ground
+FL-6532781,ARROW LEE APARTMENT,Non-Adjusted,Polk (Primary),63,Natural                       ,No,Ground
+FL-6532863,WOODLAND LAKES MHP,Non-Adjusted,Polk (Primary),336,Natural                       ,No,Ground
+FL-6534223,SOUTH SHORE RESORT,Non-Adjusted,Polk (Primary),54,Natural                       ,No,Ground
+FL-6534441,TOWERWOOD MOBILE HOME PARK,Non-Adjusted,Polk (Primary),268,Natural                       ,No,Ground
+FL-6534553,STW PROPERTY DUPLEXES,Non-Adjusted,Polk (Primary),89,Natural                       ,No,Ground
+FL-6534609,CENTRAL,Non-Adjusted,Polk (Primary),12156,Natural                       ,No,Ground
+FL-6534736,HIDDEN COVE MHP,Non-Adjusted,Polk (Primary),215,Natural                       ,No,Ground
+FL-6534766,VAN LAKES,Non-Adjusted,Polk (Primary),308,Natural                       ,No,Ground
+FL-6534771,PLEASANT VIEW MHP,Non-Adjusted,Polk (Primary),27,Natural                       ,No,Ground
+FL-6534834,GOOD LIFE RV RESORT,Non-Adjusted,Polk (Primary),95,Natural                       ,No,Ground
+FL-6534868,TIMBER CREEK SUBDIVISION,Consecutive,Polk (Primary),497,H2SiF6,Yes,Ground
+FL-6534880,SPRING HILL MHP,Non-Adjusted,Polk (Primary),683,Natural                       ,No,Ground
+FL-6534886,SUNLAKE TERRACE ESTATES,Non-Adjusted,Polk (Primary),894,Natural                       ,No,Ground
+FL-6534902,HICKORY LAKE ESTATES,Non-Adjusted,Polk (Primary),102,Natural                       ,No,Ground
+FL-6534918,CAREFREE RV SUBDIVISION,Non-Adjusted,Polk (Primary),701,Natural                       ,No,Ground
+FL-6534994,WILLOW OAK ESTATES,Non-Adjusted,Polk (Primary),97,Natural                       ,No,Ground
+FL-6534996,ORANGE ACRES RANCH,Non-Adjusted,Polk (Primary),179,Natural                       ,No,Ground
+FL-6534999,COUNTRY CLASS POLK,Non-Adjusted,Polk (Primary),229,Natural                       ,No,Ground
+FL-6535026,CENTRAL LEISURE LAKE MPH & RV,Non-Adjusted,Polk (Primary),173,Natural                       ,No,Ground
+FL-6535055,"CYPRESS LAKE UTILITIES, INC",Non-Adjusted,Polk (Primary),3056,Natural                       ,No,Ground
+FL-6535063,SOUTHERN OAKS MHP,Non-Adjusted,Polk (Primary),22,Natural                       ,No,Ground
+FL-6535064,SWISS GOLF & TENNIS CLUB,Non-Adjusted,Polk (Primary),1699,Natural                       ,No,Ground
+FL-6535070,Lelynn RV Resort,Non-Adjusted,Polk (Primary),313,Natural                       ,No,Ground
+FL-6535079,PINECREST UTILITIE LLC,Non-Adjusted,Polk (Primary),362,Natural                       ,No,Ground
+FL-6535084,GREEN ACRES MOBILE HOME PARK,Non-Adjusted,Polk (Primary),55,Natural                       ,No,Ground
+FL-6535097,BAILEY PLACE MHP,Non-Adjusted,Polk (Primary),134,Natural                       ,No,Ground
+FL-6535171,SWEETWATER COMMUNITY INC.,Non-Adjusted,Polk (Primary),572,Natural                       ,No,Ground
+FL-6535235,KEEN MOBILE HOME SUBDIVISION,Non-Adjusted,Polk (Primary),237,Natural                       ,No,Ground
+FL-6535242,SOUTHERN PINES/JAMES ANDREWS,Non-Adjusted,Polk (Primary),358,Natural                       ,No,Ground
+FL-6535269,LAKE HENRY ESTATES,Non-Adjusted,Polk (Primary),429,Natural                       ,No,Ground
+FL-6535304,"BRADLEY JUNCTION, TOWN OF",Non-Adjusted,Polk (Primary),1127,Natural                       ,No,Ground
+FL-6535360,FOUR LAKES GOLF CLUB,Non-Adjusted,Polk (Primary),1431,Natural                       ,No,Ground
+FL-6535393,MCLEOD GARDENS WATER SYSTEM,Non-Adjusted,Polk (Primary),340,Natural                       ,No,Ground
+FL-6535463,RAINBOW RESORT,Non-Adjusted,Polk (Primary),671,Natural                       ,No,Ground
+FL-6535676,DEER CREEK GOLF & RV RESORT,Consecutive,Polk (Primary),1162,Natural                       ,No,Ground
+FL-6535704,ISLAND CLUB WEST,Consecutive,Polk (Primary),692,Natural                       ,No,Ground
+FL-6535707,WAVERLY WATER SYSTEM,Non-Adjusted,Polk (Primary),1322,Natural                       ,No,Ground
+FL-6580326,SARASOTA-CITY OF,Natural,Sarasota (Primary),49503,Natural                       ,Yes,Ground
+FL-6580531,ENGLEWOOD WATER DIST,Non-Adjusted,Sarasota (Primary),33981,Natural                       ,No,Ground
+FL-6580600,FLORIDA PINES MOBILE HOME PARK,Non-Adjusted,Sarasota (Primary),250,Natural                       ,No,Ground
+FL-6580651,NORTH PORT UTILITIES,Consecutive,Sarasota (Primary),43825,Natural                       ,No,Surface
+FL-6581246,MYAKKA MOBILE HOME CT,Non-Adjusted,Sarasota (Primary),138,Natural                       ,No,Ground
+FL-6581591,SARASOTA CO SPECIAL UTIL DIST,Consecutive,Sarasota (Primary),152904,H2SiF6,Yes,Surface
+FL-6581741,SUN N FUN RESORT INC,Non-Adjusted,Sarasota (Primary),3398,Natural                       ,No,Ground
+FL-6581900,VENICE RANCH MOBILE HOME ESTAT,Non-Adjusted,Sarasota (Primary),264,Natural                       ,No,Ground
+FL-6581901,VENICE WATER DEPT  CITY OF,Non-Adjusted,Sarasota (Primary),28038,Natural                       ,No,Ground
+FL-6581987,WINDWARD ISLE MHP WATER SYSTEM,Non-Adjusted,Sarasota (Primary),273,Natural                       ,No,Ground
+FL-6582294,LAKE TIPPECANOE,Non-Adjusted,Sarasota (Primary),337,Natural                       ,No,Ground
+FL-6582544,KINGS GATE CLUB,Non-Adjusted,Sarasota (Primary),749,Natural                       ,No,Ground
+FL-6584439,CAMELOT LAKES,Non-Adjusted,Sarasota (Primary),1520,Natural                       ,No,Ground
+FL-6588003,PLURIS - SOUTH GATE UTILITIES,Consecutive,Sarasota (Primary),14214,H2SiF6,Yes,Surface
+FL-6600210,CITY OF BUSHNELL,Non-Adjusted,Sumter (Primary),1886,Natural                       ,No,Ground
+FL-6600316,CENTER HILL WATER DEPT-CITY OF,Non-Adjusted,Sumter (Primary),681,Natural                       ,No,Ground
+FL-6600330,WEBSTER-CITY OF,Non-Adjusted,Sumter (Primary),715,Natural                       ,No,Ground
+FL-6600331,WILDWOOD-CITY OF,Non-Adjusted,Sumter (Primary),20147,Natural                       ,No,Ground
+FL-6600347,THE WOODS  (USA UTIL.),Non-Adjusted,Sumter (Primary),193,Natural                       ,No,Ground
+FL-6600533,WEBSTER MOBILE & TRAVEL PARK,Non-Adjusted,Sumter (Primary),139,Natural                       ,No,Ground
+FL-6600990,LAKE PANASOFFKEE WATER ASSN,Non-Adjusted,Sumter (Primary),4151,Natural                       ,No,Ground
+FL-6601062,LEISURE TIME MOBILE HOME PARK,Non-Adjusted,Sumter (Primary),100,Natural                       ,No,Ground
+FL-6601345,CAROLYN & RON'S FAMILY PARK,Non-Adjusted,Sumter (Primary),54,Natural                       ,No,Ground
+FL-6601460,RAILS END TR PK,Non-Adjusted,Sumter (Primary),134,Natural                       ,No,Ground
+FL-6601467,OAK TREE CIRCLE PARK LLC,Non-Adjusted,Sumter (Primary),22,Natural                       ,No,Ground
+FL-6601737,SUMTER CORRECTIONAL INST,Non-Adjusted,Sumter (Primary),1795,Natural                       ,No,Ground
+FL-6601866,TURTLEBACK RV AND MOBILE HOME PARK,Non-Adjusted,Sumter (Primary),179,Natural                       ,No,Ground
+FL-6604824,OAKLAND HILLS,Non-Adjusted,Sumter (Primary),939,Natural                       ,No,Ground
+FL-6604861,CITY OF COLEMAN WTP,Non-Adjusted,Sumter (Primary),737,Natural                       ,No,Ground
+FL-6604862,LITTLE SUMTER UTILITIES #1,Non-Adjusted,Sumter (Primary),22695,Natural                       ,No,Ground
+FL-6605002,JUMPER CREEK MANOR,Non-Adjusted,Sumter (Primary),45,Natural                       ,No,Ground
+FL-6605012,NORTH SUMTER UTILITY,Non-Adjusted,Sumter (Primary),39804,Natural                       ,No,Ground
+FL-6605023,ORANGE BLOSSOM UTILITIES INC,Non-Adjusted,Sumter (Primary),300,Natural                       ,No,Ground
+FL-6605038,CENTRAL SUMTER UTILITY,Non-Adjusted,Sumter (Primary),17613,Natural                       ,No,Ground

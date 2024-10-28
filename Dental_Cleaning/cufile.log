@@ -1,0 +1,20 @@
+ 23-10-2024 16:12:12:871 [pid=2180 tid=2180] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 23-10-2024 16:12:12:871 [pid=2180 tid=2180] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 23-10-2024 16:12:12:872 [pid=2180 tid=2180] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 23-10-2024 16:12:12:872 [pid=2180 tid=2180] NOTICE  cufio-drv:727 running in compatible mode
+ 23-10-2024 16:12:12:872 [pid=2180 tid=2180] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 23-10-2024 16:12:12:872 [pid=2180 tid=2180] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 3060 Ti: Model Not Supported
+ 23-10-2024 16:12:12:872 [pid=2180 tid=2180] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 23-10-2024 16:12:12:983 [pid=2180 tid=2180] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 23-10-2024 16:13:54:474 [pid=2350 tid=2350] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 23-10-2024 16:13:54:474 [pid=2350 tid=2350] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 23-10-2024 16:13:54:474 [pid=2350 tid=2350] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 23-10-2024 16:13:54:474 [pid=2350 tid=2350] NOTICE  cufio-drv:727 running in compatible mode
+ 23-10-2024 16:13:54:474 [pid=2350 tid=2350] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 23-10-2024 16:13:54:475 [pid=2350 tid=2350] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 3060 Ti: Model Not Supported
+ 23-10-2024 16:13:54:475 [pid=2350 tid=2350] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 23-10-2024 16:13:54:589 [pid=2350 tid=2350] ERROR  cufio-topo-udev:431 no device entries present in platform topology
