@@ -1,7 +1,7 @@
 library(tidyverse)
 
 #view the fluoride data set
-fluoride_df <- read_csv("../Clean_Data/Flouride_2019-2023.csv")
+fluoride_df <- read_csv("../Clean_Data/Fluoride_2019-2023.csv")
 
 glimpse(fluoride_df)
 
@@ -172,18 +172,23 @@ sample_date_count <- microbiological_report %>% count(SAMPLEDATE)
 
 method_count <- microbiological_report %>% count(METHOD)
 
+microbiological_report <- microbiological_report %>% 
+  mutate(CHLORINERESIDUAL_Present = is.na(CHLORINERESIDUAL)
+                                  |is.numeric(CHLORINERESIDUAL))
+
 "---------------------------------------------------------------------------------------------------------------------------------------------------"
 
 chemical_report <- read_csv("../Clean_Data/Chemical_Report_2023_V1.csv")
 
+#each unique data point is associated with a differing report for each sample report
+
+#sample date can be used as group by filter
 
 
+subparth_count <- chemical_report %>% count(SUBPARTH)
 
 
-
-
-
-
+contam_group_count <- chemical_report %>% count(CONTAMGROUP)
 
 
 
